@@ -9,7 +9,7 @@ export const siteConfig = {
   brand: {
     name: 'Kakobuy',
     tagline: 'Your Trusted Fashion & Lifestyle Guide',
-    description: 'Comprehensive guides on shoes, clothing, hats and more. Quality specs, pricing insights, and logistics info ¡ª all in one place.',
+    description: 'Comprehensive guides on shoes, clothing, hats and more. Quality specs, pricing insights, and logistics info Â¡Âª all in one place.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
     logoText: 'Kakobuy',
@@ -32,19 +32,19 @@ export const siteConfig = {
     {
       id: 'shoes',
       name: 'Shoes',
-      icon: '??',
+      icon: '',
       description: 'Explore the world of sneakers, boots, and casual footwear. From iconic silhouettes to hidden gems.',
     },
     {
       id: 'clothes',
       name: 'Clothes',
-      icon: '??',
+      icon: '',
       description: 'From streetwear essentials to premium outerwear. Discover styles, fabrics, and fits.',
     },
     {
       id: 'hats',
       name: 'Hats',
-      icon: '??',
+      icon: '',
       description: 'Complete your look with caps, beanies, and bucket hats. Style meets function.',
     },
   ],

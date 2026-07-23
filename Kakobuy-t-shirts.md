@@ -1,4 +1,4 @@
-# Kakobuy T-Shirts 2026: Complete Guide to Premium Streetwear Tees
+﻿# Kakobuy T-Shirts 2026: Complete Guide to Premium Streetwear Tees
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
@@ -28,23 +28,23 @@ The following sections cover the top-performing products, material and construct
 
 The t-shirt category on Kakobuy is dominated by a handful of consistently high-performing products that combine brand recognition, quality construction, and accessible price points. Analyzing order volumes, buyer feedback, and quality inspection data reveals clear patterns about which tees deliver the best value in 2026.
 
-**Stussy T-shirt ??~$16.32**
+**Stussy T-shirt —~$16.32**
 
 The Stussy T-shirt leads the category in total order volume, with more than 2,400 units purchased through the platform in 2026. Priced at ~$16.32, this tee offers buyers an entry point into Stussy streetwear at roughly one-quarter of typical US retail cost. The quality pass rate stands at 94%, indicating that the vast majority of units received match listing descriptions in terms of fabric weight, print clarity, and stitching integrity. The garment uses a 230 GSM combed cotton with a relaxed fit that aligns with Stussy's current oversized silhouette trend. Buyers consistently note the softness of the fabric after the first wash, and the screen-printed graphics hold up well through multiple laundering cycles.
 
-**Palm Angels T-shirt ??~$15.93**
+**Palm Angels T-shirt —~$15.93**
 
 Palm Angels remains one of the most sought-after luxury streetwear labels, and the T-shirt at ~$15.93 represents strong value for the brand tier. Order data shows 1,850+ units moved through Kakobuy this year, with a quality pass rate of 92%. The tee is constructed from 240 GSM heavyweight cotton, featuring a boxy cut that matches Palm Angels' contemporary fit profile. For buyers interested in exploring more Palm Angels options on the platform, the [Kakobuy palm angels](/Kakobuy-palm-angels/) guide covers the full product range including hoodies, shorts, and seasonal graphics. The print quality uses multi-color screen printing, which creates a premium soft hand feel and better longevity.
 
-**Trapstar T-shirt ??~$11.21**
+**Trapstar T-shirt —~$11.21**
 
 At ~$11.21, the Trapstar T-shirt occupies the budget-friendly end of the Kakobuy t-shirts range. Despite the lower price point, it has attracted 1,200+ orders in 2026, driven by the brand's strong presence in UK streetwear circles. The quality pass rate of 91% reflects the complexity of the graphic execution, which involves multi-color screen printing on a 220 GSM cotton base. Buyers looking to compare this with other streetwear options can reference the [Kakobuy budget picks](/Kakobuy-budget-picks/) guide for a broader product overview. The tee features reinforced shoulder seams and a slightly dropped shoulder construction that contributes to its premium drape.
 
-**Essentials T-shirt ??~$9.73**
+**Essentials T-shirt —~$9.73**
 
 The Essentials T-shirt at ~$9.73 has become a staple purchase for buyers seeking minimalist streetwear aesthetics. With 2,100+ orders recorded and a 93% quality pass rate, this product demonstrates consistent performance across fabric weight, color accuracy, and logo print durability. The 210 GSM French terry cotton provides a slightly lighter feel than the Stussy or Palm Angels options, making it suitable for layering or warmer climate wear. The puff-print logo application is a signature element, and inspection data shows that fewer than 7% of units exhibit any deviation from the expected finish. For a deeper look at the Essentials range including seasonal colorways, the [Kakobuy essentials](/Kakobuy-essentials/) resource provides comprehensive coverage.
 
-**Stone Island T-shirt ??~$14.01**
+**Stone Island T-shirt —~$14.01**
 
 Rounding out the top five is the Stone Island T-shirt at ~$14.01, which has moved 1,600+ units this year. The 230 GSM cotton construction appeals to buyers who prioritize durability, and the 95% quality pass rate is the highest among the top sellers. The boxy, workwear-proportioned fit distinguishes it from the more fashion-oriented silhouettes of the other entries, and the embroidered chest logo provides a subtle branding option.
 

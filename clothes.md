@@ -12,27 +12,27 @@ const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvW
 
 const productTypes = [
   {
-    icon: '??',
+    icon: '',
     name: 'T-Shirts',
     desc: 'The foundation of any wardrobe. From heavyweight 220gsm cotton to lightweight jersey, fit ranges from boxy oversized to slim tailored. Key details include ribbed collars, reinforced seams, and pre-shrunk fabrics.'
   },
   {
-    icon: '??',
+    icon: '',
     name: 'Hoodies & Sweatshirts',
     desc: 'Midweight fleece (300-400gsm) provides warmth without bulk. French terry offers breathability for layering. Look for double-lined hoods, kangaroo pockets, and ribbed cuffs that maintain shape after washing.'
   },
   {
-    icon: '',
+    icon: 'ðŸ§¥',
     name: 'Jackets & Outerwear',
     desc: 'From lightweight windbreakers to insulated puffers. Key features include water-resistant coatings, sealed seams, adjustable hoods, and packable designs. Fill power (600-800) indicates down quality.'
   },
   {
-    icon: '??',
+    icon: 'ðŸ‘–',
     name: 'Pants & Jeans',
     desc: 'Denim weight ranges from 12oz (lightweight) to 16oz (heavyweight). Stretch denim adds comfort. Cargo pants feature utility pockets. Track pants use technical fabrics for athletic performance.'
   },
   {
-    icon: '??',
+    icon: 'ðŸ©³',
     name: 'Shorts',
     desc: 'Inseam length varies from 5" (athletic) to 11" (casual). Materials include cotton twill, nylon ripstop, and mesh-lined athletic fabrics. Elastic waistbands with drawstrings offer adjustable fit.'
   },
@@ -152,13 +152,13 @@ const brandOverview = [
 
 # The Complete Clothes Guide: Fabrics, Fits, and Style
 
-Clothing is more than just covering your body¡ªit is about expressing yourself, feeling comfortable, and making smart purchasing decisions. This guide breaks down everything from fabric weights to fit profiles, helping you choose pieces that last and look great.
+Clothing is more than just covering your bodyÂ¡Âªit is about expressing yourself, feeling comfortable, and making smart purchasing decisions. This guide breaks down everything from fabric weights to fit profiles, helping you choose pieces that last and look great.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
     <span class="btn-icon"></span>
     <span>View Clothes Spreadsheet</span>
-    <span class="btn-arrow">¡ú</span>
+    <span class="btn-arrow">Â¡Ãº</span>
   </a>
 </div>
 
@@ -290,8 +290,8 @@ Red flags that indicate poor manufacturing:
 
 Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
 
-- [Shoes Guide](/shoes) ¡ª Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
-- [Hats Guide](/hats) ¡ª Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
+- [Shoes Guide](/shoes) Â¡Âª Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
+- [Hats Guide](/hats) Â¡Âª Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
 
 <style scoped>
 .fabric-table-wrapper,
