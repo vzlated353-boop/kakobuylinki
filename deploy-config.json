@@ -1,0 +1,7 @@
+﻿{
+  "name": "Kakobuy Spreadsheet",
+  "domain": "Kakobuylinki.com",
+  "github": "Kakobuylinki",
+  "build": "npm run build",
+  "output": "dist"
+}
