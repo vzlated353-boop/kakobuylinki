@@ -1,4 +1,4 @@
-﻿<template>
+<template>
   <div class="blog-page">
     <div class="blog-container">
       <!-- Left: Article Cards (4/5) -->
@@ -1782,11 +1782,6 @@ const articleSeries = [
         "title": "Kakobuy Verified Sellers",
         "excerpt": "Verified products and sellers with quality assurance data and reliability ratings.",
         "link": "/Kakobuy-verified-sellers/"
-      },
-      {
-        "title": "Kakobuy Vs Kakobuy",
-        "excerpt": "Detailed platform comparison covering pricing, shipping, and service quality.",
-        "link": "/Kakobuy-vs-Kakobuy/"
       },
       {
         "title": "Kakobuy Warranty Guide",

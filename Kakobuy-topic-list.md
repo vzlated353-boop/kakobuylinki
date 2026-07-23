@@ -1,4 +1,4 @@
-﻿# Kakobuy Page Generation Topic List
+# Kakobuy Page Generation Topic List
 
 > Platform: Kakobuy
 > Spreadsheet Link: https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972
@@ -177,13 +177,7 @@ Generate ALL 37 articles listed below. Each article must:
 
 ## BATCH 4: Comparison Pages (4 articles)
 
-### Page 22: Kakobuy vs Kakobuy
-- File: Kakobuy /Kakobuy-vs-Kakobuy/
-- Keyword: Kakobuy vs Kakobuy
-- Focus: Head-to-head comparison, Kakobuy advantages
-- Internal links → Kakobuy spreadsheet best, Kakobuy reviews, Kakobuy alternative
-
-### Page 23: Kakobuy vs oopbuy
+### Page 22: Kakobuy vs oopbuy
 - File: Kakobuy /Kakobuy-vs-oopbuy/
 - Keyword: Kakobuy vs oopbuy
 - Focus: Head-to-head comparison, Kakobuy advantages

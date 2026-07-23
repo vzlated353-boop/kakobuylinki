@@ -1,4 +1,4 @@
-﻿# Kakobuy 项目全面审查报告
+# Kakobuy 项目全面审查报告
 
 **审查日期**: 2026-07-19  
 **审查范围**: 所有已发布—?Markdown 页面和文—? 
@@ -176,7 +176,6 @@ Price: ~$26.04 | 14oz Japanese selvedge denim | 98% cotton, 2% elastane | 380gsm
 **问题描述**: 平台对比文章可能缺乏客观性，影响 EEAT 可信—?
 **受影响文—?*:
 - Kakobuy /Kakobuy-vs-oopbuy/
-- Kakobuy /Kakobuy-vs-Kakobuy/
 - Kakobuy /Kakobuy-vs-litbuy/
 - Kakobuy /Kakobuy-vs-usfans/
 
