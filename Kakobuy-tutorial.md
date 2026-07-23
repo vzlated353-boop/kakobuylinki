@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Tutorial 2026: Step-by-Step Platform Walkthrough
+# Kakobuy Tutorial 2026: Step-by-Step Platform Walkthrough
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 - Hands-on tutorial walking through every Kakobuy feature
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Learning to use a new purchasing platform is much easier when you have a clear, hands-on tutorial to follow. This Kakobuy tutorial provides exactly that â€” a step-by-step walkthrough of every feature on the platform, from initial account setup to tracking your delivered package. Kakobuy has grown into one of the most trusted platforms in the alternative fashion market, serving thousands of buyers worldwide with over 22,000 verified product listings and maintaining a 93% buyer satisfaction rate.
+Learning to use a new purchasing platform is much easier when you have a clear, hands-on tutorial to follow. This Kakobuy tutorial provides exactly that ¡ª a step-by-step walkthrough of every feature on the platform, from initial account setup to tracking your delivered package. Kakobuy has grown into one of the most trusted platforms in the alternative fashion market, serving thousands of buyers worldwide with over 22,000 verified product listings and maintaining a 93% buyer satisfaction rate.
 
 Whether you are buying your first pair of sneakers or building a complete streetwear wardrobe, this tutorial covers everything you need to know. The platform offers 276 unique products across 30+ brands, with prices ranging from $1.30 for phone cases to $164.67 for premium tracksuits. With an average of 410+ orders per category monthly and a 72% repurchase rate, Kakobuy has proven its value to buyers at every experience level.
 
@@ -72,7 +72,7 @@ Click any product to open its detail page, which includes expanded photos, batch
 - **Quality pass rate**: The percentage of items from this batch that passed QC inspection. A 95% rate means 95 out of 100 items met quality standards.
 - **Order count**: Total units sold. Higher counts indicate proven reliability and consistent quality.
 
-**Accessing the spreadsheet**: The Kakobuy spreadsheet is the platform's master data tool. Click the spreadsheet link in the dashboard or use the direct link to <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>. The spreadsheet contains:
+**Accessing the spreadsheet**: The Kakobuy spreadsheet is the platform's master data tool. Click the spreadsheet link in the dashboard or use the direct link to <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>. The spreadsheet contains:
 
 - All 276 products with current pricing
 - Batch version history and availability
@@ -80,7 +80,7 @@ Click any product to open its detail page, which includes expanded photos, batch
 - Price change history showing trends
 - Stock status for each size and color variant
 
-**How to use the spreadsheet**: Sort by category, brand, or price to find what you need. Use the search function within the spreadsheet to locate specific products. Compare batch versions side by side to identify the best option for your priorities â€” whether that is lowest price, highest quality, or fastest availability.
+**How to use the spreadsheet**: Sort by category, brand, or price to find what you need. Use the search function within the spreadsheet to locate specific products. Compare batch versions side by side to identify the best option for your priorities ¡ª whether that is lowest price, highest quality, or fastest availability.
 
 For a deeper dive into spreadsheet analysis, our [Kakobuy first order](/Kakobuy-first-order/) guide includes practical examples of using this data to make purchasing decisions.
 
@@ -91,9 +91,9 @@ For a deeper dive into spreadsheet analysis, our [Kakobuy first order](/Kakobuy-
 **Checkout process**: Click the cart icon to review your selections. Verify the product, size, color, and quantity. Click "Proceed to Checkout."
 
 **Shipping selection**: Choose your shipping method:
-- Standard Shipping (12-18 days) â€” most economical
-- Express Shipping (7-10 days) â€” moderate cost
-- Priority Shipping (5-7 days) â€” premium pricing
+- Standard Shipping (12-18 days) ¡ª most economical
+- Express Shipping (7-10 days) ¡ª moderate cost
+- Priority Shipping (5-7 days) ¡ª premium pricing
 
 For first orders, Standard Shipping is recommended. Delivery to the US and EU typically takes 10-14 days total including processing time.
 
@@ -107,11 +107,11 @@ For first orders, Standard Shipping is recommended. Delivery to the US and EU ty
 
 **Action**: Wait for the QC photo notification. This typically arrives within 2-3 business days after payment confirmation.
 
-**Reviewing QC photos**: Open your dashboard and navigate to "Pending QC Reviews." You will see photos of your actual item â€” front, back, sides, close-ups of logos, stitching, and materials. Compare these photos against the product listing images.
+**Reviewing QC photos**: Open your dashboard and navigate to "Pending QC Reviews." You will see photos of your actual item ¡ª front, back, sides, close-ups of logos, stitching, and materials. Compare these photos against the product listing images.
 
 **Decision time**:
 - **Approve**: If the item matches your expectations, click "Approve." The item proceeds to packaging and shipping.
-- **Request changes**: If you notice issues â€” wrong color, visible defects, or significant differences â€” click "Request Replacement" or "Request Additional Photos." The support team responds within 24 hours.
+- **Request changes**: If you notice issues ¡ª wrong color, visible defects, or significant differences ¡ª click "Request Replacement" or "Request Additional Photos." The support team responds within 24 hours.
 
 **Shipping and tracking**: Once approved, your item ships within 1-2 business days. You receive a tracking number via email and dashboard notification. Track your package in real-time through the dashboard's shipping panel.
 
@@ -145,19 +145,19 @@ A: Kakobuy provides tracking for all shipments. If your package shows as deliver
 
 ## Conclusion
 
-This Kakobuy tutorial has provided a complete hands-on walkthrough of the platform â€” from account creation and product search to ordering, QC review, and delivery. With 276+ verified products, a 93% satisfaction rate, and transparent quality data, Kakobuy makes the purchasing process straightforward and reliable.
+This Kakobuy tutorial has provided a complete hands-on walkthrough of the platform ¡ª from account creation and product search to ordering, QC review, and delivery. With 276+ verified products, a 93% satisfaction rate, and transparent quality data, Kakobuy makes the purchasing process straightforward and reliable.
 
 The key takeaways from this tutorial are: complete your profile for faster checkout, use the spreadsheet for data-driven decisions, review QC photos carefully before approving, and track your shipment through the dashboard. These practices help you get the best results from every purchase.
 
-The platform's commitment to transparency â€” real QC photos, quality pass rates, batch version data â€” gives you confidence in every order. Whether you are buying a $6.18 pair of Calvin Klein Underwear or a $57.69 pair of Nike Dunks, the same verification process protects your purchase.
+The platform's commitment to transparency ¡ª real QC photos, quality pass rates, batch version data ¡ª gives you confidence in every order. Whether you are buying a $6.18 pair of Calvin Klein Underwear or a $57.69 pair of Nike Dunks, the same verification process protects your purchase.
 
-Ready to put this tutorial into practice? <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> to explore the full catalog and find your first product today.
+Ready to put this tutorial into practice? <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> to explore the full catalog and find your first product today.
 
 ---
 
 **Related Guides:**
-- [Kakobuy How to Use](/Kakobuy-how-to-use/) â€” Complete feature reference and navigation guide
-- [Kakobuy Step by Step](/Kakobuy-step-by-step/) â€” Quick-reference checklist for the ordering process
-- [Kakobuy First Order](/Kakobuy-first-order/) â€” Detailed guide focused specifically on your first purchase
+- [Kakobuy How to Use](/Kakobuy-how-to-use/) ¡ª Complete feature reference and navigation guide
+- [Kakobuy Step by Step](/Kakobuy-step-by-step/) ¡ª Quick-reference checklist for the ordering process
+- [Kakobuy First Order](/Kakobuy-first-order/) ¡ª Detailed guide focused specifically on your first purchase
 
 ---

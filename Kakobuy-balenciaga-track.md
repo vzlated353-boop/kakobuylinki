@@ -1,6 +1,6 @@
-﻿# Kakobuy Balenciaga Track 2026: Deep Dive into Balenciaga's Most Complex Sneaker
+# Kakobuy Balenciaga Track 2026: Deep Dive into Balenciaga's Most Complex Sneaker
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -138,7 +138,7 @@ The Kakobuy Balenciaga Track represents the absolute peak of sneaker engineering
 
 The key to a successful Track purchase is understanding the construction complexity, conducting a thorough QC photo review focusing on sole layer bonding and panel alignment, selecting the correct size based on the half-size-down recommendation, and choosing PK batch for the best results. The spreadsheet consolidates all available Track options with detailed batch information, quality ratings, and order volumes in one accessible resource, eliminating the uncertainty that typically accompanies luxury sneaker purchases.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Balenciaga Track listings, compare batch versions, and find the colorway that matches your vision. For buyers who appreciate technical design and are unwilling to compromise on quality, the Track delivers an unmatched combination of engineering ambition and wearable style at a price point that makes this level of craftsmanship accessible.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Balenciaga Track listings, compare batch versions, and find the colorway that matches your vision. For buyers who appreciate technical design and are unwilling to compromise on quality, the Track delivers an unmatched combination of engineering ambition and wearable style at a price point that makes this level of craftsmanship accessible.
 
 ---
 

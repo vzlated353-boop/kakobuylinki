@@ -1,19 +1,19 @@
-ï»¿ğŸ“Š Kakobuy æ–‡ç« é…ç½®æ£€æŸ¥æŠ¥å‘Š
+?? Kakobuy ÎÄÕÂÅäÖÃ¼ì²é±¨¸æ
 
-### ä¸€ã€æ€»ä½“ç»Ÿè®¡
+### Ò»¡¢×ÜÌåÍ³¼Æ
 
-| é¡¹ç›®                           | æ•°é‡    |
+| ÏîÄ¿                           | ÊıÁ¿    |
 | :--------------------------- | :---- |
-| **å®é™…æ–‡ç« æ–‡ä»¶æ€»æ•°**                 | 610 ç¯‡ |
-| **å·²åœ¨ BlogPage.vue ä¸­é…ç½®**      | 42 ç¯‡  |
-| **æœªåœ¨ BlogPage.vue ä¸­é…ç½®**      | 568 ç¯‡ |
-| **"is Kakobuy legit.md" æ–‡ä»¶** | âœ… å­˜åœ¨  |
+| **Êµ¼ÊÎÄÕÂÎÄ¼ş×ÜÊı**                 | 610 Æª |
+| **ÒÑÔÚ BlogPage.vue ÖĞÅäÖÃ**      | 42 Æª  |
+| **Î´ÔÚ BlogPage.vue ÖĞÅäÖÃ**      | 568 Æª |
+| **"is Kakobuy legit.md" ÎÄ¼ş** | ? ´æÔÚ  |
 
 ***
 
-### äºŒã€å·²é…ç½®çš„ 42 ç¯‡æ–‡ç« 
+### ¶ş¡¢ÒÑÅäÖÃµÄ 42 ÆªÎÄÕÂ
 
-#### 1. Getting Startedï¼ˆå…¥é—¨æŒ‡å—ï¼‰- 6 ç¯‡
+#### 1. Getting Started£¨ÈëÃÅÖ¸ÄÏ£©- 6 Æª
 
 - Kakobuy for beginners.md
 - Kakobuy how to use.md
@@ -22,7 +22,7 @@
 - Kakobuy shipping guide.md
 - Kakobuy payment guide.md
 
-#### 2. Top Categoriesï¼ˆé¡¶çº§åˆ†ç±»ï¼‰- 6 ç¯‡
+#### 2. Top Categories£¨¶¥¼¶·ÖÀà£©- 6 Æª
 
 - Kakobuy sneakers.md
 - Kakobuy clothes.md
@@ -31,7 +31,7 @@
 - Kakobuy bags.md
 - Kakobuy accessories.md
 
-#### 3. Popular Brandsï¼ˆçƒ­é—¨å“ç‰Œï¼‰- 6 ç¯‡
+#### 3. Popular Brands£¨ÈÈÃÅÆ·ÅÆ£©- 6 Æª
 
 - Kakobuy nike.md
 - Kakobuy jordan.md
@@ -40,7 +40,7 @@
 - Kakobuy essentials.md
 - Kakobuy palm angels.md
 
-#### 4. Save Moneyï¼ˆçœé’±æŠ€å·§ï¼‰- 6 ç¯‡
+#### 4. Save Money£¨Ê¡Ç®¼¼ÇÉ£©- 6 Æª
 
 - Kakobuy budget picks.md
 - Kakobuy coupon.md
@@ -49,7 +49,7 @@
 - Kakobuy budget hoodies.md
 - Kakobuy save money.md
 
-#### 5. Trust & Safetyï¼ˆä¿¡ä»»ä¸å®‰å…¨ï¼‰- 6 ç¯‡
+#### 5. Trust & Safety£¨ĞÅÈÎÓë°²È«£©- 6 Æª
 
 - is Kakobuy legit.md
 - Kakobuy legit check.md
@@ -58,7 +58,7 @@
 - Kakobuy reddit.md
 - Kakobuy vs Kakobuy.md
 
-#### 6. Spreadsheet & Toolsï¼ˆç”µå­è¡¨æ ¼ä¸å·¥å…·ï¼‰- 6 ç¯‡
+#### 6. Spreadsheet & Tools£¨µç×Ó±í¸ñÓë¹¤¾ß£©- 6 Æª
 
 - Kakobuy spreadsheet.md
 - Kakobuy spreadsheet best.md
@@ -67,7 +67,7 @@
 - Kakobuy spreadsheet jordan.md
 - Kakobuy spreadsheet link.md
 
-#### 7. Regional & Internationalï¼ˆåœ°åŒºä¸å›½é™…ï¼‰- 6 ç¯‡
+#### 7. Regional & International£¨µØÇøÓë¹ú¼Ê£©- 6 Æª
 
 - Kakobuy uk.md
 - Kakobuy canada.md
@@ -78,9 +78,9 @@
 
 ***
 
-### ä¸‰ã€æœªé…ç½®çš„ 568 ç¯‡æ–‡ç« ï¼ˆæŒ‰ç³»åˆ—åˆ†ç±»ï¼‰
+### Èı¡¢Î´ÅäÖÃµÄ 568 ÆªÎÄÕÂ£¨°´ÏµÁĞ·ÖÀà£©
 
-#### ğŸ“š Getting Started ç³»åˆ—ï¼ˆæœªé…ç½®çº¦ 15 ç¯‡ï¼‰
+#### ?? Getting Started ÏµÁĞ£¨Î´ÅäÖÃÔ¼ 15 Æª£©
 
 - Kakobuy account creation.md
 - Kakobuy account security.md
@@ -104,9 +104,9 @@
 - Kakobuy tutorial.md
 - Kakobuy walkthrough.md
 
-#### ğŸ‘Ÿ Top Categories ç³»åˆ—ï¼ˆæœªé…ç½®çº¦ 80 ç¯‡ï¼‰
+#### ?? Top Categories ÏµÁĞ£¨Î´ÅäÖÃÔ¼ 80 Æª£©
 
-**é‹ç±»ç›¸å…³ï¼š**
+**Ğ¬ÀàÏà¹Ø£º**
 
 - Kakobuy air force 1.md
 - Kakobuy air max.md
@@ -153,7 +153,7 @@
 - Kakobuy xxl shoes.md
 - Kakobuy xxl sizes.md
 
-**æœè£…ç›¸å…³ï¼š**
+**·ş×°Ïà¹Ø£º**
 
 - Kakobuy clothes 2026.md
 - Kakobuy clothing guide.md
@@ -189,7 +189,7 @@
 - Kakobuy winter clothes.md
 - Kakobuy women clothes.md
 
-**é…é¥°ä¸åŒ…åŒ…ï¼š**
+**ÅäÊÎÓë°ü°ü£º**
 
 - Kakobuy accessories guide.md
 - Kakobuy backpack.md
@@ -219,9 +219,9 @@
 - Kakobuy watches.md
 - Kakobuy watch.md
 
-#### ğŸ·ï¸ Popular Brands ç³»åˆ—ï¼ˆæœªé…ç½®çº¦ 120 ç¯‡ï¼‰
+#### ??? Popular Brands ÏµÁĞ£¨Î´ÅäÖÃÔ¼ 120 Æª£©
 
-**è¿åŠ¨å“ç‰Œï¼š**
+**ÔË¶¯Æ·ÅÆ£º**
 
 - Kakobuy adidas guide.md
 - Kakobuy adidas superstar.md
@@ -252,7 +252,7 @@
 - Kakobuy vlone.md
 - Kakobuy youngla.md
 
-**å¥¢ä¾ˆå“ç‰Œï¼š**
+**Éİ³ŞÆ·ÅÆ£º**
 
 - Kakobuy alexander mcqueen.md
 - Kakobuy ami.md
@@ -294,7 +294,7 @@
 - Kakobuy ysl.md
 - Kakobuy zara.md
 
-**å…¶ä»–å“ç‰Œï¼š**
+**ÆäËûÆ·ÅÆ£º**
 
 - Kakobuy alpha industries.md
 - Kakobuy canada goose.md
@@ -316,7 +316,7 @@
 - Kakobuy ugg lowmel.md
 - Kakobuy yeezy.md
 
-#### ğŸ’° Save Money ç³»åˆ—ï¼ˆæœªé…ç½®çº¦ 40 ç¯‡ï¼‰
+#### ?? Save Money ÏµÁĞ£¨Î´ÅäÖÃÔ¼ 40 Æª£©
 
 - Kakobuy affordable fashion.md
 - Kakobuy affordable luxury.md
@@ -360,7 +360,7 @@
 - Kakobuy winter deals.md
 - Kakobuy wholesale guide.md
 
-#### ğŸ”’ Trust & Safety ç³»åˆ—ï¼ˆæœªé…ç½®çº¦ 35 ç¯‡ï¼‰
+#### ?? Trust & Safety ÏµÁĞ£¨Î´ÅäÖÃÔ¼ 35 Æª£©
 
 - Kakobuy account security.md
 - Kakobuy authentic check.md
@@ -405,9 +405,9 @@
 - Kakobuy verified sellers.md
 - Kakobuy warranty guide.md
 
-#### ğŸ“Š Spreadsheet & Tools ç³»åˆ—ï¼ˆæœªé…ç½®çº¦ 150 ç¯‡ï¼‰
+#### ?? Spreadsheet & Tools ÏµÁĞ£¨Î´ÅäÖÃÔ¼ 150 Æª£©
 
-**ç”µå­è¡¨æ ¼åŸºç¡€ï¼š**
+**µç×Ó±í¸ñ»ù´¡£º**
 
 - Kakobuy spreadsheet #1.md
 - Kakobuy spreadsheet 10 000.md
@@ -436,7 +436,7 @@
 - Kakobuy spreadsheet 6000+.md
 - Kakobuy spreadsheet 8000.md
 
-**ç”µå­è¡¨æ ¼åˆ†ç±»ï¼š**
+**µç×Ó±í¸ñ·ÖÀà£º**
 
 - Kakobuy spreadsheet accessories.md
 - Kakobuy spreadsheet adidas.md
@@ -529,7 +529,7 @@
 - Kakobuy spreadsheet women's.md
 - Kakobuy spreadsheet xxl.md
 
-**å…¶ä»–å·¥å…·ï¼š**
+**ÆäËû¹¤¾ß£º**
 
 - Kakobuy spreadsheet hub.md
 - Kakobuy spreadsheet linktree.md
@@ -607,9 +607,9 @@
 - Kakobuy spreadsheet reddit.md
 - Kakobuy spreadsheet men.md
 
-#### ğŸŒ Regional & International ç³»åˆ—ï¼ˆæœªé…ç½®çº¦ 50 ç¯‡ï¼‰
+#### ?? Regional & International ÏµÁĞ£¨Î´ÅäÖÃÔ¼ 50 Æª£©
 
-**åœ°åŒºæŒ‡å—ï¼š**
+**µØÇøÖ¸ÄÏ£º**
 
 - Kakobuy africa shipping.md
 - Kakobuy asia shipping.md
@@ -635,7 +635,7 @@
 - Kakobuy us shipping.md
 - Kakobuy worldwide shipping.md
 
-**è¿è¾“ç›¸å…³ï¼š**
+**ÔËÊäÏà¹Ø£º**
 
 - Kakobuy consolidation guide.md
 - Kakobuy delivery guide.md
@@ -647,9 +647,9 @@
 - Kakobuy shipping options.md
 - Kakobuy shipping times.md
 
-#### ğŸ“¦ å…¶ä»–æœªåˆ†ç±»æ–‡ç« ï¼ˆçº¦ 80 ç¯‡ï¼‰
+#### ?? ÆäËûÎ´·ÖÀàÎÄÕÂ£¨Ô¼ 80 Æª£©
 
-**äº§å“ç›¸å…³ï¼š**
+**²úÆ·Ïà¹Ø£º**
 
 - Kakobuy accessories.md
 - Kakobuy airpods.md
@@ -711,7 +711,7 @@
 - Kakobuy tennis gear.md
 - Kakobuy underwear.md
 
-**è´­ç‰©ç›¸å…³ï¼š**
+**¹ºÎïÏà¹Ø£º**
 
 - Kakobuy alternatives.md
 - Kakobuy alternative.md
@@ -749,7 +749,7 @@
 - Kakobuy with sales.md
 - Kakobuy yupoo.md
 
-**ç¤¾åŒºç›¸å…³ï¼š**
+**ÉçÇøÏà¹Ø£º**
 
 - Kakobuy community guide.md
 - Kakobuy discord community.md
@@ -761,7 +761,7 @@
 - Kakobuy reddit reviews.md
 - Kakobuy reddit.md
 
-**å…¶ä»–ï¼š**
+**ÆäËû£º**
 
 - Kakobuy batch comparison.md
 - Kakobuy batch guide.md
@@ -777,44 +777,44 @@
 
 ***
 
-### å››ã€å…³é”®å‘ç°
+### ËÄ¡¢¹Ø¼ü·¢ÏÖ
 
-1. **é…ç½®è¦†ç›–ç‡ä½**ï¼šä»… 42/610 ç¯‡æ–‡ç« è¢«é…ç½®ï¼ˆ6.9%ï¼‰ï¼Œå¤§é‡æ–‡ç« æœªè¢«å±•ç¤º
-2. **ç”µå­è¡¨æ ¼ç³»åˆ—æœ€å¤š**ï¼šçº¦ 150 ç¯‡ç”µå­è¡¨æ ¼ç›¸å…³æ–‡ç« æœªé…ç½®
-3. **å“ç‰Œç³»åˆ—ä¸°å¯Œ**ï¼šçº¦ 120 ç¯‡å“ç‰Œç›¸å…³æ–‡ç« æœªé…ç½®
-4. **åœ°åŒºæŒ‡å—å®Œæ•´**ï¼šçº¦ 50 ç¯‡åœ°åŒºå’Œå›½é™…è¿è¾“æŒ‡å—æœªé…ç½®
-5. **"is Kakobuy legit.md"** å·²æ­£ç¡®é…ç½®åœ¨ Trust & Safety ç³»åˆ—ä¸­
-
-***
-
-### äº”ã€å»ºè®®
-
-1. **ä¼˜å…ˆé…ç½®é«˜ä»·å€¼æ–‡ç« **ï¼šå»ºè®®ä¼˜å…ˆé…ç½® Getting Startedã€Popular Brandsã€Save Money ç³»åˆ—çš„æ ¸å¿ƒæ–‡ç« 
-2. **åˆ†æ‰¹é…ç½®ç”µå­è¡¨æ ¼æ–‡ç« **ï¼šç”±äºæ•°é‡åºå¤§ï¼ˆ150+ï¼‰ï¼Œå»ºè®®æŒ‰ä¸»é¢˜åˆ†æ‰¹é…ç½®
-3. **å®Œå–„åœ°åŒºæŒ‡å—**ï¼šä¸ºä¸åŒåœ°åŒºç”¨æˆ·æä¾›æ›´å®Œæ•´çš„å¯¼èˆª
-4. **ä¼˜åŒ–å“ç‰Œå±•ç¤º**ï¼šå°†çƒ­é—¨å“ç‰Œæ–‡ç« æŒ‰ç±»åˆ«ç»„ç»‡ï¼Œä¾¿äºç”¨æˆ·æŸ¥æ‰¾
+1. **ÅäÖÃ¸²¸ÇÂÊµÍ**£º½ö 42/610 ÆªÎÄÕÂ±»ÅäÖÃ£¨6.9%£©£¬´óÁ¿ÎÄÕÂÎ´±»Õ¹Ê¾
+2. **µç×Ó±í¸ñÏµÁĞ×î¶à**£ºÔ¼ 150 Æªµç×Ó±í¸ñÏà¹ØÎÄÕÂÎ´ÅäÖÃ
+3. **Æ·ÅÆÏµÁĞ·á¸»**£ºÔ¼ 120 ÆªÆ·ÅÆÏà¹ØÎÄÕÂÎ´ÅäÖÃ
+4. **µØÇøÖ¸ÄÏÍêÕû**£ºÔ¼ 50 ÆªµØÇøºÍ¹ú¼ÊÔËÊäÖ¸ÄÏÎ´ÅäÖÃ
+5. **"is Kakobuy legit.md"** ÒÑÕıÈ·ÅäÖÃÔÚ Trust & Safety ÏµÁĞÖĞ
 
 ***
 
-**æŠ¥å‘Šç”Ÿæˆæ—¶é—´**ï¼š2026-07-21\
-**æ£€æŸ¥å·¥å…·**ï¼šPowerShell + BlogPage.vue åˆ†æ
+### Îå¡¢½¨Òé
 
-## ğŸ“Š Kakobuy æ–‡ç« é…ç½®æ£€æŸ¥æŠ¥å‘Š
+1. **ÓÅÏÈÅäÖÃ¸ß¼ÛÖµÎÄÕÂ**£º½¨ÒéÓÅÏÈÅäÖÃ Getting Started¡¢Popular Brands¡¢Save Money ÏµÁĞµÄºËĞÄÎÄÕÂ
+2. **·ÖÅúÅäÖÃµç×Ó±í¸ñÎÄÕÂ**£ºÓÉÓÚÊıÁ¿ÅÓ´ó£¨150+£©£¬½¨Òé°´Ö÷Ìâ·ÖÅúÅäÖÃ
+3. **ÍêÉÆµØÇøÖ¸ÄÏ**£ºÎª²»Í¬µØÇøÓÃ»§Ìá¹©¸üÍêÕûµÄµ¼º½
+4. **ÓÅ»¯Æ·ÅÆÕ¹Ê¾**£º½«ÈÈÃÅÆ·ÅÆÎÄÕÂ°´Àà±ğ×éÖ¯£¬±ãÓÚÓÃ»§²éÕÒ
 
-### ä¸€ã€æ€»ä½“ç»Ÿè®¡
+***
 
-| é¡¹ç›®                           | æ•°é‡       |
+**±¨¸æÉú³ÉÊ±¼ä**£º2026-07-21\
+**¼ì²é¹¤¾ß**£ºPowerShell + BlogPage.vue ·ÖÎö
+
+## ?? Kakobuy ÎÄÕÂÅäÖÃ¼ì²é±¨¸æ
+
+### Ò»¡¢×ÜÌåÍ³¼Æ
+
+| ÏîÄ¿                           | ÊıÁ¿       |
 | :--------------------------- | :------- |
-| **å®é™…æ–‡ç« æ–‡ä»¶æ€»æ•°**                 | 610 ç¯‡    |
-| **å·²åœ¨ BlogPage.vue ä¸­é…ç½®**      | 42 ç¯‡     |
-| **æœªåœ¨ BlogPage.vue ä¸­é…ç½®**      | 568 ç¯‡    |
-| **"is Kakobuy legit.md" æ–‡ä»¶** | âœ… å­˜åœ¨ä¸”å·²é…ç½® |
+| **Êµ¼ÊÎÄÕÂÎÄ¼ş×ÜÊı**                 | 610 Æª    |
+| **ÒÑÔÚ BlogPage.vue ÖĞÅäÖÃ**      | 42 Æª     |
+| **Î´ÔÚ BlogPage.vue ÖĞÅäÖÃ**      | 568 Æª    |
+| **"is Kakobuy legit.md" ÎÄ¼ş** | ? ´æÔÚÇÒÒÑÅäÖÃ |
 
 ***
 
-### äºŒã€å·²é…ç½®çš„ 42 ç¯‡æ–‡ç« ï¼ˆç¬¦åˆè¦æ±‚ï¼‰
+### ¶ş¡¢ÒÑÅäÖÃµÄ 42 ÆªÎÄÕÂ£¨·ûºÏÒªÇó£©
 
-#### 1. Getting Startedï¼ˆå…¥é—¨æŒ‡å—ï¼‰- 6 ç¯‡ âœ…
+#### 1. Getting Started£¨ÈëÃÅÖ¸ÄÏ£©- 6 Æª ?
 
 - Kakobuy for beginners.md
 - Kakobuy how to use.md
@@ -823,7 +823,7 @@
 - Kakobuy shipping guide.md
 - Kakobuy payment guide.md
 
-#### 2. Top Categoriesï¼ˆé¡¶çº§åˆ†ç±»ï¼‰- 6 ç¯‡ âœ…
+#### 2. Top Categories£¨¶¥¼¶·ÖÀà£©- 6 Æª ?
 
 - Kakobuy sneakers.md
 - Kakobuy clothes.md
@@ -832,7 +832,7 @@
 - Kakobuy bags.md
 - Kakobuy accessories.md
 
-#### 3. Popular Brandsï¼ˆçƒ­é—¨å“ç‰Œï¼‰- 6 ç¯‡ âœ…
+#### 3. Popular Brands£¨ÈÈÃÅÆ·ÅÆ£©- 6 Æª ?
 
 - Kakobuy nike.md
 - Kakobuy jordan.md
@@ -841,7 +841,7 @@
 - Kakobuy essentials.md
 - Kakobuy palm angels.md
 
-#### 4. Save Moneyï¼ˆçœé’±æŠ€å·§ï¼‰- 6 ç¯‡ âœ…
+#### 4. Save Money£¨Ê¡Ç®¼¼ÇÉ£©- 6 Æª ?
 
 - Kakobuy budget picks.md
 - Kakobuy coupon.md
@@ -850,7 +850,7 @@
 - Kakobuy budget hoodies.md
 - Kakobuy save money.md
 
-#### 5. Trust & Safetyï¼ˆä¿¡ä»»ä¸å®‰å…¨ï¼‰- 6 ç¯‡ âœ…
+#### 5. Trust & Safety£¨ĞÅÈÎÓë°²È«£©- 6 Æª ?
 
 - is Kakobuy legit.md
 - Kakobuy legit check.md
@@ -859,7 +859,7 @@
 - Kakobuy reddit.md
 - Kakobuy vs Kakobuy.md
 
-#### 6. Spreadsheet & Toolsï¼ˆç”µå­è¡¨æ ¼ä¸å·¥å…·ï¼‰- 6 ç¯‡ âœ…
+#### 6. Spreadsheet & Tools£¨µç×Ó±í¸ñÓë¹¤¾ß£©- 6 Æª ?
 
 - Kakobuy spreadsheet.md
 - Kakobuy spreadsheet best.md
@@ -868,7 +868,7 @@
 - Kakobuy spreadsheet jordan.md
 - Kakobuy spreadsheet link.md
 
-#### 7. Regional & Internationalï¼ˆåœ°åŒºä¸å›½é™…ï¼‰- 6 ç¯‡ âœ…
+#### 7. Regional & International£¨µØÇøÓë¹ú¼Ê£©- 6 Æª ?
 
 - Kakobuy uk.md
 - Kakobuy canada.md
@@ -879,11 +879,11 @@
 
 ***
 
-### ä¸‰ã€æœªé…ç½®çš„ 568 ç¯‡æ–‡ç« ï¼ˆä¸ç¬¦åˆè¦æ±‚ï¼‰
+### Èı¡¢Î´ÅäÖÃµÄ 568 ÆªÎÄÕÂ£¨²»·ûºÏÒªÇó£©
 
-#### ğŸ“š Getting Started ç³»åˆ—ï¼ˆçº¦ 15 ç¯‡æœªé…ç½®ï¼‰
+#### ?? Getting Started ÏµÁĞ£¨Ô¼ 15 ÆªÎ´ÅäÖÃ£©
 
-ç¼ºå°‘ç³»åˆ—åˆ†ç±»å’Œæ–‡ç« å¡ç‰‡çš„æ–‡ç« åŒ…æ‹¬ï¼š
+È±ÉÙÏµÁĞ·ÖÀàºÍÎÄÕÂ¿¨Æ¬µÄÎÄÕÂ°üÀ¨£º
 
 - Kakobuy account creation.md
 - Kakobuy balance guide.md
@@ -901,9 +901,9 @@
 - Kakobuy walkthrough.md
 - Kakobuy onboarding.md
 
-#### ğŸ‘Ÿ Top Categories ç³»åˆ—ï¼ˆçº¦ 80 ç¯‡æœªé…ç½®ï¼‰
+#### ?? Top Categories ÏµÁĞ£¨Ô¼ 80 ÆªÎ´ÅäÖÃ£©
 
-**é‹ç±»ç›¸å…³ï¼ˆçº¦ 40 ç¯‡ï¼‰ï¼š**
+**Ğ¬ÀàÏà¹Ø£¨Ô¼ 40 Æª£©£º**
 
 - Kakobuy shoes.md, Kakobuy running shoes.md, Kakobuy basketball shoes.md
 - Kakobuy soccer shoes.md, Kakobuy football boots.md, Kakobuy hiking shoes.md
@@ -911,9 +911,9 @@
 - Kakobuy golf shoes.md, Kakobuy outdoor shoes.md, Kakobuy women shoes.md
 - Kakobuy men shoes.md, Kakobuy kids shoes.md, Kakobuy junior shoes.md
 - Kakobuy big size shoes.md, Kakobuy xxl shoes.md, Kakobuy cleats.md
-- Kakobuy slides.md, Kakobuy heels.md ç­‰
+- Kakobuy slides.md, Kakobuy heels.md µÈ
 
-**æœè£…ç›¸å…³ï¼ˆçº¦ 30 ç¯‡ï¼‰ï¼š**
+**·ş×°Ïà¹Ø£¨Ô¼ 30 Æª£©£º**
 
 - Kakobuy clothing guide.md, Kakobuy streetwear.md, Kakobuy fashion clothes.md
 - Kakobuy hoodie.md, Kakobuy jacket.md, Kakobuy jeans.md, Kakobuy pants.md
@@ -921,18 +921,18 @@
 - Kakobuy polo.md, Kakobuy tracksuit.md, Kakobuy sweatpants.md, Kakobuy vest.md
 - Kakobuy summer clothes.md, Kakobuy winter clothes.md, Kakobuy spring clothes.md
 - Kakobuy fall clothes.md, Kakobuy women clothes.md, Kakobuy men clothes.md
-- Kakobuy kids clothes.md, Kakobuy girls clothes.md ç­‰
+- Kakobuy kids clothes.md, Kakobuy girls clothes.md µÈ
 
-**é…é¥°ä¸åŒ…åŒ…ï¼ˆçº¦ 10 ç¯‡ï¼‰ï¼š**
+**ÅäÊÎÓë°ü°ü£¨Ô¼ 10 Æª£©£º**
 
 - Kakobuy backpack.md, Kakobuy handbag.md, Kakobuy purse.md, Kakobuy wallet.md
 - Kakobuy hats.md, Kakobuy caps.md, Kakobuy sunglasses.md, Kakobuy jewelry.md
 - Kakobuy earrings.md, Kakobuy gloves.md, Kakobuy socks.md, Kakobuy belt.md
-- Kakobuy watch.md, Kakobuy watches.md ç­‰
+- Kakobuy watch.md, Kakobuy watches.md µÈ
 
-#### ğŸ·ï¸ Popular Brands ç³»åˆ—ï¼ˆçº¦ 120 ç¯‡æœªé…ç½®ï¼‰
+#### ??? Popular Brands ÏµÁĞ£¨Ô¼ 120 ÆªÎ´ÅäÖÃ£©
 
-**è¿åŠ¨å“ç‰Œï¼ˆçº¦ 30 ç¯‡ï¼‰ï¼š**
+**ÔË¶¯Æ·ÅÆ£¨Ô¼ 30 Æª£©£º**
 
 - Kakobuy stussy.md, Kakobuy supreme.md, Kakobuy bape.md, Kakobuy trapstar.md
 - Kakobuy corteiz.md, Kakobuy gallery dept.md, Kakobuy denim tears.md
@@ -940,26 +940,26 @@
 - Kakobuy casablanca.md, Kakobuy vivienne westwood.md, Kakobuy chrome hearts.md
 - Kakobuy essentials.md, Kakobuy north face.md, Kakobuy canada goose.md
 - Kakobuy moncler.md, Kakobuy stone island.md, Kakobuy carhartt.md, Kakobuy gymshark.md
-- Kakobuy youngla.md, Kakobuy eric emanuel.md, Kakobuy ea7.md, Kakobuy mertra.md ç­‰
+- Kakobuy youngla.md, Kakobuy eric emanuel.md, Kakobuy ea7.md, Kakobuy mertra.md µÈ
 
-**å¥¢ä¾ˆå“ç‰Œï¼ˆçº¦ 50 ç¯‡ï¼‰ï¼š**
+**Éİ³ŞÆ·ÅÆ£¨Ô¼ 50 Æª£©£º**
 
 - Kakobuy louis vuitton.md, Kakobuy hermes.md, Kakobuy rolex.md
 - Kakobuy gucci.md, Kakobuy prada.md, Kakobuy dior.md, Kakobuy chanel.md
 - Kakobuy balenciaga.md, Kakobuy versace.md, Kakobuy valentino.md, Kakobuy fendi.md
 - Kakobuy givenchy.md, Kakobuy burberry.md, Kakobuy miu miu.md, Kakobuy celine.md
 - Kakobuy alexander mcqueen.md, Kakobuy cartier.md, Kakobuy audemars piguet.md
-- Kakobuy tissot.md, Kakobuy coach.md, Kakobuy michael kors.md, Kakobuy louboutin.md ç­‰
+- Kakobuy tissot.md, Kakobuy coach.md, Kakobuy michael kors.md, Kakobuy louboutin.md µÈ
 
-**å…¶ä»–å“ç‰Œï¼ˆçº¦ 40 ç¯‡ï¼‰ï¼š**
+**ÆäËûÆ·ÅÆ£¨Ô¼ 40 Æª£©£º**
 
 - Kakobuy yeezy.md, Kakobuy new balance.md, Kakobuy asics.md, Kakobuy vans.md
 - Kakobuy timberland.md, Kakobuy ugg lowmel.md, Kakobuy crocs.md, Kakobuy kobe.md
 - Kakobuy g shock.md, Kakobuy oakley.md, Kakobuy venum.md, Kakobuy victoria secret.md
 - Kakobuy arcteryx.md, Kakobuy apple.md, Kakobuy jbl.md, Kakobuy dyson.md
-- Kakobuy labubu.md, Kakobuy lego.md, Kakobuy hot wheels.md ç­‰
+- Kakobuy labubu.md, Kakobuy lego.md, Kakobuy hot wheels.md µÈ
 
-#### ğŸ’° Save Money ç³»åˆ—ï¼ˆçº¦ 40 ç¯‡æœªé…ç½®ï¼‰
+#### ?? Save Money ÏµÁĞ£¨Ô¼ 40 ÆªÎ´ÅäÖÃ£©
 
 - Kakobuy budget guide.md, Kakobuy budget shopping.md, Kakobuy cheap finds.md
 - Kakobuy cheapest products.md, Kakobuy low price guide.md, Kakobuy best value.md
@@ -979,7 +979,7 @@
 - Kakobuy cheap luxury.md, Kakobuy reselling guide.md, Kakobuy reselling tips.md
 - Kakobuy profit guide.md, Kakobuy bulk buying.md, Kakobuy wholesale guide.md
 
-#### ğŸ”’ Trust & Safety ç³»åˆ—ï¼ˆçº¦ 35 ç¯‡æœªé…ç½®ï¼‰
+#### ?? Trust & Safety ÏµÁĞ£¨Ô¼ 35 ÆªÎ´ÅäÖÃ£©
 
 - Kakobuy legit check guide.md, Kakobuy legitimacy.md, Kakobuy safety guide.md
 - Kakobuy trust guide.md, Kakobuy reliable.md, Kakobuy trustworthy.md
@@ -1000,9 +1000,9 @@
 - Kakobuy account security.md, Kakobuy safe shopping.md, Kakobuy verified products.md
 - Kakobuy verified sellers.md, Kakobuy seller ratings.md, Kakobuy seller guide.md
 
-#### ğŸ“Š Spreadsheet & Tools ç³»åˆ—ï¼ˆçº¦ 150 ç¯‡æœªé…ç½®ï¼‰
+#### ?? Spreadsheet & Tools ÏµÁĞ£¨Ô¼ 150 ÆªÎ´ÅäÖÃ£©
 
-**ç”µå­è¡¨æ ¼åŸºç¡€ï¼ˆçº¦ 30 ç¯‡ï¼‰ï¼š**
+**µç×Ó±í¸ñ»ù´¡£¨Ô¼ 30 Æª£©£º**
 
 - Kakobuy spreadsheet archive.md, Kakobuy spreadsheet archive fashion.md
 - Kakobuy spreadsheet best quality.md, Kakobuy spreadsheet premium quality.md
@@ -1014,24 +1014,24 @@
 - Kakobuy spreadsheet docs.md, Kakobuy spreadsheet excel.md, Kakobuy spreadsheet linktree.md
 - Kakobuy spreadsheet site.md, Kakobuy spreadsheet org.md, Kakobuy spreadsheet com.md
 - Kakobuy spreadsheet website.md, Kakobuy spreadsheet finder.md, Kakobuy spreadsheet findindex.md
-- Kakobuy spreadsheet list.md, Kakobuy spreadsheet hub.md ç­‰
+- Kakobuy spreadsheet list.md, Kakobuy spreadsheet hub.md µÈ
 
-**ç”µå­è¡¨æ ¼å¹´ä»½ç‰ˆæœ¬ï¼ˆçº¦ 20 ç¯‡ï¼‰ï¼š**
+**µç×Ó±í¸ñÄê·İ°æ±¾£¨Ô¼ 20 Æª£©£º**
 
 - Kakobuy spreadsheet 2024.md, Kakobuy spreadsheet 2025.md, Kakobuy spreadsheet 2025 reddit.md
 - Kakobuy spreadsheet 2025 best batch.md, Kakobuy spreadsheet 2025 cheap.md
 - Kakobuy spreadsheet 2025 women.md, Kakobuy spreadsheet 2025 polska.md
 - Kakobuy spreadsheet 2026.md, Kakobuy spreadsheet 2026 summer.md, Kakobuy spreadsheet 2026 women.md
 - Kakobuy spreadsheet 2026 best batch.md, Kakobuy spreadsheet 2026 budget.md
-- Kakobuy spreadsheet 2026 tiktok.md, Kakobuy spreadsheet 2026 polska.md ç­‰
+- Kakobuy spreadsheet 2026 tiktok.md, Kakobuy spreadsheet 2026 polska.md µÈ
 
-**ç”µå­è¡¨æ ¼æ•°é‡ç‰ˆæœ¬ï¼ˆçº¦ 10 ç¯‡ï¼‰ï¼š**
+**µç×Ó±í¸ñÊıÁ¿°æ±¾£¨Ô¼ 10 Æª£©£º**
 
 - Kakobuy spreadsheet 20000.md, Kakobuy spreadsheet 15000.md, Kakobuy spreadsheet 10 000.md
 - Kakobuy spreadsheet 10k.md, Kakobuy spreadsheet 8000.md, Kakobuy spreadsheet 6000+.md
-- Kakobuy spreadsheet 5000.md, Kakobuy spreadsheet 4000.md, Kakobuy spreadsheet 3000.md ç­‰
+- Kakobuy spreadsheet 5000.md, Kakobuy spreadsheet 4000.md, Kakobuy spreadsheet 3000.md µÈ
 
-**ç”µå­è¡¨æ ¼åˆ†ç±»ï¼ˆçº¦ 90 ç¯‡ï¼‰ï¼š**
+**µç×Ó±í¸ñ·ÖÀà£¨Ô¼ 90 Æª£©£º**
 
 - Kakobuy spreadsheet v2.md, Kakobuy spreadsheet #1.md, Kakobuy spreadsheet ultimate.md
 - Kakobuy spreadsheet the best.md, Kakobuy spreadsheet new\.md, Kakobuy spreadsheet free.md
@@ -1058,11 +1058,11 @@
 - Kakobuy spreadsheet reddit 2026.md, Kakobuy spreadsheet telegram.md, Kakobuy spreadsheet discord.md
 - Kakobuy spreadsheet community.md, Kakobuy spreadsheet legit.md, Kakobuy spreadsheet verified.md
 - Kakobuy spreadsheet best sellers.md, Kakobuy spreadsheet trending.md, Kakobuy spreadsheet update.md
-- Kakobuy spreadsheet download.md ç­‰
+- Kakobuy spreadsheet download.md µÈ
 
-#### ğŸŒ Regional & International ç³»åˆ—ï¼ˆçº¦ 50 ç¯‡æœªé…ç½®ï¼‰
+#### ?? Regional & International ÏµÁĞ£¨Ô¼ 50 ÆªÎ´ÅäÖÃ£©
 
-**åœ°åŒºæŒ‡å—ï¼ˆçº¦ 25 ç¯‡ï¼‰ï¼š**
+**µØÇøÖ¸ÄÏ£¨Ô¼ 25 Æª£©£º**
 
 - Kakobuy uk guide.md, Kakobuy canada guide.md, Kakobuy australia guide.md
 - Kakobuy europe guide.md, Kakobuy poland.md, Kakobuy poland guide.md
@@ -1070,9 +1070,9 @@
 - Kakobuy romania guide.md, Kakobuy asia shipping.md, Kakobuy africa shipping.md
 - Kakobuy latin america shipping.md, Kakobuy middle east shipping.md, Kakobuy oceania shipping.md
 - Kakobuy eu shipping.md, Kakobuy euro shipping.md, Kakobuy global shipping.md
-- Kakobuy international.md, Kakobuy worldwide shipping.md ç­‰
+- Kakobuy international.md, Kakobuy worldwide shipping.md µÈ
 
-**è¿è¾“ç›¸å…³ï¼ˆçº¦ 25 ç¯‡ï¼‰ï¼š**
+**ÔËÊäÏà¹Ø£¨Ô¼ 25 Æª£©£º**
 
 - Kakobuy us shipping.md, Kakobuy consolidation guide.md, Kakobuy delivery guide.md
 - Kakobuy economy shipping.md, Kakobuy ems shipping.md, Kakobuy express shipping.md
@@ -1083,9 +1083,9 @@
 - Kakobuy ultimate guide.md, Kakobuy complete platform guide.md, Kakobuy everything you need to know\.md
 - Kakobuy start here.md, Kakobuy onboarding.md, Kakobuy tutorial.md, Kakobuy walkthrough.md
 
-#### ğŸ“¦ å…¶ä»–æœªåˆ†ç±»æ–‡ç« ï¼ˆçº¦ 80 ç¯‡ï¼‰
+#### ?? ÆäËûÎ´·ÖÀàÎÄÕÂ£¨Ô¼ 80 Æª£©
 
-**äº§å“ç›¸å…³ï¼ˆçº¦ 50 ç¯‡ï¼‰ï¼š**
+**²úÆ·Ïà¹Ø£¨Ô¼ 50 Æª£©£º**
 
 - Kakobuy accessories guide.md, Kakobuy airpods.md, Kakobuy apple watch.md
 - Kakobuy basketball gear.md, Kakobuy collectibles.md, Kakobuy cosmetics.md
@@ -1104,9 +1104,9 @@
 - Kakobuy sizing chart.md, Kakobuy sizing guide.md, Kakobuy slides.md
 - Kakobuy soccer gear.md, Kakobuy socks.md, Kakobuy sports clothes.md
 - Kakobuy sports gear.md, Kakobuy tech gadgets.md, Kakobuy tennis gear.md
-- Kakobuy underwear.md ç­‰
+- Kakobuy underwear.md µÈ
 
-**è´­ç‰©ç›¸å…³ï¼ˆçº¦ 30 ç¯‡ï¼‰ï¼š**
+**¹ºÎïÏà¹Ø£¨Ô¼ 30 Æª£©£º**
 
 - Kakobuy alternatives.md, Kakobuy alternative.md, Kakobuy best sellers.md
 - Kakobuy bulk buying.md, Kakobuy comparison guide.md, Kakobuy competitor comparison.md
@@ -1119,39 +1119,39 @@
 - Kakobuy vs litbuy.md, Kakobuy vs oopbuy.md, Kakobuy vs pandabuy.md
 - Kakobuy vs usfans.md, Kakobuy with photos.md, Kakobuy with qc photos.md
 - Kakobuy with qc reddit.md, Kakobuy with qc.md, Kakobuy with reviews.md
-- Kakobuy with sales.md, Kakobuy yupoo.md ç­‰
+- Kakobuy with sales.md, Kakobuy yupoo.md µÈ
 
-**ç¤¾åŒºç›¸å…³ï¼ˆçº¦ 10 ç¯‡ï¼‰ï¼š**
+**ÉçÇøÏà¹Ø£¨Ô¼ 10 Æª£©£º**
 
 - Kakobuy community guide.md, Kakobuy discord community.md, Kakobuy discord.md
 - Kakobuy instagram.md, Kakobuy reddit 2025.md, Kakobuy reddit 2026.md
-- Kakobuy reddit guide.md, Kakobuy reddit reviews.md, Kakobuy reddit.md ç­‰
+- Kakobuy reddit guide.md, Kakobuy reddit reviews.md, Kakobuy reddit.md µÈ
 
-**æ‰¹æ¬¡ç›¸å…³ï¼ˆçº¦ 10 ç¯‡ï¼‰ï¼š**
+**Åú´ÎÏà¹Ø£¨Ô¼ 10 Æª£©£º**
 
 - Kakobuy batch comparison.md, Kakobuy batch guide.md, Kakobuy batch quality.md
 - Kakobuy batch tracker.md, Kakobuy batch version.md, Kakobuy best batch.md
 - Kakobuy best quality.md, Kakobuy 2025 best batch.md, Kakobuy 2026 best batch.md
-- Kakobuy unboxing.md, Kakobuy warehouse guide.md ç­‰
+- Kakobuy unboxing.md, Kakobuy warehouse guide.md µÈ
 
 ***
 
-### å››ã€å…³é”®å‘ç°
+### ËÄ¡¢¹Ø¼ü·¢ÏÖ
 
-1. **é…ç½®è¦†ç›–ç‡ä½**ï¼šä»… 42/610 ç¯‡æ–‡ç« è¢«é…ç½®ï¼ˆ6.9%ï¼‰ï¼Œå¤§é‡æ–‡ç« æœªè¢«å±•ç¤º
-2. **ç”µå­è¡¨æ ¼ç³»åˆ—æœ€å¤š**ï¼šçº¦ 150 ç¯‡ç”µå­è¡¨æ ¼ç›¸å…³æ–‡ç« æœªé…ç½®
-3. **å“ç‰Œç³»åˆ—ä¸°å¯Œ**ï¼šçº¦ 120 ç¯‡å“ç‰Œç›¸å…³æ–‡ç« æœªé…ç½®
-4. **åœ°åŒºæŒ‡å—å®Œæ•´**ï¼šçº¦ 50 ç¯‡åœ°åŒºå’Œå›½é™…è¿è¾“æŒ‡å—æœªé…ç½®
-5. **"is Kakobuy legit.md"** å·²æ­£ç¡®é…ç½®åœ¨ Trust & Safety ç³»åˆ—ä¸­ âœ…
+1. **ÅäÖÃ¸²¸ÇÂÊµÍ**£º½ö 42/610 ÆªÎÄÕÂ±»ÅäÖÃ£¨6.9%£©£¬´óÁ¿ÎÄÕÂÎ´±»Õ¹Ê¾
+2. **µç×Ó±í¸ñÏµÁĞ×î¶à**£ºÔ¼ 150 Æªµç×Ó±í¸ñÏà¹ØÎÄÕÂÎ´ÅäÖÃ
+3. **Æ·ÅÆÏµÁĞ·á¸»**£ºÔ¼ 120 ÆªÆ·ÅÆÏà¹ØÎÄÕÂÎ´ÅäÖÃ
+4. **µØÇøÖ¸ÄÏÍêÕû**£ºÔ¼ 50 ÆªµØÇøºÍ¹ú¼ÊÔËÊäÖ¸ÄÏÎ´ÅäÖÃ
+5. **"is Kakobuy legit.md"** ÒÑÕıÈ·ÅäÖÃÔÚ Trust & Safety ÏµÁĞÖĞ ?
 
 ***
 
-### äº”ã€å»ºè®®
+### Îå¡¢½¨Òé
 
-1. **ä¼˜å…ˆé…ç½®é«˜ä»·å€¼æ–‡ç« **ï¼šå»ºè®®ä¼˜å…ˆé…ç½® Getting Startedã€Popular Brandsã€Save Money ç³»åˆ—çš„æ ¸å¿ƒæ–‡ç« 
-2. **åˆ†æ‰¹é…ç½®ç”µå­è¡¨æ ¼æ–‡ç« **ï¼šç”±äºæ•°é‡åºå¤§ï¼ˆ150+ï¼‰ï¼Œå»ºè®®æŒ‰ä¸»é¢˜åˆ†æ‰¹é…ç½®
-3. **å®Œå–„åœ°åŒºæŒ‡å—**ï¼šä¸ºä¸åŒåœ°åŒºç”¨æˆ·æä¾›æ›´å®Œæ•´çš„å¯¼èˆª
-4. **ä¼˜åŒ–å“ç‰Œå±•ç¤º**ï¼šå°†çƒ­é—¨å“ç‰Œæ–‡ç« æŒ‰ç±»åˆ«ç»„ç»‡ï¼Œä¾¿äºç”¨æˆ·æŸ¥æ‰¾
+1. **ÓÅÏÈÅäÖÃ¸ß¼ÛÖµÎÄÕÂ**£º½¨ÒéÓÅÏÈÅäÖÃ Getting Started¡¢Popular Brands¡¢Save Money ÏµÁĞµÄºËĞÄÎÄÕÂ
+2. **·ÖÅúÅäÖÃµç×Ó±í¸ñÎÄÕÂ**£ºÓÉÓÚÊıÁ¿ÅÓ´ó£¨150+£©£¬½¨Òé°´Ö÷Ìâ·ÖÅúÅäÖÃ
+3. **ÍêÉÆµØÇøÖ¸ÄÏ**£ºÎª²»Í¬µØÇøÓÃ»§Ìá¹©¸üÍêÕûµÄµ¼º½
+4. **ÓÅ»¯Æ·ÅÆÕ¹Ê¾**£º½«ÈÈÃÅÆ·ÅÆÎÄÕÂ°´Àà±ğ×éÖ¯£¬±ãÓÚÓÃ»§²éÕÒ
 
 ***
 

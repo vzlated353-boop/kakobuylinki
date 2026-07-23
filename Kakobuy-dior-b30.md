@@ -1,6 +1,6 @@
-﻿# Kakobuy Dior B30 2026: The Ultimate Guide to Dior's Most Popular Sneaker
+# Kakobuy Dior B30 2026: The Ultimate Guide to Dior's Most Popular Sneaker
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -146,7 +146,7 @@ The Kakobuy Dior B30 category delivers luxury designer sneakers at an accessible
 
 The key to a successful Dior B30 purchase is understanding the European sizing system, carefully reviewing QC photos with attention to mesh quality and nylon overlay construction, and selecting the appropriate batch version for your standards. TOP batch provides excellent value for most buyers, while PK batch is worth considering for those who want the absolute best material quality. The spreadsheet consolidates all available options with detailed pricing, batch information, and community quality ratings in one accessible resource.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Dior B30 listings, compare batch versions, and find the colorway that matches your style. Whether you are a first-time Dior buyer or adding another colorway to your collection, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes luxury accessible.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Dior B30 listings, compare batch versions, and find the colorway that matches your style. Whether you are a first-time Dior buyer or adding another colorway to your collection, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes luxury accessible.
 
 ---
 

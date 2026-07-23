@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Chrome Hearts 2026: Complete Guide to Luxury Streetwear
+# Kakobuy Chrome Hearts 2026: Complete Guide to Luxury Streetwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -64,13 +64,13 @@ For buyers looking to complete their accessory collection, the [Kakobuy accessor
 Verifying the quality of Chrome Hearts products requires attention to specific details that distinguish premium replicas from inferior alternatives. Kakobuy's authentication process provides a framework for buyers to evaluate products upon receipt.
 
 **Material Quality Assessment**
-Authentic Chrome Hearts pieces use premium materials that feel substantial and durable. For hoodies and tees, fabric should have a tight weave with minimal pilling after initial washing. The weight should match specifications â€” genuine pieces use 380-420gsm for hoodies and 200-240gsm for tees. Leather items should exhibit natural grain patterns with consistent thickness of 1.2-1.5mm for bags. Metal hardware should feel heavy and solid, with proper weight distribution. Sterling silver pieces should bear hallmarks and exhibit the characteristic cool tone of genuine silver.
+Authentic Chrome Hearts pieces use premium materials that feel substantial and durable. For hoodies and tees, fabric should have a tight weave with minimal pilling after initial washing. The weight should match specifications ¡ª genuine pieces use 380-420gsm for hoodies and 200-240gsm for tees. Leather items should exhibit natural grain patterns with consistent thickness of 1.2-1.5mm for bags. Metal hardware should feel heavy and solid, with proper weight distribution. Sterling silver pieces should bear hallmarks and exhibit the characteristic cool tone of genuine silver.
 
 **Stitching and Construction**
-Examine stitching density and consistency throughout the garment. Authentic Chrome Hearts pieces average 10-12 stitches per inch in seams, with even tension and no loose threads. Embroidery work should be dense with proper underlay, preventing the fabric from puckering. Check that all seams are finished properly â€” serged edges on knits, flat-felled seams on denim, and French seams on lightweight pieces. Hardware attachment points should feature reinforcement stitching or rivets where appropriate. Zippers should operate smoothly with branded pulls that match authentic specifications.
+Examine stitching density and consistency throughout the garment. Authentic Chrome Hearts pieces average 10-12 stitches per inch in seams, with even tension and no loose threads. Embroidery work should be dense with proper underlay, preventing the fabric from puckering. Check that all seams are finished properly ¡ª serged edges on knits, flat-felled seams on denim, and French seams on lightweight pieces. Hardware attachment points should feature reinforcement stitching or rivets where appropriate. Zippers should operate smoothly with branded pulls that match authentic specifications.
 
 **Hardware and Details**
-Chrome Hearts hardware is distinctive and receives particular attention in quality replicas. Zippers should be YKK or equivalent quality with smooth operation. Zipper pulls feature accurate casting with proper weight and finish. Buttons and rivets should be properly set without sharp edges or burrs. Leather patches should have clean debossing with accurate depth and positioning. Print quality should be sharp with no bleeding or cracking after gentle stretching. Color accuracy is crucial â€” compare against reference images to ensure proper shade matching, particularly for washed blacks and vintage washes.
+Chrome Hearts hardware is distinctive and receives particular attention in quality replicas. Zippers should be YKK or equivalent quality with smooth operation. Zipper pulls feature accurate casting with proper weight and finish. Buttons and rivets should be properly set without sharp edges or burrs. Leather patches should have clean debossing with accurate depth and positioning. Print quality should be sharp with no bleeding or cracking after gentle stretching. Color accuracy is crucial ¡ª compare against reference images to ensure proper shade matching, particularly for washed blacks and vintage washes.
 
 For a comprehensive authentication checklist, refer to the detailed guide available in the Kakobuy community resources.
 

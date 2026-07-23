@@ -1,6 +1,6 @@
-﻿# Kakobuy Adidas 2026: Complete Guide to Tracksuits & Shoes
+# Kakobuy Adidas 2026: Complete Guide to Tracksuits & Shoes
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -97,7 +97,7 @@ The Kakobuy adidas collection offers a focused selection of two verified product
 
 Whether you are looking for a classic tracksuit or everyday sneakers, the combination of detailed QC photos, batch comparisons, and real buyer feedback gives you the confidence to order knowing exactly what you will receive.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore all available Adidas products, compare batch versions, and find the best deals.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore all available Adidas products, compare batch versions, and find the best deals.
 
 ---
 

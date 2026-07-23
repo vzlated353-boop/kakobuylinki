@@ -1,6 +1,6 @@
-﻿# Kakobuy Sneakers 2026: Latest Trends and Verified Collection Updates
+# Kakobuy Sneakers 2026: Latest Trends and Verified Collection Updates
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 - Latest 2026 sneaker trends available on Kakobuy

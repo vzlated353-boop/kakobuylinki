@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 categoryName: Watches
 heroSubtitle: "Explore luxury-inspired timepieces and everyday watches with verified links."

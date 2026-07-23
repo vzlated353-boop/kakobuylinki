@@ -1,4 +1,4 @@
-﻿<template>
+<template>
   <div class="platform-page">
     <!-- Hero Section -->
     <section class="hero">
@@ -22,22 +22,22 @@
         <h2>Key Advantages</h2>
         <div class="advantages-grid">
           <div class="advantage-card">
-            <div class="advantage-icon">✓</div>
+            <div class="advantage-icon">?</div>
             <h3>{{ frontmatter.advantages[0].title || 'Advantage 1' }}</h3>
             <p>{{ frontmatter.advantages[0].content || 'Placeholder text describing the advantage' }}</p>
           </div>
           <div class="advantage-card">
-            <div class="advantage-icon">✓</div>
+            <div class="advantage-icon">?</div>
             <h3>{{ frontmatter.advantages[1].title || 'Advantage 2' }}</h3>
             <p>{{ frontmatter.advantages[1].content || 'Placeholder text describing the advantage' }}</p>
           </div>
           <div class="advantage-card">
-            <div class="advantage-icon">✓</div>
+            <div class="advantage-icon">?</div>
             <h3>{{ frontmatter.advantages[2].title || 'Advantage 3' }}</h3>
             <p>{{ frontmatter.advantages[2].content || 'Placeholder text describing the advantage' }}</p>
           </div>
           <div class="advantage-card">
-            <div class="advantage-icon">✓</div>
+            <div class="advantage-icon">?</div>
             <h3>{{ frontmatter.advantages[3].title || 'Advantage 4' }}</h3>
             <p>{{ frontmatter.advantages[3].content || 'Placeholder text describing the advantage' }}</p>
           </div>
@@ -148,7 +148,7 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
+const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
 </script>
 
 <style scoped>

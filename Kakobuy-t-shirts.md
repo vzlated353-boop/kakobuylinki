@@ -1,6 +1,6 @@
-﻿# Kakobuy T-Shirts 2026: Complete Guide to Premium Streetwear Tees
+# Kakobuy T-Shirts 2026: Complete Guide to Premium Streetwear Tees
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -22,7 +22,7 @@ What makes Kakobuy t-shirts particularly attractive to international buyers is t
 
 Understanding the landscape of branded tee purchasing requires attention to several factors: fabric composition, print quality, sizing accuracy, and seller reliability. This guide breaks down each of these elements using real transaction data from the Kakobuy marketplace, helping both new and experienced buyers make informed purchasing decisions. Whether you are building a personal streetwear collection or sourcing inventory for resale, the information compiled here reflects actual market conditions as of mid-2026.
 
-The following sections cover the top-performing products, material and construction quality benchmarks, sizing considerations across different brands, and answers to the most frequently asked questions from the buyer community. All pricing and order data referenced throughout this guide is drawn from the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972), which is updated regularly to reflect current marketplace activity.
+The following sections cover the top-performing products, material and construction quality benchmarks, sizing considerations across different brands, and answers to the most frequently asked questions from the buyer community. All pricing and order data referenced throughout this guide is drawn from the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254), which is updated regularly to reflect current marketplace activity.
 
 ## Top-Selling Kakobuy T-Shirts
 
@@ -124,7 +124,7 @@ Return policies depend on the individual seller and the reason for return. Most 
 
 **Q4: How can I verify the quality of a t-shirt before ordering?**
 
-The most reliable approach is to review the product's quality pass rate, which is available in the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972). Additionally, buyer-submitted photos in the review section provide real-world images of the received product. Look for consistent feedback on fabric weight, print quality, and stitching. Products with pass rates above 90% and order volumes above 1,000 units have demonstrated reliable quality across a large buyer base.
+The most reliable approach is to review the product's quality pass rate, which is available in the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254). Additionally, buyer-submitted photos in the review section provide real-world images of the received product. Look for consistent feedback on fabric weight, print quality, and stitching. Products with pass rates above 90% and order volumes above 1,000 units have demonstrated reliable quality across a large buyer base.
 
 ## Conclusion
 
@@ -132,7 +132,7 @@ The Kakobuy t-shirts market in 2026 offers international buyers a compelling com
 
 For buyers new to the platform, the key takeaways are straightforward: prioritize products with quality pass rates above 90%, consult the brand-specific sizing guidance to order the right size on the first attempt, and pay attention to fabric composition and GSM weight as indicators of the garment's feel and durability. The data consistently shows that spending slightly more per unit, such as choosing the ~$16.32 Stussy tee over a generic ~$11 alternative, delivers better long-term value through superior materials and construction.
 
-The [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) remains the most up-to-date resource for tracking product performance, pricing changes, and new arrivals in the t-shirt category. Bookmark it and check it before placing your next order to ensure you are working with current data.
+The [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) remains the most up-to-date resource for tracking product performance, pricing changes, and new arrivals in the t-shirt category. Bookmark it and check it before placing your next order to ensure you are working with current data.
 
 Whether you are building a streetwear wardrobe or sourcing products for resale, the information in this guide provides a solid foundation for making confident, data-backed purchasing decisions on Kakobuy in 2026.
 

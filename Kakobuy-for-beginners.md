@@ -1,6 +1,6 @@
-﻿# Kakobuy for Beginners 2026: Complete Getting Started Guide
+# Kakobuy for Beginners 2026: Complete Getting Started Guide
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -71,7 +71,7 @@ For first-time buyers, consider starting with a smaller, lower-cost item to fami
 
 **Tip**: Check Size Charts Carefully | Asian sizing often runs smaller than Western standards | Details: Always consult seller-provided measurements and compare to your body measurements | Notes: Consider ordering one size up if you're between sizes or prefer a looser fit
 
-**Tip**: Use the Spreadsheet | Track prices and sellers to make informed decisions | Details: The [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) contains valuable pricing data and seller ratings | Notes: Regular updates help you identify the best deals and most reliable sellers
+**Tip**: Use the Spreadsheet | Track prices and sellers to make informed decisions | Details: The [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) contains valuable pricing data and seller ratings | Notes: Regular updates help you identify the best deals and most reliable sellers
 
 **Tip**: Consolidate Shipments | Save money by combining multiple items into one package | Details: Take advantage of the 60-day free storage window to accumulate purchases | Notes: This significantly reduces per-item shipping costs, especially for lightweight items
 
@@ -105,7 +105,7 @@ The Kakobuy for beginners approach emphasizes patience and careful review at eac
 
 As you become more comfortable with the platform, you'll discover the vast array of products available and develop preferences for reliable sellers. The community aspect of proxy shopping means you can learn from others' experiences and share your own insights.
 
-Don't forget to reference the [spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) regularly for updated pricing information and seller recommendations. This resource is invaluable for making cost-effective decisions and avoiding problematic sellers.
+Don't forget to reference the [spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) regularly for updated pricing information and seller recommendations. This resource is invaluable for making cost-effective decisions and avoiding problematic sellers.
 
 Ready to start shopping? Create your account today and take advantage of the knowledge you've gained from this guide. Your first successful order is just around the corner, and soon you'll be navigating Kakobuy like a seasoned pro.
 

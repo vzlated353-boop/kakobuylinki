@@ -1,4 +1,4 @@
-ï»¿# Kakobuy Article Generation Prompt
+# Kakobuy Article Generation Prompt
 
 > This prompt guides AI to generate high-quality, SEO-optimized articles for Kakobuy platform pages.
 > Each article must follow this structure exactly.
@@ -10,7 +10,7 @@
 ```markdown
 # [Keyword] 2026: [Compelling Subtitle]
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 - [Key point 1]
@@ -199,13 +199,13 @@ Before finalizing each article, verify:
 
 ## Common Mistakes to Avoid
 
-â€”?**Keyword stuffing**: Don't force keyword unnaturally
-â€”?**Generic content**: Don't write vague statements without data
-â€”?**Missing data points**: Every article needs specific numbers
-â€”?**No internal links**: Must include 5+ total internal links
-â€”?**Copying existing articles**: All content must be 100% original
-â€”?**Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
-â€”?**Absolute claims**: Avoid "always," "never," "guaranteed" â€”?use "typically," "usually," "most"
+¡ª?**Keyword stuffing**: Don't force keyword unnaturally
+¡ª?**Generic content**: Don't write vague statements without data
+¡ª?**Missing data points**: Every article needs specific numbers
+¡ª?**No internal links**: Must include 5+ total internal links
+¡ª?**Copying existing articles**: All content must be 100% original
+¡ª?**Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
+¡ª?**Absolute claims**: Avoid "always," "never," "guaranteed" ¡ª?use "typically," "usually," "most"
 
 ---
 
@@ -265,4 +265,4 @@ Before finalizing each article, verify:
 5. **Internal linking**: Create a web of related content
 6. **E-E-A-T compliant**: Demonstrate experience, expertise, authority, trust
 
-Generate each article following this prompt exactly. Quality over quantity â€”?but meet all requirements.
+Generate each article following this prompt exactly. Quality over quantity ¡ª?but meet all requirements.

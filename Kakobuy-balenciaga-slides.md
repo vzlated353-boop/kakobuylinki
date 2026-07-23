@@ -1,6 +1,6 @@
-﻿# Kakobuy Balenciaga Slides 2026: Complete Guide to Luxury Comfort Footwear
+# Kakobuy Balenciaga Slides 2026: Complete Guide to Luxury Comfort Footwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -134,7 +134,7 @@ The Kakobuy Balenciaga slides category offers accessible entry into luxury footw
 
 The key to a successful Balenciaga slides purchase is understanding the differences between models, carefully reviewing QC photos with attention to strap quality and sole finish, and selecting the appropriate size based on your foot width and fit preferences. The spreadsheet consolidates all available options with detailed pricing, batch information, and community quality ratings in one accessible resource, making it easier than ever to find the perfect pair.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Balenciaga slide listings, compare batch versions, and find the luxury slide that matches your style and comfort requirements. Whether you are looking for simple poolside footwear or a statement piece that bridges the gap between casual and luxury, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes designer accessible.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Balenciaga slide listings, compare batch versions, and find the luxury slide that matches your style and comfort requirements. Whether you are looking for simple poolside footwear or a statement piece that bridges the gap between casual and luxury, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes designer accessible.
 
 ---
 

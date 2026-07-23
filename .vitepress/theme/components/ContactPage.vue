@@ -1,4 +1,4 @@
-﻿<template>
+<template>
   <div class="contact-page">
     <!-- Hero Section -->
     <section class="hero">

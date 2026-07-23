@@ -1,6 +1,6 @@
-﻿# Kakobuy Golden Goose 2026: Complete Guide to Luxury Distressed Sneakers
+# Kakobuy Golden Goose 2026: Complete Guide to Luxury Distressed Sneakers
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -136,7 +136,7 @@ The Kakobuy Golden Goose category delivers luxury-inspired distressed sneakers a
 
 The key to a successful Golden Goose purchase is understanding how to evaluate the distressing quality in QC photos, selecting the right batch version for your standards, and following the Italian sizing conversion carefully. The spreadsheet consolidates all available options with pricing, batch information, and community quality ratings in one accessible resource, making it easier than ever to find the perfect pair.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Golden Goose listings, compare batch versions, and find the distressed sneaker that matches your style. Whether you are a first-time buyer curious about the brand's unique aesthetic or a repeat collector adding another colorway, Kakobuy's data-driven approach ensures you get the quality you expect.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Golden Goose listings, compare batch versions, and find the distressed sneaker that matches your style. Whether you are a first-time buyer curious about the brand's unique aesthetic or a repeat collector adding another colorway, Kakobuy's data-driven approach ensures you get the quality you expect.
 
 ---
 

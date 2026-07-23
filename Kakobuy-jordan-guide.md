@@ -1,6 +1,6 @@
-﻿# Kakobuy Jordan Guide 2026: The Complete Buyer's Reference for Air Jordan Products
+# Kakobuy Jordan Guide 2026: The Complete Buyer's Reference for Air Jordan Products
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 
@@ -130,7 +130,7 @@ This Kakobuy jordan guide covers everything you need to know about purchasing Ai
 
 The key to a successful Jordan purchase is using the tools available on Kakobuy. Review QC photos carefully using the model-specific tips in this guide, understand batch version differences, follow the sizing recommendations, and check community quality ratings before committing. The spreadsheet consolidates all of this information in one place, making it easier than ever to make informed decisions.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Jordan listings, compare batch options, and find the sneakers that match your style and budget.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Jordan listings, compare batch options, and find the sneakers that match your style and budget.
 
 ---
 

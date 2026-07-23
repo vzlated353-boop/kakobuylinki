@@ -1,6 +1,6 @@
-﻿# Kakobuy Jackets 2026: Premium Outerwear Collection
+# Kakobuy Jackets 2026: Premium Outerwear Collection
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 - What Kakobuy jackets offer across all styles and categories
@@ -55,7 +55,7 @@ Selecting the right Kakobuy jackets involves understanding your style preference
 
 **Step 2: Understand Your Warmth Requirements**: Different jackets cater to different temperature ranges. If you need jackets for extreme cold, look for premium down-filled options like Moncler or Canada Goose. If you're in moderate climates, The North Face or Carhartt provide adequate warmth. The spreadsheet includes community feedback on warmth levels for each model.
 
-**Step 3: Review QC Photos Carefully**: Access the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and examine the QC photos for your chosen model. Pay attention to the material quality, insulation thickness, and overall construction. For jackets, check that the materials look premium and the construction is solid. Compare different batch versions to select the highest-quality option within your budget.
+**Step 3: Review QC Photos Carefully**: Access the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) and examine the QC photos for your chosen model. Pay attention to the material quality, insulation thickness, and overall construction. For jackets, check that the materials look premium and the construction is solid. Compare different batch versions to select the highest-quality option within your budget.
 
 **Step 4: Check Sizing for Proper Fit**: Proper fit is critical for jacket comfort and layering. Jackets typically need to accommodate layering underneath, so sizing up may be necessary. Moncler jackets typically run true to size. If you're between sizes, consider your layering needs and the jacket's intended fit when making your decision.
 

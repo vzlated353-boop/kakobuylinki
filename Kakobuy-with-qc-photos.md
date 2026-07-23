@@ -1,6 +1,6 @@
-ï»¿# Kakobuy With QC Photos 2026: Visual Evidence That Protects Every Purchase
+# Kakobuy With QC Photos 2026: Visual Evidence That Protects Every Purchase
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article
 
@@ -36,7 +36,7 @@ Effective QC photo review requires systematic evaluation of multiple quality fac
 
 Zoom in on material close-ups to evaluate texture, weight, and finish quality. Leather should look and feel like leather, not plastic. Fabrics should have appropriate weight and weave quality. Metal hardware should have appropriate weight and finish quality. Materials should not look cheap, thin, or poorly made.
 
-Examine stitching close-ups for even, consistent stitching with no loose threads or uneven seams. Stitch density should match the original â€” too few stitches per inch indicates poor construction. Seam finishes should be clean and professional, with no raw edges or fraying.
+Examine stitching close-ups for even, consistent stitching with no loose threads or uneven seams. Stitch density should match the original ¡ª too few stitches per inch indicates poor construction. Seam finishes should be clean and professional, with no raw edges or fraying.
 
 Check logo close-ups for correct sizing, proper positioning, and accurate reproduction in terms of font, spacing, and finish. Misaligned, oversized, or undersized logos are clear indicators of poor quality control. Compare the logo in the QC photos to reference images to verify accuracy.
 

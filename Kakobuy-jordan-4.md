@@ -1,6 +1,6 @@
-﻿# Kakobuy Jordan 4 2026: Complete Guide to Buying Jordan 4 Sneakers on Kakobuy
+# Kakobuy Jordan 4 2026: Complete Guide to Buying Jordan 4 Sneakers on Kakobuy
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 
@@ -139,7 +139,7 @@ Kakobuy jordan 4 products represent the premium end of the Jordan collection on 
 
 The key to a successful Jordan 4 purchase is thorough QC photo review using the model-specific checklist in this guide. Pay close attention to the mesh panel texturing, sole bonding, wing eyelet finishing, and heel tab embroidery. Follow the sizing recommendation of going up half a size from your regular Nike size. And use the spreadsheet to compare batch options and community quality ratings before committing.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Jordan 4 listings, compare colorways and batch options, and find the pair that matches your style and budget.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Jordan 4 listings, compare colorways and batch options, and find the pair that matches your style and budget.
 
 ---
 

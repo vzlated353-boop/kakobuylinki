@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Asia Shipping 2026: Complete Guide to Asia-Pacific Delivery
+# Kakobuy Asia Shipping 2026: Complete Guide to Asia-Pacific Delivery
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article
 
@@ -26,7 +26,7 @@ The platform supports major carriers including EMS, DHL, FedEx, and specialized 
 
 ## Customs and Import Regulations Across Asia-Pacific
 
-Customs regulations vary significantly across Asia-Pacific countries, each with unique import requirements. Kakobuy assists customers by providing accurate customs declarations and necessary documentation for each destination. Japan allows duty-free imports up to Â¥16,666 (approximately $100), while Singapore has a GST threshold of SGD 400. South Korea allows duty-free imports up to $150, and Thailand exempts items under à¸¿1,500.
+Customs regulations vary significantly across Asia-Pacific countries, each with unique import requirements. Kakobuy assists customers by providing accurate customs declarations and necessary documentation for each destination. Japan allows duty-free imports up to £¤16,666 (approximately $100), while Singapore has a GST threshold of SGD 400. South Korea allows duty-free imports up to $150, and Thailand exempts items under ?1,500.
 
 Kakobuy's compliance team maintains up-to-date knowledge of import regulations across all Asia-Pacific countries. The platform maintains a 97% customs clearance success rate for Asian shipments by ensuring proper documentation and accurate product descriptions tailored to each country's requirements.
 

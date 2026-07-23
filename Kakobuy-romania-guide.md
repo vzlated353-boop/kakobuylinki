@@ -1,6 +1,6 @@
-﻿# Kakobuy Romania Guide 2026: Everything You Need to Know
+# Kakobuy Romania Guide 2026: Everything You Need to Know
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article
 
@@ -30,7 +30,7 @@ Kakobuy offers multiple shipping methods to Romania, each with different cost an
 
 Shipping costs are calculated based on actual weight or volumetric weight, whichever is greater. Kakobuy provides detailed cost breakdowns before checkout, helping customers understand total landed costs. The platform consolidates multiple orders into single shipments, significantly reducing per-item shipping costs for buyers purchasing multiple items.
 
-All shipments include tracking numbers compatible with Poșta Română and local couriers. Customers can monitor their package's journey from China to their doorstep. Insurance coverage is included for high-value items, providing additional peace of mind. Signature confirmation is available for orders above certain value thresholds.
+All shipments include tracking numbers compatible with Po?ta Roman? and local couriers. Customers can monitor their package's journey from China to their doorstep. Insurance coverage is included for high-value items, providing additional peace of mind. Signature confirmation is available for orders above certain value thresholds.
 
 ## Quality Control and Customer Support
 
@@ -66,7 +66,7 @@ Take advantage of consolidated shipping by combining multiple orders into single
 Yes, Kakobuy is a legitimate shopping agent with delivery success rates of 95-98%. The platform provides quality inspection, secure payment processing, and reliable international shipping to Romania.
 
 **How do I track my Kakobuy order to Romania?**
-Kakobuy provides tracking numbers for all shipments. You can track your package through the platform's dashboard or use the tracking number with Poșta Română and local couriers.
+Kakobuy provides tracking numbers for all shipments. You can track your package through the platform's dashboard or use the tracking number with Po?ta Roman? and local couriers.
 
 **What happens if my Kakobuy order is damaged or defective?**
 Kakobuy's quality inspection service identifies most issues before shipping. If problems occur during transit, contact customer support to file a claim and arrange resolution.

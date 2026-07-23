@@ -1,4 +1,4 @@
-ï»¿# Kakobuy Internal Linking Rules
+# Kakobuy Internal Linking Rules
 
 > This document defines the internal linking structure for all 37 Kakobuy articles.
 > AI must follow these rules exactly when generating articles.
@@ -115,17 +115,17 @@ For more details on specific brands, check out our [Kakobuy nike param($m); $pat
 
 ### Incorrect Format
 
-â€”?Generic anchor text:
+¡ª?Generic anchor text:
 ```markdown
 [Click here param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  to learn more.
 ```
 
-â€”?Missing keyword in anchor:
+¡ª?Missing keyword in anchor:
 ```markdown
 [Read this guide param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  for more info.
 ```
 
-â€”?Wrong file path format:
+¡ª?Wrong file path format:
 ```markdown
 [Kakobuy Nike](/Kakobuy/Kakobuy-nike.md)
 ```
@@ -185,7 +185,7 @@ For more details on specific brands, check out our [Kakobuy nike param($m); $pat
 ### Conclusion Section
 - **Link count**: 0-1 link
 - **Purpose**: Optional link to spreadsheet or main guide
-- **Example**: "Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to discover..."
+- **Example**: "Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to discover..."
 
 ### Related Guides Section
 - **Link count**: Exactly 3 links
@@ -252,26 +252,26 @@ Before finalizing each article, verify:
 
 ## Common Mistakes to Avoid
 
-â€”?**Over-linking**: Don't add more than 8 internal links
-â€”?**Under-linking**: Don't add fewer than 5 internal links
-â€”?**Duplicate links**: Don't link to same page in-text and in Related Guides
-â€”?**Generic anchors**: Don't use "click here" or "read more"
-â€”?**Wrong file paths**: Don't use absolute paths or wrong filename format
-â€”?**Irrelevant links**: Don't link to unrelated pages just to meet count
-â€”?**Missing Related Guides**: Always include exactly 3 links in Related Guides
-â€”?**Keyword-stuffed anchors**: Keep anchor text natural, not forced
+¡ª?**Over-linking**: Don't add more than 8 internal links
+¡ª?**Under-linking**: Don't add fewer than 5 internal links
+¡ª?**Duplicate links**: Don't link to same page in-text and in Related Guides
+¡ª?**Generic anchors**: Don't use "click here" or "read more"
+¡ª?**Wrong file paths**: Don't use absolute paths or wrong filename format
+¡ª?**Irrelevant links**: Don't link to unrelated pages just to meet count
+¡ª?**Missing Related Guides**: Always include exactly 3 links in Related Guides
+¡ª?**Keyword-stuffed anchors**: Keep anchor text natural, not forced
 
 ---
 
 ## Linking Matrix Visualization
 
 ```
-                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€”?                    â€”?  Kakobuy ä¸»é¡µ   â€”?                    â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â€”?                             â€”?            â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€”?            â€”?               â€”?               â€”?    â”Œâ”€â”€â”€â”€â”€â”€â”€â–¼â”€â”€â”€â”€â”€â”€â”€â€”?â”Œâ”€â”€â”€â”€â”€â–¼â”€â”€â”€â”€â”€â”€â€”?â”Œâ”€â”€â”€â”€â”€â”€â”€â–¼â”€â”€â”€â”€â”€â”€â”€â€”?    â€”? å“ç±»é¡µé¢ (7)  â€”?â€”?å“ç‰Œé¡µé¢(7) â€”?â€”?åŠŸèƒ½é¡µé¢ (7)  â€”?    â€”? sneakers     â”‚â—„â”œâ–ºâ€”? nike      â€”?â€”? qc photos    â€”?    â€”? hoodies      â”‚â—„â”œâ–ºâ€”? jordan    â€”?â€”? shipping     â€”?    â€”? watches      â”‚â—„â”œâ–ºâ€”? adidas    â€”?â€”? sizing       â€”?    â€”? bags         â”‚â—„â”œâ–ºâ€”? chrome    â€”?â€”? reviews      â€”?    â€”? jeans        â”‚â—„â”œâ–ºâ€”? essentialsâ€”?â€”? legit check  â€”?    â€”? t-shirts     â”‚â—„â”œâ–ºâ€”? palm      â€”?â€”? coupon       â€”?    â€”? accessories  â”‚â—„â”œâ–ºâ€”? stussy    â€”?â€”? how to use   â€”?    â””â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â€”?â””â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â€”?â””â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â€”?            â€”?               â€”?               â€”?            â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¼â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€”?                             â€”?                    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â–¼â”€â”€â”€â”€â”€â”€â”€â”€â€”?                    â€”? Kakobuy ç”µå­è¡¨æ ¼ â€”?                    â€”? (å¤–éƒ¨é“¾æ¥ç»ˆç‚¹)   â€”?                    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€”?
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€”?    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€”?    â€”?å¯¹æ¯”é¡µé¢ (4)   â”‚â”€â”€â”€â”€â–¶â”‚  åœºæ™¯é¡µé¢ (4)  â€”?    â€”?vs Kakobuy    â€”?    â€”? beginners    â€”?    â€”?vs oopbuy     â€”?    â€”? resellers    â€”?    â€”?vs litbuy     â€”?    â€”? budget       â€”?    â€”?vs usfans     â€”?    â€”? luxury       â€”?    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€”?    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â€”?```
+                    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¡ª?                    ¡ª?  Kakobuy Ö÷Ò³   ¡ª?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©Ğ©¤©¤©¤©¤©¤©¤©¤©¤¡ª?                             ¡ª?            ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¡ª?            ¡ª?               ¡ª?               ¡ª?    ©°©¤©¤©¤©¤©¤©¤©¤¨‹©¤©¤©¤©¤©¤©¤©¤¡ª?©°©¤©¤©¤©¤©¤¨‹©¤©¤©¤©¤©¤©¤¡ª?©°©¤©¤©¤©¤©¤©¤©¤¨‹©¤©¤©¤©¤©¤©¤©¤¡ª?    ¡ª? Æ·ÀàÒ³Ãæ (7)  ¡ª?¡ª?Æ·ÅÆÒ³Ãæ(7) ¡ª?¡ª?¹¦ÄÜÒ³Ãæ (7)  ¡ª?    ¡ª? sneakers     ©¦?©À?¡ª? nike      ¡ª?¡ª? qc photos    ¡ª?    ¡ª? hoodies      ©¦?©À?¡ª? jordan    ¡ª?¡ª? shipping     ¡ª?    ¡ª? watches      ©¦?©À?¡ª? adidas    ¡ª?¡ª? sizing       ¡ª?    ¡ª? bags         ©¦?©À?¡ª? chrome    ¡ª?¡ª? reviews      ¡ª?    ¡ª? jeans        ©¦?©À?¡ª? essentials¡ª?¡ª? legit check  ¡ª?    ¡ª? t-shirts     ©¦?©À?¡ª? palm      ¡ª?¡ª? coupon       ¡ª?    ¡ª? accessories  ©¦?©À?¡ª? stussy    ¡ª?¡ª? how to use   ¡ª?    ©¸©¤©¤©¤©¤©¤©¤©¤©Ğ©¤©¤©¤©¤©¤©¤©¤¡ª?©¸©¤©¤©¤©¤©¤©Ğ©¤©¤©¤©¤©¤©¤¡ª?©¸©¤©¤©¤©¤©¤©¤©¤©Ğ©¤©¤©¤©¤©¤©¤©¤¡ª?            ¡ª?               ¡ª?               ¡ª?            ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¡ª?                             ¡ª?                    ©°©¤©¤©¤©¤©¤©¤©¤©¤¨‹©¤©¤©¤©¤©¤©¤©¤©¤¡ª?                    ¡ª? Kakobuy µç×Ó±í¸ñ ¡ª?                    ¡ª? (Íâ²¿Á´½ÓÖÕµã)   ¡ª?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¡ª?
+    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¡ª?    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¡ª?    ¡ª?¶Ô±ÈÒ³Ãæ (4)   ©¦©¤©¤©¤©¤?©¦  ³¡¾°Ò³Ãæ (4)  ¡ª?    ¡ª?vs Kakobuy    ¡ª?    ¡ª? beginners    ¡ª?    ¡ª?vs oopbuy     ¡ª?    ¡ª? resellers    ¡ª?    ¡ª?vs litbuy     ¡ª?    ¡ª? budget       ¡ª?    ¡ª?vs usfans     ¡ª?    ¡ª? luxury       ¡ª?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¡ª?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¡ª?```
 
 **Legend**:
-- `â—„â”œâ–º` = Bidirectional linking (pages link to each other)
-- `â”€â”€â”€â”€â–¶` = Unidirectional linking (one-way link)
+- `?©À?` = Bidirectional linking (pages link to each other)
+- `©¤©¤©¤©¤?` = Unidirectional linking (one-way link)
 - All pages link to spreadsheet (external link, not counted in internal link total)
 
 ---

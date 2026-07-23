@@ -1,6 +1,6 @@
-﻿# Kakobuy Coupon 2026: Complete Guide to Discounts & Deals
+# Kakobuy Coupon 2026: Complete Guide to Discounts & Deals
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article:
 
@@ -106,7 +106,7 @@ Kakobuy has established itself as a data-driven marketplace where buyers can fin
 
 By following the strategies outlined in this guide, you can consistently secure deals that save you 35% to 60% or more on products you actually need. The Kakobuy coupon system is designed to reward informed, disciplined shoppers who take the time to research before they buy.
 
-For the most current deal data, always refer to the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972). It is your single best resource for real-time pricing, order volumes, and pass rates. Bookmark it, check it daily, and let the data guide your purchasing decisions.
+For the most current deal data, always refer to the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254). It is your single best resource for real-time pricing, order volumes, and pass rates. Bookmark it, check it daily, and let the data guide your purchasing decisions.
 
 ---
 

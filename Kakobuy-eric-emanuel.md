@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Eric Emanuel 2026: Complete Guide to Luxury Athletic Streetwear
+# Kakobuy Eric Emanuel 2026: Complete Guide to Luxury Athletic Streetwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -100,7 +100,7 @@ Eric Emanuel represents the pinnacle of luxury athletic streetwear, and Kakobuy 
 
 ## Related Guides
 
-- [Kakobuy Young LA](/Kakobuy-youngla/) â€” Gym-focused streetwear with complementary aesthetics
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear brands
-- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) â€” Complete tee guide for athletic and casual wear
+- [Kakobuy Young LA](/Kakobuy-youngla/) ¡ª Gym-focused streetwear with complementary aesthetics
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear brands
+- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) ¡ª Complete tee guide for athletic and casual wear
 

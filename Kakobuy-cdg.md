@@ -1,9 +1,9 @@
-﻿# Kakobuy CDG 2026: The Complete Guide to Avant-Garde Japanese Luxury
+# Kakobuy CDG 2026: The Complete Guide to Avant-Garde Japanese Luxury
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
-- Why Comme des Garçons has become the defining avant-garde luxury brand in 2026
+- Why Comme des Gar?ons has become the defining avant-garde luxury brand in 2026
 - Complete product range: apparel, accessories, and iconic heart logo pieces
 - The legendary CDG branding and Japanese avant-garde heritage explained
 - Quality standards and pricing analysis across the CDG collection
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Comme des Garçons (CDG) has defined avant-garde Japanese luxury for over 50 years, and in 2026, the brand continues to captivate fashion enthusiasts with its unconventional designs and iconic heart logo. For collectors and style connoisseurs seeking authentic CDG pieces without the exorbitant retail pricing, Kakobuy has emerged as the premier destination for quality luxury goods at accessible prices. With over 10+ CDG products currently available and prices ranging from $15.66 for tracksuits to $32.14 for premium pieces, Kakobuy makes owning genuine CDG accessible to discerning buyers worldwide.
+Comme des Gar?ons (CDG) has defined avant-garde Japanese luxury for over 50 years, and in 2026, the brand continues to captivate fashion enthusiasts with its unconventional designs and iconic heart logo. For collectors and style connoisseurs seeking authentic CDG pieces without the exorbitant retail pricing, Kakobuy has emerged as the premier destination for quality luxury goods at accessible prices. With over 10+ CDG products currently available and prices ranging from $15.66 for tracksuits to $32.14 for premium pieces, Kakobuy makes owning genuine CDG accessible to discerning buyers worldwide.
 
 The luxury resale market has evolved significantly, and buyers today demand transparency, quality assurance, and competitive pricing. Kakobuy addresses all three with a 92-95% quality pass rate across their CDG collection and over 340+ verified orders processed monthly. Whether you're looking for the iconic CDG tracksuits, artistic apparel, or the coveted heart logo pieces, this comprehensive guide covers everything you need to know about shopping CDG on Kakobuy in 2026.
 

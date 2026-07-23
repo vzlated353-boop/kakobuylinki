@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Kids Sizes 2026: Complete Guide to Children's Sizing
+# Kakobuy Kids Sizes 2026: Complete Guide to Children's Sizing
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article
 
@@ -66,7 +66,7 @@ Shoe sizing requires special growth consideration. Children's feet grow rapidly,
 Kids sizing typically follows standard age-based ranges, but Asian sizing may run slightly small. Use actual measurements rather than age labels. Measure your child and compare against size charts directly.
 
 **Should I size up for growth room?**
-For fast-growing children, size up to accommodate 3-6 months growth. For children between growth spurts, select sizes that fit well currently. Consider fabric compositionâ€”stretchy fabrics accommodate growth better.
+For fast-growing children, size up to accommodate 3-6 months growth. For children between growth spurts, select sizes that fit well currently. Consider fabric composition¡ªstretchy fabrics accommodate growth better.
 
 **How often should I measure my child for sizing?**
 Measure children every 2-3 months as they grow rapidly. For shoe sizing, measure feet monthly during growth spurts. Keep a measurement record to track growth patterns.

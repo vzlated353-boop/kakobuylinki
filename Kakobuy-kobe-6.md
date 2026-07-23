@@ -1,6 +1,6 @@
-﻿# Kakobuy Kobe 6 2026: Deep Dive into Kobe Bryant's Most Iconic Basketball Shoe
+# Kakobuy Kobe 6 2026: Deep Dive into Kobe Bryant's Most Iconic Basketball Shoe
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -138,7 +138,7 @@ The Kakobuy Kobe 6 represents the pinnacle of basketball performance footwear av
 
 The key to a successful Kobe 6 purchase is understanding the performance-focused fit characteristics, conducting a thorough QC photo review focusing on upper material quality and cushioning implementation, selecting the correct size based on your foot width and intended use, and choosing PK batch for the best performance results. The spreadsheet consolidates all available Kobe 6 options with detailed batch information, quality ratings, and order volumes in one accessible resource, eliminating the uncertainty that typically accompanies performance basketball shoe purchases.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Kobe 6 listings, compare batch versions, and find the colorway that matches your performance needs and style vision. For buyers who appreciate basketball legacy and are unwilling to compromise on court performance, the Kobe 6 delivers an unmatched combination of design innovation and competitive advantage at a price point that makes this legend accessible.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Kobe 6 listings, compare batch versions, and find the colorway that matches your performance needs and style vision. For buyers who appreciate basketball legacy and are unwilling to compromise on court performance, the Kobe 6 delivers an unmatched combination of design innovation and competitive advantage at a price point that makes this legend accessible.
 
 ---
 

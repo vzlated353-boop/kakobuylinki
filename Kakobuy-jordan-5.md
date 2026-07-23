@@ -1,6 +1,6 @@
-﻿# Kakobuy Jordan 5 2026: The Ultimate Buyer's Guide to Jordan 5 Sneakers
+# Kakobuy Jordan 5 2026: The Ultimate Buyer's Guide to Jordan 5 Sneakers
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 
@@ -145,7 +145,7 @@ Kakobuy jordan 5 products offer one of the most distinctive and historically sig
 
 The key to a successful Jordan 5 purchase is thorough QC photo review using the model-specific checklist in this guide. Pay close attention to the reflective tongue quality, shark-tooth midsole paint accuracy, sole bonding, and outsole clarity. Follow the sizing recommendation of sticking with your regular Nike size. And use the spreadsheet to compare batch options and community quality ratings before committing.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Jordan 5 listings, compare colorways and batch options, and find the pair that matches your style and budget.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Jordan 5 listings, compare colorways and batch options, and find the pair that matches your style and budget.
 
 ---
 

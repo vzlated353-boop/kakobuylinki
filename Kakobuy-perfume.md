@@ -1,6 +1,6 @@
-﻿# Kakobuy Perfume 2026: Complete Guide to Scent Profiles & Variants
+# Kakobuy Perfume 2026: Complete Guide to Scent Profiles & Variants
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -107,7 +107,7 @@ Kakobuy perfume offers a compelling combination of variety, quality, and afforda
 
 Whether you're drawn to the fresh versatility of Perfume Variant 2, the sophisticated depth of Perfume Variant 3, or the balanced everyday appeal of the base Perfume, Kakobuy perfume provides accessible entry into the world of quality fragrances. With shipping times of 10-14 days and a 68% reorder rate, the platform has earned the trust of a growing community of fragrance enthusiasts.
 
-Ready to find your signature scent or expand your fragrance wardrobe? Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore the complete Kakobuy perfume collection and start building your personalized scent collection today.
+Ready to find your signature scent or expand your fragrance wardrobe? Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore the complete Kakobuy perfume collection and start building your personalized scent collection today.
 
 ---
 

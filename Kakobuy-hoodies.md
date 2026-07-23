@@ -1,6 +1,6 @@
-﻿# Kakobuy Hoodies 2026: Ultimate Guide to Premium Streetwear
+# Kakobuy Hoodies 2026: Ultimate Guide to Premium Streetwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -117,7 +117,7 @@ The Kakobuy hoodies category offers compelling value for buyers seeking premium 
 
 Success when purchasing hoodies on Kakobuy typically depends on three factors: understanding brand-specific sizing patterns, reviewing fabric composition and weight specifications, and setting realistic expectations based on price point. Community feedback consistently shows that buyers who research these elements before purchasing report significantly higher satisfaction rates.
 
-For those ready to explore current inventory, the [Kakobuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) provides comprehensive product listings with detailed specifications, pricing, and availability. This resource helps buyers compare options across brands and make informed decisions based on their specific preferences and budget requirements.
+For those ready to explore current inventory, the [Kakobuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) provides comprehensive product listings with detailed specifications, pricing, and availability. This resource helps buyers compare options across brands and make informed decisions based on their specific preferences and budget requirements.
 
 Whether you're drawn to the bold branding of Supreme, the minimalist appeal of Essentials, or the contemporary edge of Trapstar, the platform typically maintains sufficient inventory across popular sizes and colorways. As with any purchase, taking time to review measurements, fabric details, and community feedback helps ensure satisfaction with your selection.
 

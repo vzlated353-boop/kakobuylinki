@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 title: "About Kakobuy - Your Trusted China Shopping Agent"
 heroSubtitle: "Discover our mission to simplify cross-border shopping and connect you with the best of Chinese e-commerce."

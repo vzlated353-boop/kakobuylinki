@@ -1,6 +1,6 @@
-﻿# Kakobuy Accessories 2026: Complete Guide to Hats, Jewelry & More
+# Kakobuy Accessories 2026: Complete Guide to Hats, Jewelry & More
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -116,7 +116,7 @@ Kakobuy accessories in 2026 offer buyers a compelling mix of verified quality an
 
 Whether you're building out a streetwear essentials kit or simply looking for reliable everyday pieces, the key is to start with versatile, high-quality basics and expand from there. Use the Kakobuy spreadsheet to compare products side by side, check order volumes, and verify quality metrics before committing to a purchase.
 
-Ready to explore the full range? Access the complete product data in the [Kakobuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and start building your accessories collection with confidence.
+Ready to explore the full range? Access the complete product data in the [Kakobuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) and start building your accessories collection with confidence.
 
 ---
 

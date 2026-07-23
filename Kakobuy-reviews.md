@@ -1,6 +1,6 @@
-﻿# Kakobuy Reviews 2026: Complete Guide to User Feedback & Ratings
+# Kakobuy Reviews 2026: Complete Guide to User Feedback & Ratings
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article:
 
@@ -106,7 +106,7 @@ No platform is without areas for improvement, and Kakobuy's shipping timelines a
 
 For buyers ready to make informed decisions, the Kakobuy spreadsheet remains the most powerful tool available. It consolidates order data, quality metrics, and community feedback into a single reference point that eliminates guesswork from the purchasing process. Whether you're a first-time buyer evaluating the platform or a seasoned reseller optimizing your sourcing strategy, combining review insights with spreadsheet data gives you a decisive advantage.
 
-Ready to explore the full picture? Access the complete product data and community feedback in the [Kakobuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and start shopping with confidence.
+Ready to explore the full picture? Access the complete product data and community feedback in the [Kakobuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) and start shopping with confidence.
 
 ---
 

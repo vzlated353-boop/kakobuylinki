@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 title: "Best Kakobuy Spreadsheet 2026: Top Fashion Finds You Should Know"
 heroSubtitle: "Explore the most sought-after fashion items and trending products from the Kakobuy Spreadsheet in 2026."

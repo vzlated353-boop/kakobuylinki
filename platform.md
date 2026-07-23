@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 platformName: Kakobuy
 heroSubtitle: Your Ultimate China Shopping Agent for Global Shoppers.

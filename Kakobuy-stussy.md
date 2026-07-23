@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Stussy 2026: Complete Guide to OG Streetwear
+# Kakobuy Stussy 2026: Complete Guide to OG Streetwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -31,17 +31,17 @@ The Kakobuy stussy marketplace features verified products that meet quality stan
 
 Understanding the Kakobuy stussy product landscape requires examining the available offerings. Currently, the platform features 1 verified Stussy listing in the tee category.
 
-**Tees** represent the current Stussy inventory on Kakobuy. The Stussy T-shirt at ~$16.32 offers buyers an accessible entry point into the brand. Material quality focuses on cotton construction that provides substantial weight without sacrificing breathability. Print durability is a key considerationâ€”higher-quality versions feature screen-printed graphics that withstand multiple washes without cracking or fading. For buyers interested in building a t-shirt collection, [Kakobuy t-shirts](/Kakobuy-t-shirts/) guides provide additional context on evaluating print quality and fabric composition.
+**Tees** represent the current Stussy inventory on Kakobuy. The Stussy T-shirt at ~$16.32 offers buyers an accessible entry point into the brand. Material quality focuses on cotton construction that provides substantial weight without sacrificing breathability. Print durability is a key consideration¡ªhigher-quality versions feature screen-printed graphics that withstand multiple washes without cracking or fading. For buyers interested in building a t-shirt collection, [Kakobuy t-shirts](/Kakobuy-t-shirts/) guides provide additional context on evaluating print quality and fabric composition.
 
 ## Quality & Sizing Guide
 
 Evaluating quality across Kakobuy stussy products requires attention to specific material and construction details that distinguish higher-tier items from lower-quality alternatives. The platform's quality control data reveals consistent patterns across categories, helping buyers set appropriate expectations.
 
-**Material composition** serves as the primary quality indicator. Stussy tees typically use 100% cotton or cotton-polyester blends ranging from 180 to 260 GSM. Higher GSM values indicate heavier, more substantial fabric that better mimics authentic retail quality. Hoodies should feature fleece lining with a density that provides warmth without excessive pilling. Check product descriptions for fabric weight specificationsâ€”reputable sellers provide this information transparently.
+**Material composition** serves as the primary quality indicator. Stussy tees typically use 100% cotton or cotton-polyester blends ranging from 180 to 260 GSM. Higher GSM values indicate heavier, more substantial fabric that better mimics authentic retail quality. Hoodies should feature fleece lining with a density that provides warmth without excessive pilling. Check product descriptions for fabric weight specifications¡ªreputable sellers provide this information transparently.
 
 **Construction quality** manifests in stitching consistency, seam alignment, and hardware durability. Examine photos for even stitch lengths, reinforced stress points, and properly attached labels. Zippers, drawstrings, and snap buttons should feel substantial rather than flimsy. The quality pass rate of 87% across Stussy products reflects improvements in manufacturing oversight, but buyers should still exercise due diligence when selecting specific items.
 
-**Sizing considerations** require attention to regional fit differences. Stussy products on Kakobuy typically follow Asian sizing conventions, which run smaller than US/European equivalents. Buyers should consult size charts carefully, measuring existing garments for comparison. Tees generally run true to size when ordered one size up, while hoodies may require sizing up by two sizes for a relaxed fit. Pants and shorts vary more significantly by styleâ€”cargo shorts often fit more generously than tailored work pants. When in doubt, contact sellers directly with specific measurements rather than relying on generic size labels.
+**Sizing considerations** require attention to regional fit differences. Stussy products on Kakobuy typically follow Asian sizing conventions, which run smaller than US/European equivalents. Buyers should consult size charts carefully, measuring existing garments for comparison. Tees generally run true to size when ordered one size up, while hoodies may require sizing up by two sizes for a relaxed fit. Pants and shorts vary more significantly by style¡ªcargo shorts often fit more generously than tailored work pants. When in doubt, contact sellers directly with specific measurements rather than relying on generic size labels.
 
 ## Product Highlights
 

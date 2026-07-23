@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Young LA 2026: Complete Guide to Premium Gym Streetwear
+# Kakobuy Young LA 2026: Complete Guide to Premium Gym Streetwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -36,7 +36,7 @@ This hoodie represents the quintessential Young LA piece, featuring the brand's 
 
 **Young LA T-shirt**
 Price: ~$11.21
-Crafted from premium performance cotton blend, this tee features the beloved Young LA logo with precise screen printing or embroidery that maintains clarity through intense training sessions and multiple laundering cycles. The fabric incorporates moisture-wicking properties while maintaining a soft hand feel. Quality inspections reveal high accuracy in design placement and color matching. The fit follows authentic patterns with a slightly oversized silhouette through the shoulders and chest â€” the signature "pump cover" look that has become the brand's calling card.
+Crafted from premium performance cotton blend, this tee features the beloved Young LA logo with precise screen printing or embroidery that maintains clarity through intense training sessions and multiple laundering cycles. The fabric incorporates moisture-wicking properties while maintaining a soft hand feel. Quality inspections reveal high accuracy in design placement and color matching. The fit follows authentic patterns with a slightly oversized silhouette through the shoulders and chest ¡ª the signature "pump cover" look that has become the brand's calling card.
 
 **Young LA Shorts**
 Price: ~$16.32
@@ -100,7 +100,7 @@ Young LA represents the new wave of Australian gym streetwear, and Kakobuy deliv
 
 ## Related Guides
 
-- [Kakobuy Gymshark](/Kakobuy-gymshark/) â€” Leading fitness apparel with comparable performance standards
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear and gym brands
-- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) â€” Complete tee guide for gym and casual wear
+- [Kakobuy Gymshark](/Kakobuy-gymshark/) ¡ª Leading fitness apparel with comparable performance standards
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear and gym brands
+- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) ¡ª Complete tee guide for gym and casual wear
 

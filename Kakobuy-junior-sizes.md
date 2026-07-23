@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Junior Sizes 2026: Complete Guide to Junior and Teen Sizing
+# Kakobuy Junior Sizes 2026: Complete Guide to Junior and Teen Sizing
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article
 
@@ -52,7 +52,7 @@ Hip measurement requires wrapping the tape around the fullest part of the hips. 
 
 Junior sizing must balance current fit with continued growth potential. Teens grow at different rates, with some experiencing rapid growth spurts while others grow more gradually. Understanding your teen's growth pattern helps you select sizes that fit well now while accommodating reasonable growth.
 
-For teens in active growth phases, consider sizing up to accommodate 3-6 months of growth. For teens between growth spurts or nearing adult height, select sizes that fit well currently with minimal growth room. Fabric composition affects growth accommodationâ€”stretchy fabrics provide flexibility as teens grow.
+For teens in active growth phases, consider sizing up to accommodate 3-6 months of growth. For teens between growth spurts or nearing adult height, select sizes that fit well currently with minimal growth room. Fabric composition affects growth accommodation¡ªstretchy fabrics provide flexibility as teens grow.
 
 Style preferences affect size selection for teens. Some prefer fitted styles following current body contours, while others prefer relaxed fits with more room. Understanding your teen's style preferences helps you select sizes they'll actually want to wear. Check product descriptions for fit style and read junior-specific reviews for fit feedback.
 

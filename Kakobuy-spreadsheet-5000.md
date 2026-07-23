@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Spreadsheet 5000: Streamlined Product Database for Smart Shoppers
+# Kakobuy Spreadsheet 5000: Streamlined Product Database for Smart Shoppers
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article
 
@@ -28,7 +28,7 @@ The selection process also involves regular reviews of existing products. If a p
 
 Products in the 5000 database are organized into major categories: Electronics, Clothing, Home & Kitchen, Accessories, Beauty, Sports & Outdoors, and Toys & Hobbies. Each major category is subdivided into specific subcategories for easier browsing. For example, the Electronics category includes Phone Accessories, Audio Equipment, Computer Peripherals, and Smart Home Devices. This hierarchical structure makes it easy to navigate the database and find products in your area of interest.
 
-Within each subcategory, products are sorted by a combination of quality pass rate and order volume. This ensures that the highest-quality, most popular products appear first, making it easy to identify top options quickly. You can also customize the sorting based on your prioritiesâ€”sort by price, newest additions, or seller rating. The spreadsheet uses color coding to highlight quality metrics: green for 90%+ pass rates, yellow for 80-90%, and red for below 80%.
+Within each subcategory, products are sorted by a combination of quality pass rate and order volume. This ensures that the highest-quality, most popular products appear first, making it easy to identify top options quickly. You can also customize the sorting based on your priorities¡ªsort by price, newest additions, or seller rating. The spreadsheet uses color coding to highlight quality metrics: green for 90%+ pass rates, yellow for 80-90%, and red for below 80%.
 
 For additional guidance on understanding the selection process, the [Kakobuy spreadsheet best](/Kakobuy-spreadsheet-best/) guide provides detailed information on how products are chosen and maintained. The [Kakobuy spreadsheet with qc](/Kakobuy-spreadsheet-with-qc/) resource explains how quality inspection data is used to verify product quality and maintain database standards.
 

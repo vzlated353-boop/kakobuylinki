@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Adidas Superstar 2026: Complete Guide to Iconic Shell-Toe Sneakers
+# Kakobuy Adidas Superstar 2026: Complete Guide to Iconic Shell-Toe Sneakers
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 - What makes Adidas Superstar a timeless classic on Kakobuy
@@ -23,7 +23,7 @@ The Adidas Superstar's cultural significance cannot be overstated. From Run-DMC'
 
 Current data shows that Adidas shoes on Kakobuy average around $24.73, positioning them as mid-tier offerings within the broader [Kakobuy sneakers](/Kakobuy-sneakers/) collection. The Superstar models typically feature the signature rubber shell toe, three-stripe branding, and serrated trefoil logo on the tongue. Batch versions vary in quality, with premium batches offering better materials and more accurate detailing. Most orders for Superstar sneakers report a 94% quality pass rate, indicating consistent manufacturing standards.
 
-Buyers appreciate the Superstar's versatilityâ€”it pairs equally well with jeans, track pants, or shorts. The classic white leather upper with black stripes remains the most popular colorway, though seasonal releases and collaboration editions occasionally appear in the spreadsheet. When browsing, pay attention to the batch version notes, as these indicate the factory and quality tier. Premium batches typically cost $5-10 more but offer superior materials and construction. Community feedback suggests that the investment is worthwhile, as higher-tier batches maintain their appearance longer and more closely resemble retail pairs.
+Buyers appreciate the Superstar's versatility¡ªit pairs equally well with jeans, track pants, or shorts. The classic white leather upper with black stripes remains the most popular colorway, though seasonal releases and collaboration editions occasionally appear in the spreadsheet. When browsing, pay attention to the batch version notes, as these indicate the factory and quality tier. Premium batches typically cost $5-10 more but offer superior materials and construction. Community feedback suggests that the investment is worthwhile, as higher-tier batches maintain their appearance longer and more closely resemble retail pairs.
 
 ## Quality Verification and Batch Selection
 

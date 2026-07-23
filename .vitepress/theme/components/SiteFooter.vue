@@ -1,4 +1,4 @@
-﻿<template>
+<template>
   <footer class="site-footer">
     <p class="site-footer-line">
       Kakobuy - Your Trusted Fashion &amp; Lifestyle Guide |

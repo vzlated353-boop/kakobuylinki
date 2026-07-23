@@ -1,6 +1,6 @@
-﻿# Kakobuy Streetwear Shoes 2026: Urban Style Meets Verified Quality
+# Kakobuy Streetwear Shoes 2026: Urban Style Meets Verified Quality
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 - What defines Kakobuy streetwear shoes and urban footwear styles
@@ -51,7 +51,7 @@ Building your streetwear footwear collection through Kakobuy requires careful se
 
 **Step 1: Define Your Streetwear Aesthetic**: Streetwear encompasses multiple styles. Are you into classic skate culture (Nike Dunks, Jordan 4s), high-fashion street (Balenciaga, Off-white), or Japanese streetwear (Bape)? Understanding your preferred aesthetic helps narrow down choices. The spreadsheet organizes shoes by style, making it easier to find models that match your vision.
 
-**Step 2: Study QC Photos Carefully**: For streetwear shoes, details matter immensely. Access the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) and examine QC photos for your chosen model. Look for accurate logo placement, correct colorways, proper material texture, and clean construction. Compare different batch versions to select the highest-quality option.
+**Step 2: Study QC Photos Carefully**: For streetwear shoes, details matter immensely. Access the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) and examine QC photos for your chosen model. Look for accurate logo placement, correct colorways, proper material texture, and clean construction. Compare different batch versions to select the highest-quality option.
 
 **Step 3: Check Sizing and Fit**: Streetwear shoes often have specific fit requirements. Nike Dunks typically run true to size, while Balenciaga chunky sneakers may require sizing up. Jordan 4s usually fit true to size with adequate room. Refer to the [Kakobuy sizing guide](/Kakobuy-sizing-guide/) for brand-specific recommendations to ensure proper fit.
 
@@ -89,7 +89,7 @@ Kakobuy streetwear shoes deliver authentic urban style at accessible prices, mak
 
 Whether you prefer classic Nike Dunks, bold Balenciaga chunky sneakers, or Japanese streetwear from Bape, Kakobuy streetwear shoes provide verified quality and accurate designs. The strong order numbers and positive community feedback demonstrate that buyers trust the platform for streetwear footwear that delivers on style and quality.
 
-Ready to elevate your streetwear game? Access the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore streetwear shoe models, review detailed QC photos, and order your next statement piece with confidence.
+Ready to elevate your streetwear game? Access the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore streetwear shoe models, review detailed QC photos, and order your next statement piece with confidence.
 
 ---
 

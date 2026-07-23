@@ -1,6 +1,6 @@
-﻿# Kakobuy Room Decor 2026: Complete Guide to Home Accessories & Styling
+# Kakobuy Room Decor 2026: Complete Guide to Home Accessories & Styling
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -108,7 +108,7 @@ Kakobuy room decor represents a smart, creative approach to interior styling in 
 
 With over 276+ verified products, a 94.2% quality pass rate, and shipping times of 10-14 days, Kakobuy provides a reliable platform for building a curated home decor collection. The data speaks for itself: 72% of buyers reorder within three months, and average order values of $18.50 make it possible to experiment with different styles without breaking the bank.
 
-Ready to transform your space? Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to discover the complete range of Kakobuy room decor options and start building your personalized interior today.
+Ready to transform your space? Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to discover the complete range of Kakobuy room decor options and start building your personalized interior today.
 
 ---
 

@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: Shoes Guide - Sneakers, Boots & More | Kakobuy
 description: Complete guide to shoes including running, basketball, casual sneakers, boots and slides. Quality specs, pricing, and logistics info.
 ---
@@ -8,26 +8,26 @@ import { siteConfig } from './.vitepress/theme/site-config.js'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const shoesCategory = siteConfig.categories.find(c => c.id === 'shoes')
-const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
+const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
 
 const productTypes = [
   {
-    icon: 'ğŸƒ',
+    icon: '??',
     name: 'Running Shoes',
     desc: 'Engineered for performance with responsive cushioning, breathable mesh uppers, and durable rubber outsoles. Key technologies include Nike Air Zoom, Adidas Boost, and ASICS Gel for energy return and shock absorption.'
   },
   {
-    icon: 'ğŸ€',
+    icon: '??',
     name: 'Basketball Shoes',
     desc: 'Built for court performance with ankle support, herringbone traction patterns, and impact protection. Popular models feature Zoom Air units, Boost midsoles, and reinforced toe boxes for durability during lateral movements.'
   },
   {
-    icon: 'ğŸ‘Ÿ',
+    icon: '??',
     name: 'Casual Sneakers',
     desc: 'Lifestyle footwear blending comfort and style. Classic silhouettes like Air Force 1, Stan Smith, and Chuck Taylor remain timeless. Modern iterations incorporate premium materials like leather, suede, and knit uppers.'
   },
   {
-    icon: 'ğŸ¥¾',
+    icon: '??',
     name: 'Boots',
     desc: 'From rugged work boots to fashion-forward designs. Key features include Goodyear welt construction, waterproof membranes, Vibram outsoles, and premium leather uppers. Brands like Timberland and Red Wing lead in durability.'
   },
@@ -136,7 +136,7 @@ Whether you are a runner seeking performance, a sneakerhead chasing limited rele
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
     <span class="btn-icon"></span>
     <span>View Shoes Spreadsheet</span>
-    <span class="btn-arrow">â†’</span>
+    <span class="btn-arrow">¡ú</span>
   </a>
 </div>
 
@@ -234,8 +234,8 @@ Proper care extends the life of your shoes significantly:
 
 Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
 
-- [Clothes Guide](/clothes) â€” Streetwear, hoodies, jackets, pants and more. Find the perfect tops and bottoms to pair with your shoes.
-- [Hats Guide](/hats) â€” Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
+- [Clothes Guide](/clothes) ¡ª Streetwear, hoodies, jackets, pants and more. Find the perfect tops and bottoms to pair with your shoes.
+- [Hats Guide](/hats) ¡ª Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
 
 <style scoped>
 .brand-table-wrapper,

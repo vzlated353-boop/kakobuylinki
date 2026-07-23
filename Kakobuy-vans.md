@@ -1,6 +1,6 @@
-﻿# Kakobuy Vans 2026: The Ultimate Guide to Classic Skate-Inspired Sneakers
+# Kakobuy Vans 2026: The Ultimate Guide to Classic Skate-Inspired Sneakers
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -152,7 +152,7 @@ The Kakobuy Vans category delivers classic skate-inspired sneakers at accessible
 
 The key to a successful Vans purchase is understanding the true-to-size fit characteristics, carefully reviewing QC photos with attention to canvas quality and sole construction, and selecting the appropriate model for your style preferences and intended use. The spreadsheet consolidates all available options with detailed pricing, batch information, and community quality ratings in one accessible resource.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Vans listings, compare batch versions, and find the classic sneaker that matches your style. Whether you are a skateboarder looking for durable footwear or a fashion enthusiast seeking timeless casual style, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes these icons accessible.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Vans listings, compare batch versions, and find the classic sneaker that matches your style. Whether you are a skateboarder looking for durable footwear or a fashion enthusiast seeking timeless casual style, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes these icons accessible.
 
 ---
 

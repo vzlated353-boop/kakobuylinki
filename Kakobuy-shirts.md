@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Shirts 2026: Complete Guide to All Shirt Types and Styles
+# Kakobuy Shirts 2026: Complete Guide to All Shirt Types and Styles
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 **In This Article:**
 - What types of shirts are available on Kakobuy (T-shirts, polos, button-ups)
@@ -145,7 +145,7 @@ Most shirts feature:
 - **Fleece materials**: For hoodies and sweatshirts
 - **Performance fabrics**: For athletic wear
 
-The spreadsheet system provides detailed material information, batch versions, and quality indicators for each shirt. This transparency allows buyers to make informed decisions based on their prioritiesâ€”whether that's price, brand, material quality, or specific design features.
+The spreadsheet system provides detailed material information, batch versions, and quality indicators for each shirt. This transparency allows buyers to make informed decisions based on their priorities¡ªwhether that's price, brand, material quality, or specific design features.
 
 For more information on verifying quality, check the Kakobuy legit check guide and QC photos documentation.
 

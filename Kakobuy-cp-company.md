@@ -1,6 +1,6 @@
-ï»¿# Kakobuy C.P. Company 2026: Complete Guide to Italian Technical Streetwear
+# Kakobuy C.P. Company 2026: Complete Guide to Italian Technical Streetwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -18,7 +18,7 @@ Italian technical streetwear occupies a unique space where performance fabrics m
 
 After personally testing 5+ items from the C.P. Company collection and gathering feedback from 150+ buyers throughout early 2026, this guide reflects our hands-on experience with the brand on Kakobuy.
 
-Founded by Massimo Osti in 1971, C.P. Company pioneered garment dyeing techniques and functional design elements that have become industry standards. The brand's iconic lens detail on hoods and sleeves represents more than aesthetic choice â€” it signals a commitment to experimental fabrication that defines Italian technical wear. Search volume for C.P. Company replicas has increased 22% year-over-year across major sourcing platforms, reflecting growing demand for the brand's distinctive aesthetic.
+Founded by Massimo Osti in 1971, C.P. Company pioneered garment dyeing techniques and functional design elements that have become industry standards. The brand's iconic lens detail on hoods and sleeves represents more than aesthetic choice ¡ª it signals a commitment to experimental fabrication that defines Italian technical wear. Search volume for C.P. Company replicas has increased 22% year-over-year across major sourcing platforms, reflecting growing demand for the brand's distinctive aesthetic.
 
 What sets the Kakobuy cp company experience apart is the platform's transparent approach to quality documentation. Each listing includes verified inspection data, real order counts, and detailed material breakdowns. The average quality pass rate across C.P. Company products stands at 93.5%, exceeding the platform-wide average of 89.5%. This attention to quality verification has built significant trust among buyers who value technical construction details.
 
@@ -100,7 +100,7 @@ C.P. Company represents the pinnacle of Italian technical streetwear, and Kakobu
 
 ## Related Guides
 
-- [Kakobuy Stone Island](/Kakobuy-stone-island/) â€” Italian technical streetwear from another heritage brand
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear brands
-- [Kakobuy Jeans](/Kakobuy-jeans/) â€” Complete denim guide for building versatile outfits
+- [Kakobuy Stone Island](/Kakobuy-stone-island/) ¡ª Italian technical streetwear from another heritage brand
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear brands
+- [Kakobuy Jeans](/Kakobuy-jeans/) ¡ª Complete denim guide for building versatile outfits
 

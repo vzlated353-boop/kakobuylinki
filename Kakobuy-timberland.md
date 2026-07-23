@@ -1,6 +1,6 @@
-﻿# Kakobuy Timberland 2026: Complete Guide to Iconic Premium Boots
+# Kakobuy Timberland 2026: Complete Guide to Iconic Premium Boots
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -144,7 +144,7 @@ The Kakobuy Timberland category delivers premium waterproof boots at accessible 
 
 The key to a successful Timberland purchase is understanding the sizing system (most buyers need to size down one full size), carefully reviewing QC photos with attention to leather quality and waterproofing details, and selecting the appropriate batch version for your performance needs. PK batch is recommended for buyers who need reliable waterproofing and durability, while TOP batch provides solid quality for style-focused buyers. The spreadsheet consolidates all available options with detailed pricing, batch information, and community quality ratings in one accessible resource.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Timberland listings, compare batch versions, and find the premium boots that match your needs. Whether you are a worker who needs reliable waterproof footwear or a fashion enthusiast seeking iconic style, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes these legends accessible.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Timberland listings, compare batch versions, and find the premium boots that match your needs. Whether you are a worker who needs reliable waterproof footwear or a fashion enthusiast seeking iconic style, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes these legends accessible.
 
 ---
 

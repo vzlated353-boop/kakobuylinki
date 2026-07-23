@@ -1,4 +1,4 @@
-﻿# Kakobuy
+# Kakobuy
 
 > Kakobuy product guides and shopping resources
 

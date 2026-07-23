@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 title: "Kakobuy Spreadsheet With QC: How To Check Product Quality Before Buying"
 heroSubtitle: Master the art of quality control with Kakobuy Spreadsheet and ensure you get exactly what you expect.

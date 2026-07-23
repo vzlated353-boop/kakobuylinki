@@ -1,10 +1,10 @@
-ï»¿# SEO Traffic Website - Structure Plan
+# SEO Traffic Website - Structure Plan
 
 ## Project Overview
 - **Type**: SEO Traffic Website (Content Marketing)
 - **Design**: Kakobuy Style (Gold #d4af37 + Dark Red #8b0000)
 - **Pages**: 14 total
-- **External Link**: https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972
+- **External Link**: https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254
 
 ## Page Structure
 
@@ -46,7 +46,7 @@
 - Contact
 
 ## External Links
-All product buttons, brand buttons, and CTA buttons â†’ Google Sheets URL
+All product buttons, brand buttons, and CTA buttons ¡ú Google Sheets URL
 
 ## Phase 1 Tasks
 - [ ] Create HomePage component

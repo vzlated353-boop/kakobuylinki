@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 categoryName: Bags
 heroSubtitle: "Browse a curated selection of backpacks, travel bags, and designer-inspired pieces."

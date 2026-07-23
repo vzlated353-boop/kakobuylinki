@@ -1,6 +1,6 @@
-﻿# Kakobuy UGG Lowmel 2026: Complete Guide to Premium Comfort Footwear
+# Kakobuy UGG Lowmel 2026: Complete Guide to Premium Comfort Footwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -146,7 +146,7 @@ The Kakobuy UGG Lowmel category delivers premium comfort boots at accessible pri
 
 The key to a successful UGG purchase is understanding the sizing system (most buyers need to size down one full size), carefully reviewing QC photos with attention to sheepskin quality and sole construction, and selecting the appropriate batch version for your comfort needs. PK batch is recommended for buyers who prioritize maximum plushness and long-term durability, while TOP batch provides solid quality for budget-conscious buyers. The spreadsheet consolidates all available options with detailed pricing, batch information, and community quality ratings in one accessible resource.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current UGG Lowmel listings, compare batch versions, and find the comfort boots that match your style and needs. Whether you are seeking plush warmth for cold weather or comfortable indoor footwear, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes luxury comfort accessible.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current UGG Lowmel listings, compare batch versions, and find the comfort boots that match your style and needs. Whether you are seeking plush warmth for cold weather or comfortable indoor footwear, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes luxury comfort accessible.
 
 ---
 

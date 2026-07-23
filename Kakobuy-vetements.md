@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Vetements 2026: Complete Guide to Avant-Garde Luxury Streetwear
+# Kakobuy Vetements 2026: Complete Guide to Avant-Garde Luxury Streetwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -36,7 +36,7 @@ This hoodie represents the quintessential Vetements piece, featuring the brand's
 
 **Vetements T-shirt**
 Price: ~$16.32
-Crafted from premium heavyweight cotton, this tee features the beloved Vetements graphic or logo with precise screen printing that maintains clarity through multiple laundering cycles. The fabric weight sits at approximately 260gsm, providing substantial hand feel with structured drape that holds the brand's characteristic oversized silhouette. Quality inspections reveal high accuracy in design placement and color matching. The fit follows authentic patterns with exaggerated proportions â€” extended length, dropped shoulders, and wide torso cut that defines the brand's aesthetic.
+Crafted from premium heavyweight cotton, this tee features the beloved Vetements graphic or logo with precise screen printing that maintains clarity through multiple laundering cycles. The fabric weight sits at approximately 260gsm, providing substantial hand feel with structured drape that holds the brand's characteristic oversized silhouette. Quality inspections reveal high accuracy in design placement and color matching. The fit follows authentic patterns with exaggerated proportions ¡ª extended length, dropped shoulders, and wide torso cut that defines the brand's aesthetic.
 
 **Vetements Jeans**
 Price: ~$62.64
@@ -68,7 +68,7 @@ Vetements products on Kakobuy maintain consistent quality standards across categ
 Fabric quality across Vetements products meets the elevated standards expected from avant-garde luxury. Hoodies use 420-480gsm heavyweight cotton with structure to hold oversized silhouettes. T-shirts employ 240-280gsm heavyweight cotton with quality surface for graphics. Denim utilizes 13-15oz premium fabric with careful distressing execution. Stitching density averages 10-12 stitches per inch with reinforced construction at stress points, particularly important on deconstructed pieces.
 
 **Fit and Sizing**
-Vetements follows intentionally oversized, avant-garde sizing that challenges conventional proportions. Hoodies run extremely oversized with extended sleeves and dropped shoulders. T-shirts follow the same exaggerated proportions. Jeans vary by style, with some running true to size and others featuring unusual fits. The Kakobuy spreadsheet includes detailed measurements for each product, and buyers should compare these carefully against their expectations. Community feedback indicates that understanding the brand's intended proportions is key â€” 92% satisfaction rate when buyers research the specific style's intended fit.
+Vetements follows intentionally oversized, avant-garde sizing that challenges conventional proportions. Hoodies run extremely oversized with extended sleeves and dropped shoulders. T-shirts follow the same exaggerated proportions. Jeans vary by style, with some running true to size and others featuring unusual fits. The Kakobuy spreadsheet includes detailed measurements for each product, and buyers should compare these carefully against their expectations. Community feedback indicates that understanding the brand's intended proportions is key ¡ª 92% satisfaction rate when buyers research the specific style's intended fit.
 
 ## Product Highlights
 
@@ -86,7 +86,7 @@ Here are three standout Vetements products currently available on Kakobuy with v
 A: Kakobuy provides detailed quality metrics for each product, including pass rates from their multi-point inspection covering fabric weight, construction details, print clarity, and proportion accuracy. Check the product spreadsheet for specific quality scores. The 92.7% average pass rate reflects rigorous quality control standards.
 
 **Q: What sizing should I order for Vetements pieces?**
-A: Vetements intentionally uses oversized, avant-garde sizing. Order based on the specific measurement chart rather than your usual size, as proportions vary significantly by style. Understanding the brand's intended silhouette is crucial â€” research the specific piece's design intent before ordering.
+A: Vetements intentionally uses oversized, avant-garde sizing. Order based on the specific measurement chart rather than your usual size, as proportions vary significantly by style. Understanding the brand's intended silhouette is crucial ¡ª research the specific piece's design intent before ordering.
 
 **Q: Are Vetements products suitable for everyday wear?**
 A: Vetements pieces are statement items designed for fashion-forward contexts. While the construction quality supports regular wear, the avant-garde proportions and conceptual designs make them best suited for those comfortable with bold fashion statements. They excel as conversation pieces and collector items.
@@ -100,7 +100,7 @@ Vetements represents the pinnacle of avant-garde luxury streetwear, and Kakobuy 
 
 ## Related Guides
 
-- [Kakobuy Off-White](/Kakobuy-off-white/) â€” Avant-garde luxury streetwear with industrial aesthetics
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear brands
-- [Kakobuy Jeans](/Kakobuy-jeans/) â€” Complete denim guide for statement pieces
+- [Kakobuy Off-White](/Kakobuy-off-white/) ¡ª Avant-garde luxury streetwear with industrial aesthetics
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear brands
+- [Kakobuy Jeans](/Kakobuy-jeans/) ¡ª Complete denim guide for statement pieces
 

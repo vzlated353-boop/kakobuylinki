@@ -1,6 +1,6 @@
-﻿# Kakobuy Makeup 2026: Complete Guide to Beauty & Cosmetics Collection
+# Kakobuy Makeup 2026: Complete Guide to Beauty & Cosmetics Collection
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -108,7 +108,7 @@ Kakobuy makeup and beauty offerings represent a thoughtful approach to personal 
 
 The platform's 94.5% quality pass rate for beauty-related products and 92% buyer satisfaction rate demonstrate consistent delivery of products that meet expectations. With shipping times of 10-14 days and a 71% reorder rate, Kakobuy has earned the trust of buyers seeking quality personal care products at accessible prices.
 
-Ready to build your complete beauty and personal care wardrobe? Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore the complete range of Kakobuy makeup, fragrance, and accessories options and start creating your personalized beauty routine today.
+Ready to build your complete beauty and personal care wardrobe? Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore the complete range of Kakobuy makeup, fragrance, and accessories options and start creating your personalized beauty routine today.
 
 ---
 

@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Size Guide 2026: Your Complete Resource for Perfect Fit
+# Kakobuy Size Guide 2026: Your Complete Resource for Perfect Fit
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article
 
@@ -69,7 +69,7 @@ Always use actual body measurements compared against seller measurement charts. 
 Asian sizing typically runs 1-2 sizes smaller than Western standards. Use measurements rather than size labels. A Western Medium often corresponds to Asian Large or XL.
 
 **What if I'm between sizes?**
-For fitted styles, size up for comfort. For oversized styles, size down if you prefer less volume. Check fabric compositionâ€”stretchy fabrics accommodate between-sizes better.
+For fitted styles, size up for comfort. For oversized styles, size down if you prefer less volume. Check fabric composition¡ªstretchy fabrics accommodate between-sizes better.
 
 **How can I verify sizing before ordering?**
 Read customer reviews mentioning fit, check seller measurement charts carefully, and compare against well-fitting garments you own. Review QC photos for actual product dimensions.

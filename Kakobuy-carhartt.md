@@ -1,6 +1,6 @@
-ï»¿# Kakobuy Carhartt 2026: Complete Guide to American Workwear Streetwear
+# Kakobuy Carhartt 2026: Complete Guide to American Workwear Streetwear
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -100,7 +100,7 @@ Carhartt represents the gold standard of American workwear, and Kakobuy delivers
 
 ## Related Guides
 
-- [Kakobuy Stone Island](/Kakobuy-stone-island/) â€” Italian technical streetwear with comparable quality standards
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear brands
-- [Kakobuy Jeans](/Kakobuy-jeans/) â€” Complete denim guide for versatile workwear combinations
+- [Kakobuy Stone Island](/Kakobuy-stone-island/) ¡ª Italian technical streetwear with comparable quality standards
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear brands
+- [Kakobuy Jeans](/Kakobuy-jeans/) ¡ª Complete denim guide for versatile workwear combinations
 

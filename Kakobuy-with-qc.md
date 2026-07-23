@@ -1,6 +1,6 @@
-ï»¿# Kakobuy With QC 2026: Why Quality Control Matters for Every Order
+# Kakobuy With QC 2026: Why Quality Control Matters for Every Order
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 ## In This Article
 
@@ -20,7 +20,7 @@ Understanding why QC matters, how to use QC photos effectively, and how to make 
 
 ## Why QC Matters for Every Order
 
-Ordering without QC is like buying a product sight unseen â€” you are taking a significant risk that the item you receive will not match your expectations. QC transforms what could be a risky international purchase into a verified, documented transaction with clear evidence of product condition. This is especially important for replica shopping, where product quality can vary significantly between sellers and even between production batches from the same seller.
+Ordering without QC is like buying a product sight unseen ¡ª you are taking a significant risk that the item you receive will not match your expectations. QC transforms what could be a risky international purchase into a verified, documented transaction with clear evidence of product condition. This is especially important for replica shopping, where product quality can vary significantly between sellers and even between production batches from the same seller.
 
 The QC process provides multiple layers of protection. First, the inspection itself identifies quality issues before the item is shipped internationally. If problems are found, you can request a return to the seller at no cost, avoiding the expense of international shipping on a product you would not be satisfied with. Second, the QC photos provide visual evidence of the item's actual condition, allowing you to make an informed decision about whether to proceed with shipping.
 

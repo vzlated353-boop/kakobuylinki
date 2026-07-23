@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 categoryName: Accessories
 heroSubtitle: "Complete your outfit with trending hats, belts, sunglasses, and jewelry."

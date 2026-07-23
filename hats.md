@@ -1,4 +1,4 @@
-ï»¿---
+---
 title: Hats Guide - Caps, Beanies & More | Kakobuy
 description: Complete guide to hats including snapbacks, beanies, bucket hats, dad hats and fitted caps. Quality specs, pricing, and logistics info.
 ---
@@ -8,21 +8,21 @@ import { siteConfig } from './.vitepress/theme/site-config.js'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const hatsCategory = siteConfig.categories.find(c => c.id === 'hats')
-const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
+const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
 
 const productTypes = [
   {
-    icon: 'ðŸ§¢',
+    icon: '??',
     name: 'Snapback Caps',
     desc: 'Adjustable flat-brim caps with plastic snap closure. Structured crown maintains shape. Popular in streetwear for bold graphics and logos. One size fits most with 7-position snap adjustment.'
   },
   {
-    icon: 'ðŸŽ¿',
+    icon: '??',
     name: 'Beanies',
     desc: 'Knit caps made from acrylic, wool, or cotton blends. Ribbed construction provides stretch and warmth. Available in cuffed (12-15cm height), slouchy, and fisherman styles. Essential for cold weather layering.'
   },
   {
-    icon: 'ðŸª£',
+    icon: '??',
     name: 'Bucket Hats',
     desc: 'Wide-brimmed hats (5-8cm brim) for sun protection. Made from cotton twill, nylon, or denim. Packable designs for travel. Popular in 90s revival and outdoor aesthetics.'
   },
@@ -32,7 +32,7 @@ const productTypes = [
     desc: 'Unstructured 6-panel caps with curved brim (7-8cm). Low profile fits closer to head. Adjustable strap (metal buckle or velcro). Relaxed, vintage look that works with casual outfits.'
   },
   {
-    icon: 'ðŸŽ©',
+    icon: '??',
     name: 'Fitted Caps',
     desc: 'Structured caps with fixed sizing (measured in inches, e.g., 7 1/4). No adjustable strap for clean silhouette. Premium construction with embroidered logos. Requires accurate head measurement.'
   },
@@ -173,13 +173,13 @@ const brandOverview = [
 
 # The Complete Hats Guide: Styles, Fits, and How to Choose
 
-Hats are more than just accessoriesâ€”they protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
+Hats are more than just accessories¡ªthey protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
     <span class="btn-icon"></span>
     <span>View Hats Spreadsheet</span>
-    <span class="btn-arrow">â†’</span>
+    <span class="btn-arrow">¡ú</span>
   </a>
 </div>
 
@@ -354,8 +354,8 @@ Red flags that indicate poor manufacturing:
 
 Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
 
-- [Shoes Guide](/shoes) â€” Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
-- [Clothes Guide](/clothes) â€” Streetwear, hoodies, jackets, pants and more. Build your wardrobe from the ground up.
+- [Shoes Guide](/shoes) ¡ª Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
+- [Clothes Guide](/clothes) ¡ª Streetwear, hoodies, jackets, pants and more. Build your wardrobe from the ground up.
 
 <style scoped>
 .hat-table-wrapper,

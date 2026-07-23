@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 title: "Kakobuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
 heroSubtitle: Discover how Kakobuy Spreadsheet revolutionizes your China shopping experience with curated finds and verified links.

@@ -1,4 +1,4 @@
-﻿# Kakobuy Product Reference Guide
+# Kakobuy Product Reference Guide
 
 
 > Total Unique Products: 276

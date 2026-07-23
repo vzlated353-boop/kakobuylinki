@@ -1,6 +1,6 @@
-﻿# Kakobuy Kobe 2026: The Ultimate Guide to Legendary Basketball Sneakers
+# Kakobuy Kobe 2026: The Ultimate Guide to Legendary Basketball Sneakers
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -142,7 +142,7 @@ The Kakobuy Kobe category delivers legendary basketball performance sneakers at 
 
 The key to a successful Kobe purchase is understanding the performance-focused fit characteristics, carefully reviewing QC photos with attention to upper material quality and cushioning implementation, and selecting the appropriate batch version for your intended use. PK batch is strongly recommended for buyers who intend to use the shoes for basketball, while TOP batch may be suitable for casual wear. The spreadsheet consolidates all available options with detailed pricing, batch information, and community quality ratings in one accessible resource.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Kobe listings, compare batch versions, and find the legendary basketball sneakers that match your performance needs and style preferences. Whether you are a ballplayer seeking court performance or a collector honoring Kobe's legacy, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes these icons accessible.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Kobe listings, compare batch versions, and find the legendary basketball sneakers that match your performance needs and style preferences. Whether you are a ballplayer seeking court performance or a collector honoring Kobe's legacy, Kakobuy's data-driven approach ensures you receive the quality you expect at a price that makes these icons accessible.
 
 ---
 

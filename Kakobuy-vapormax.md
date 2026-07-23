@@ -1,6 +1,6 @@
-﻿# Kakobuy Vapormax 2026: The Ultimate Guide to Nike's Most Comfortable Sneaker
+# Kakobuy Vapormax 2026: The Ultimate Guide to Nike's Most Comfortable Sneaker
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
@@ -132,7 +132,7 @@ The Kakobuy Vapormax category offers exceptional value for buyers seeking Nike's
 
 The key to a successful Vapormax purchase is leveraging the tools Kakobuy provides: review QC photos carefully, understand batch version differences, follow the sizing recommendations specific to each variant, and check community quality ratings before committing. The spreadsheet consolidates all of this information into one accessible resource, eliminating the guesswork that typically accompanies overseas sneaker purchases.
 
-Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972) to explore current Vapormax listings, compare batch options, and find the pair that matches your style and comfort requirements. Whether you are a first-time Vapormax buyer or adding another colorway to your collection, the data-driven approach Kakobuy offers ensures you get exactly what you pay for.
+Browse the full [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) to explore current Vapormax listings, compare batch options, and find the pair that matches your style and comfort requirements. Whether you are a first-time Vapormax buyer or adding another colorway to your collection, the data-driven approach Kakobuy offers ensures you get exactly what you pay for.
 
 ---
 

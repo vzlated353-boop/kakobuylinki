@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 title: "Kakobuy Summer Spreadsheet 2026: Best Summer Fashion Finds"
 heroSubtitle: Get ready for summer with the hottest fashion finds from the Kakobuy Spreadsheet, featuring trending styles and essential items.

@@ -1,4 +1,4 @@
-﻿<template>
+<template>
   <div class="seo-home">
     <!-- Hero Section -->
     <section class="hero">
@@ -15,27 +15,27 @@
         <h2>Shop by Category</h2>
         <div class="category-grid">
           <a href="/clothes" class="category-card">
-            <div class="category-icon">👕</div>
+            <div class="category-icon">??</div>
             <h3>Clothes</h3>
             <p>Discover trending hoodies, t-shirts, and jackets from top streetwear brands.</p>
           </a>
           <a href="/shoes" class="category-card">
-            <div class="category-icon">👟</div>
+            <div class="category-icon">??</div>
             <h3>Sneakers</h3>
             <p>Find the latest sneaker releases, vintage styles, and running shoes with QC photos.</p>
           </a>
           <a href="/watches" class="category-card">
-            <div class="category-icon">⌚</div>
+            <div class="category-icon">?</div>
             <h3>Watches</h3>
             <p>Explore luxury-inspired timepieces and everyday watches with verified links.</p>
           </a>
           <a href="/bags" class="category-card">
-            <div class="category-icon">💼</div>
+            <div class="category-icon">??</div>
             <h3>Bags</h3>
             <p>Browse a curated selection of backpacks, travel bags, and designer-inspired pieces.</p>
           </a>
           <a href="/accessories" class="category-card">
-            <div class="category-icon">✨</div>
+            <div class="category-icon">?</div>
             <h3>Accessories</h3>
             <p>Complete your outfit with trending hats, belts, sunglasses, and jewelry.</p>
           </a>
@@ -62,32 +62,32 @@
         <h2>Why Choose Us?</h2>
         <div class="features-grid">
           <div class="feature-card">
-            <div class="feature-icon">📂</div>
+            <div class="feature-icon">??</div>
             <h3>One Platform For China Shopping</h3>
             <p>Integrate multiple Chinese supply channels: Taobao, 1688, Weidian, JD. No need to register multiple platforms separately.</p>
           </div>
           <div class="feature-card">
-            <div class="feature-icon">🔄</div>
+            <div class="feature-icon">??</div>
             <h3>QC Verification Before Shipping</h3>
             <p>View warehouse photos, product details, and quality conditions before purchase to reduce risks.</p>
           </div>
           <div class="feature-card">
-            <div class="feature-icon">🔍</div>
+            <div class="feature-icon">??</div>
             <h3>Curated Spreadsheet Finds</h3>
             <p>Save time by browsing selected popular finds instead of searching thousands of listings yourself.</p>
           </div>
           <div class="feature-card">
-            <div class="feature-icon">💰</div>
+            <div class="feature-icon">??</div>
             <h3>International Shipping Solution</h3>
             <p>Provide parcel consolidation, multiple shipping routes, and warehouse storage for overseas buyers.</p>
           </div>
           <div class="feature-card">
-            <div class="feature-icon">🧭</div>
+            <div class="feature-icon">??</div>
             <h3>Fashion Trend Discovery</h3>
             <p>Quickly discover trending sneakers, streetwear, seasonal outfits, and new releases.</p>
           </div>
           <div class="feature-card">
-            <div class="feature-icon">📈</div>
+            <div class="feature-icon">??</div>
             <h3>Community Driven</h3>
             <p>Join a community of fashion enthusiasts and haul buyers to share insights and finds.</p>
           </div>
@@ -214,7 +214,7 @@
 </template>
 
 <script setup lang="ts">
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=2068242972#gid=2068242972'
+const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
 </script>
 
 <style scoped>
