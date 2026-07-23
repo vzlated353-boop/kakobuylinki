@@ -39,7 +39,7 @@ Wrist size plays an important role in watch selection. Most Kakobuy watches feat
 
 ## Quality Verification and Care Guide
 
-Quality verification is crucial when purchasing any timepiece, and Kakobuy watches benefit from the platform's transparent QC photo system. When your order is processed, you'll receive detailed photos showing the actual watch including dial accuracy, case finish, bracelet quality, and movement functionality. Pay attention to dial printing clarity, hand alignment, and case edge finishing¡ªthese details indicate overall quality.
+Quality verification is crucial when purchasing any timepiece, and Kakobuy watches benefit from the platform's transparent QC photo system. When your order is processed, you'll receive detailed photos showing the actual watch including dial accuracy, case finish, bracelet quality, and movement functionality. Pay attention to dial printing clarity, hand alignment, and case edge finishingâ€”these details indicate overall quality.
 
 Movement type affects both performance and maintenance requirements. Quartz movements, found in the Cartier models, are battery-powered and highly accurate, requiring minimal maintenance beyond battery replacement every 2-3 years. Automatic movements, featured in the Rolex and Tissot models, are self-winding through wrist motion and may require occasional time setting if not worn regularly.
 

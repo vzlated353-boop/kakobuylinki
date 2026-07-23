@@ -37,7 +37,7 @@
           <div class="intro-card">
             <div class="intro-icon"></div>
             <h3>Comprehensive Guides</h3>
-            <p>From <a href="/Kakobuy-for-beginners/">first-time buyers</a> to seasoned shoppers, our guides cover every step ¡ª account setup, ordering, shipping, and quality verification.</p>
+            <p>From <a href="/Kakobuy-for-beginners/">first-time buyers</a> to seasoned shoppers, our guides cover every step — account setup, ordering, shipping, and quality verification.</p>
           </div>
           <div class="intro-card">
             <div class="intro-icon">✅</div>
@@ -52,13 +52,13 @@
           <div class="intro-card">
             <div class="intro-icon"></div>
             <h3>Curated Spreadsheets</h3>
-            <p>Access our <a href="/Kakobuy-spreadsheet/">product spreadsheet</a> with thousands of items, prices, batch info, and direct purchase links ¡ª updated weekly.</p>
+            <p>Access our <a href="/Kakobuy-spreadsheet/">product spreadsheet</a> with thousands of items, prices, batch info, and direct purchase links — updated weekly.</p>
           </div>
         </div>
         <div class="intro-cta">
           <p class="intro-cta-text">
-            Unlike scattered forums and outdated blogs, Kakobuy brings everything together in one organized platform ¡ª 
-            product guides, brand comparisons, shipping tips, and community insights ¡ª so you never waste time searching again.
+            Unlike scattered forums and outdated blogs, Kakobuy brings everything together in one organized platform — 
+            product guides, brand comparisons, shipping tips, and community insights — so you never waste time searching again.
           </p>
         </div>
       </div>
@@ -92,33 +92,33 @@
           <div class="article-nav-group">
             <h3 class="group-title"> Getting Started</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-for-beginners/">Kakobuy for Beginners ¡ª Complete Starter Guide</a></li>
-              <li><a href="/Kakobuy-how-to-use/">How to Use Kakobuy ¡ª Step by Step</a></li>
+              <li><a href="/Kakobuy-for-beginners/">Kakobuy for Beginners — Complete Starter Guide</a></li>
+              <li><a href="/Kakobuy-how-to-use/">How to Use Kakobuy — Step by Step</a></li>
               <li><a href="/Kakobuy-account-creation/">Account Creation & Setup Guide</a></li>
-              <li><a href="/Kakobuy-shipping-guide/">Shipping Guide ¡ª Methods & Times</a></li>
-              <li><a href="/Kakobuy-payment-guide/">Payment Guide ¡ª Safe Checkout Tips</a></li>
+              <li><a href="/Kakobuy-shipping-guide/">Shipping Guide — Methods & Times</a></li>
+              <li><a href="/Kakobuy-payment-guide/">Payment Guide — Safe Checkout Tips</a></li>
             </ul>
           </div>
           <!-- Top Categories -->
           <div class="article-nav-group">
             <h3 class="group-title"> Top Categories</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-sneakers/">Sneakers Guide ¡ª Best Picks 2026</a></li>
-              <li><a href="/Kakobuy-hoodies/">Hoodies Guide ¡ª Streetwear Essentials</a></li>
-              <li><a href="/Kakobuy-t-shirts/">T-Shirts Guide ¡ª Everyday Style</a></li>
-              <li><a href="/Kakobuy-bags/">Bags Guide ¡ª Backpacks & More</a></li>
-              <li><a href="/Kakobuy-accessories/">Accessories Guide ¡ª Complete Your Look</a></li>
+              <li><a href="/Kakobuy-sneakers/">Sneakers Guide — Best Picks 2026</a></li>
+              <li><a href="/Kakobuy-hoodies/">Hoodies Guide — Streetwear Essentials</a></li>
+              <li><a href="/Kakobuy-t-shirts/">T-Shirts Guide — Everyday Style</a></li>
+              <li><a href="/Kakobuy-bags/">Bags Guide — Backpacks & More</a></li>
+              <li><a href="/Kakobuy-accessories/">Accessories Guide — Complete Your Look</a></li>
             </ul>
           </div>
           <!-- Popular Brands -->
           <div class="article-nav-group">
             <h3 class="group-title">? Popular Brands</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-nike/">Nike Guide ¡ª Sneakers & Apparel</a></li>
-              <li><a href="/Kakobuy-jordan/">Jordan Guide ¡ª Iconic Silhouettes</a></li>
-              <li><a href="/Kakobuy-adidas/">Adidas Guide ¡ª Classics & New Drops</a></li>
-              <li><a href="/Kakobuy-chrome-hearts/">Chrome Hearts ¡ª Luxury Streetwear</a></li>
-              <li><a href="/Kakobuy-essentials/">Essentials ¡ª Minimalist Streetwear</a></li>
+              <li><a href="/Kakobuy-nike/">Nike Guide — Sneakers & Apparel</a></li>
+              <li><a href="/Kakobuy-jordan/">Jordan Guide — Iconic Silhouettes</a></li>
+              <li><a href="/Kakobuy-adidas/">Adidas Guide — Classics & New Drops</a></li>
+              <li><a href="/Kakobuy-chrome-hearts/">Chrome Hearts — Luxury Streetwear</a></li>
+              <li><a href="/Kakobuy-essentials/">Essentials — Minimalist Streetwear</a></li>
             </ul>
           </div>
           <!-- Save Money -->
@@ -126,9 +126,9 @@
             <h3 class="group-title"> Save Money</h3>
             <ul class="article-nav-list">
               <li><a href="/Kakobuy-coupon/">Coupon Codes & Discount Guide</a></li>
-              <li><a href="/Kakobuy-best-deals/">Best Deals ¡ª Seasonal Sales</a></li>
-              <li><a href="/Kakobuy-cheap-sneakers/">Cheap Sneakers ¡ª Budget Picks</a></li>
-              <li><a href="/Kakobuy-budget-hoodies/">Budget Hoodies ¡ª Under $30</a></li>
+              <li><a href="/Kakobuy-best-deals/">Best Deals — Seasonal Sales</a></li>
+              <li><a href="/Kakobuy-cheap-sneakers/">Cheap Sneakers — Budget Picks</a></li>
+              <li><a href="/Kakobuy-budget-hoodies/">Budget Hoodies — Under $30</a></li>
               <li><a href="/Kakobuy-save-money/">Money-Saving Tips & Hacks</a></li>
             </ul>
           </div>
@@ -136,9 +136,9 @@
           <div class="article-nav-group">
             <h3 class="group-title"> Trust & Safety</h3>
             <ul class="article-nav-list">
-              <li><a href="/is-Kakobuy-legit/">Is Kakobuy Legit? ¡ª Full Review</a></li>
+              <li><a href="/is-Kakobuy-legit/">Is Kakobuy Legit? — Full Review</a></li>
               <li><a href="/Kakobuy-legit-check/">Legit Check Guide</a></li>
-              <li><a href="/Kakobuy-qc-photos/">QC Photos ¡ª What to Look For</a></li>
+              <li><a href="/Kakobuy-qc-photos/">QC Photos — What to Look For</a></li>
               <li><a href="/Kakobuy-reviews/">User Reviews & Ratings</a></li>
               <li><a href="/Kakobuy-reddit/">Reddit Community Insights</a></li>
             </ul>
@@ -147,10 +147,10 @@
           <div class="article-nav-group">
             <h3 class="group-title"> Regional & International</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-uk/">Kakobuy UK ¡ª Shipping & Tips</a></li>
-              <li><a href="/Kakobuy-canada/">Kakobuy Canada ¡ª Complete Guide</a></li>
-              <li><a href="/Kakobuy-australia/">Kakobuy Australia ¡ª Local Info</a></li>
-              <li><a href="/Kakobuy-europe/">Kakobuy Europe ¡ª EU Shipping</a></li>
+              <li><a href="/Kakobuy-uk/">Kakobuy UK — Shipping & Tips</a></li>
+              <li><a href="/Kakobuy-canada/">Kakobuy Canada — Complete Guide</a></li>
+              <li><a href="/Kakobuy-australia/">Kakobuy Australia — Local Info</a></li>
+              <li><a href="/Kakobuy-europe/">Kakobuy Europe — EU Shipping</a></li>
               <li><a href="/Kakobuy-international-shipping/">International Shipping Guide</a></li>
             </ul>
           </div>

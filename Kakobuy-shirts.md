@@ -145,7 +145,7 @@ Most shirts feature:
 - **Fleece materials**: For hoodies and sweatshirts
 - **Performance fabrics**: For athletic wear
 
-The spreadsheet system provides detailed material information, batch versions, and quality indicators for each shirt. This transparency allows buyers to make informed decisions based on their priorities¡ªwhether that's price, brand, material quality, or specific design features.
+The spreadsheet system provides detailed material information, batch versions, and quality indicators for each shirt. This transparency allows buyers to make informed decisions based on their prioritiesâ€”whether that's price, brand, material quality, or specific design features.
 
 For more information on verifying quality, check the Kakobuy legit check guide and QC photos documentation.
 

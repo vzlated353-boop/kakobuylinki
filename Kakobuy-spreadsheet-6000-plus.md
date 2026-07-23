@@ -28,7 +28,7 @@ The selection process also involves regular reviews of existing products. If a p
 
 Products in the 6000+ database are organized into major categories: Electronics, Clothing, Home & Kitchen, Accessories, Beauty, Sports & Outdoors, and Toys & Hobbies. Each major category is subdivided into specific subcategories for easier browsing. For example, the Electronics category includes Phone Accessories, Audio Equipment, Computer Peripherals, and Smart Home Devices. This hierarchical structure makes it easy to navigate the database and find products in your area of interest.
 
-Within each subcategory, products are sorted by a combination of quality pass rate and order volume. This ensures that the highest-quality, most popular products appear first, making it easy to identify top options quickly. You can also customize the sorting based on your priorities¡ªsort by price, newest additions, or seller rating. The spreadsheet uses color coding to highlight quality metrics: green for 90%+ pass rates, yellow for 75-90%, and red for below 75%.
+Within each subcategory, products are sorted by a combination of quality pass rate and order volume. This ensures that the highest-quality, most popular products appear first, making it easy to identify top options quickly. You can also customize the sorting based on your prioritiesâ€”sort by price, newest additions, or seller rating. The spreadsheet uses color coding to highlight quality metrics: green for 90%+ pass rates, yellow for 75-90%, and red for below 75%.
 
 For additional guidance on understanding the selection process, the [Kakobuy spreadsheet best](/Kakobuy-spreadsheet-best/) guide provides detailed information on how products are chosen and maintained. The [Kakobuy spreadsheet with qc](/Kakobuy-spreadsheet-with-qc/) resource explains how quality inspection data is used to verify product quality and maintain database standards.
 
@@ -56,7 +56,7 @@ The 6000+ product database covers a diverse range of categories, with the follow
 
 **Women's Casual Blouse**: $18.50 | 5,600+ orders | 92% quality pass rate | Breathable fabric, loose fit, available in 10 colors, suitable for office and casual wear.
 
-**Non-Stick Frying Pan 10-inch**: $16.99 | 4,800+ orders | 93% quality pass rate | Ceramic coating, oven-safe to 450¡ãF, suitable for all cooktops.
+**Non-Stick Frying Pan 10-inch**: $16.99 | 4,800+ orders | 93% quality pass rate | Ceramic coating, oven-safe to 450Â¡Ã£F, suitable for all cooktops.
 
 **Men's Sports Watch**: $21.99 | 6,400+ orders | 91% quality pass rate | Water-resistant to 50m, chronograph function, stainless steel band.
 

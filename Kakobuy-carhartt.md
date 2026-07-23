@@ -100,7 +100,7 @@ Carhartt represents the gold standard of American workwear, and Kakobuy delivers
 
 ## Related Guides
 
-- [Kakobuy Stone Island](/Kakobuy-stone-island/) ¡ª Italian technical streetwear with comparable quality standards
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear brands
-- [Kakobuy Jeans](/Kakobuy-jeans/) ¡ª Complete denim guide for versatile workwear combinations
+- [Kakobuy Stone Island](/Kakobuy-stone-island/) â€” Italian technical streetwear with comparable quality standards
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear brands
+- [Kakobuy Jeans](/Kakobuy-jeans/) â€” Complete denim guide for versatile workwear combinations
 

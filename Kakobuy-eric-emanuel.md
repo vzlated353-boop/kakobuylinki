@@ -100,7 +100,7 @@ Eric Emanuel represents the pinnacle of luxury athletic streetwear, and Kakobuy 
 
 ## Related Guides
 
-- [Kakobuy Young LA](/Kakobuy-youngla/) ¡ª Gym-focused streetwear with complementary aesthetics
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear brands
-- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) ¡ª Complete tee guide for athletic and casual wear
+- [Kakobuy Young LA](/Kakobuy-youngla/) â€” Gym-focused streetwear with complementary aesthetics
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear brands
+- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) â€” Complete tee guide for athletic and casual wear
 

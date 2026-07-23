@@ -22,7 +22,7 @@ Understanding how the quality control system works, what to expect from the insp
 
 Kakobuy's quality control system evaluates every item against 15+ standardized checkpoints designed to identify quality issues before products reach international buyers. This systematic approach ensures consistent quality assessment across all product categories and eliminates subjective judgment from the inspection process.
 
-**Material Quality Assessment**: Inspectors evaluate whether materials match the expected quality tier ¡ª genuine leather vs PU leather, fabric weight and weave quality, metal hardware finish and weight. Material quality is the foundation of product quality, and inspectors are trained to identify cheap substitutes that indicate poor overall quality.
+**Material Quality Assessment**: Inspectors evaluate whether materials match the expected quality tier â€” genuine leather vs PU leather, fabric weight and weave quality, metal hardware finish and weight. Material quality is the foundation of product quality, and inspectors are trained to identify cheap substitutes that indicate poor overall quality.
 
 **Color Accuracy Verification**: Inspectors compare the item's color to reference images under standardized lighting conditions to ensure accurate representation. Color discrepancies are common quality issues, especially for products sourced from different production batches. The standardized lighting eliminates variations caused by different photo conditions.
 

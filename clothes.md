@@ -152,13 +152,13 @@ const brandOverview = [
 
 # The Complete Clothes Guide: Fabrics, Fits, and Style
 
-Clothing is more than just covering your body¡ªit is about expressing yourself, feeling comfortable, and making smart purchasing decisions. This guide breaks down everything from fabric weights to fit profiles, helping you choose pieces that last and look great.
+Clothing is more than just covering your body—it is about expressing yourself, feeling comfortable, and making smart purchasing decisions. This guide breaks down everything from fabric weights to fit profiles, helping you choose pieces that last and look great.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
     <span class="btn-icon"></span>
     <span>View Clothes Spreadsheet</span>
-    <span class="btn-arrow">¡ú</span>
+    <span class="btn-arrow">→</span>
   </a>
 </div>
 
@@ -290,8 +290,8 @@ Red flags that indicate poor manufacturing:
 
 Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
 
-- [Shoes Guide](/shoes) ¡ª Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
-- [Hats Guide](/hats) ¡ª Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
+- [Shoes Guide](/shoes) — Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
+- [Hats Guide](/hats) — Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
 
 <style scoped>
 .fabric-table-wrapper,

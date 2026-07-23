@@ -31,7 +31,7 @@
 
 ***
 
-## Part 2: Gap Analysis ¡ª Underserved Content Directions
+## Part 2: Gap Analysis â€” Underserved Content Directions
 
 ### GAP 1: Buyer Journey Stage Content
 
@@ -57,7 +57,7 @@
 | Overwhelm from choices | "First Time Buying Reps: Where to Start in 2026"                   | first time buying reps, rep beginner guide          |
 | Shipping delays        | "Rep Shipping Explained: Timelines, Costs & Tips"                  | rep shipping times, how long does rep shipping take |
 | Budget constraints     | "Best Reps Under $25: Budget-Friendly Finds That Don't Disappoint" | best reps under 25, cheap rep finds                 |
-| Batch confusion        | "Rep Batches Explained: GX vs TOP vs PK ¡ª What's the Difference?"  | rep batches explained, GX batch vs TOP batch        |
+| Batch confusion        | "Rep Batches Explained: GX vs TOP vs PK â€” What's the Difference?"  | rep batches explained, GX batch vs TOP batch        |
 
 ### GAP 3: Seasonal & Trend-Driven Content
 
@@ -71,7 +71,7 @@
 | New Year        | "New Year, New Wardrobe: Best Rep Streetwear for 2027"     | Dec-Jan         |
 | Spring          | "Spring Rep Haul: Lightweight Layers & Fresh Kicks"        | Feb-Mar         |
 | Summer          | "Summer Rep Essentials: Shorts, Tees & Sandals"            | May-Jun         |
-| Sports Events   | "World Cup / NBA Finals / Super Bowl ¡ª Best Fan Jerseys"   | Event-dependent |
+| Sports Events   | "World Cup / NBA Finals / Super Bowl â€” Best Fan Jerseys"   | Event-dependent |
 | Brand Drops     | "Latest \[Brand] Drop: Where to Find the Best Rep Version" | Ongoing         |
 
 ### GAP 4: Audience-Specific Content
@@ -110,7 +110,7 @@
 
 | Data Angle         | Content Angle                                                         | Example Keywords                                            |
 | ------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Price comparison   | "We Compared 500 Rep Items Across 6 Platforms ¡ª Here's What We Found" | rep price comparison, cheapest rep platform                 |
+| Price comparison   | "We Compared 500 Rep Items Across 6 Platforms â€” Here's What We Found" | rep price comparison, cheapest rep platform                 |
 | Quality trends     | "Rep Quality in 2026: Is It Getting Better or Worse?"                 | rep quality 2026, are reps getting better                   |
 | Shipping data      | "We Tracked 200 Rep Orders: Here's the Real Shipping Data"            | rep shipping data, how long does rep shipping actually take |
 | Satisfaction rates | "Which Rep Platform Has the Highest Satisfaction Rate? Data Analysis" | best rep platform satisfaction, rep platform ratings        |
@@ -161,7 +161,7 @@
 | --- | ------------------------------------------------------------- | ------------- | -------------------- | -------- |
 | B1  | "Best Nike Reps That Actually Look Real: 2026 Verified Guide" | Nike          | Quality verification | HIGH     |
 | B2  | "Best Jordan Reps: Batch Guide & Quality Comparison"          | Jordan        | Batch comparison     | HIGH     |
-| B3  | "Best Adidas Reps: From Sambas to Yeezys ¡ª Complete Guide"    | Adidas        | Category overview    | HIGH     |
+| B3  | "Best Adidas Reps: From Sambas to Yeezys â€” Complete Guide"    | Adidas        | Category overview    | HIGH     |
 | B4  | "Best Chrome Hearts Reps: Quality Tiers & What to Expect"     | Chrome Hearts | Quality tiers        | MEDIUM   |
 | B5  | "Best Essentials Reps: Fear of God on a Budget"               | Essentials    | Budget alternative   | MEDIUM   |
 | B6  | "Best New Balance Reps: 550, 2002R & More Verified"           | New Balance   | Brand deep-dive      | MEDIUM   |
@@ -186,7 +186,7 @@
 
 | #  | Topic                                                                      | Pain Point           | Angle              | Priority |
 | -- | -------------------------------------------------------------------------- | -------------------- | ------------------ | -------- |
-| D1 | "Rep Batches Explained: GX vs TOP vs PK vs M4 ¡ª Complete Guide"            | Batch confusion      | Education          | HIGH     |
+| D1 | "Rep Batches Explained: GX vs TOP vs PK vs M4 â€” Complete Guide"            | Batch confusion      | Education          | HIGH     |
 | D2 | "How to Read QC Photos: A Buyer's Visual Checklist"                        | Quality anxiety      | Practical guide    | HIGH     |
 | D3 | "Rep Sizing Cheat Sheet: Shoe, Shirt & Pants Sizing Across Platforms"      | Sizing uncertainty   | Reference guide    | HIGH     |
 | D4 | "The Real Cost of Reps: Full Breakdown Including Hidden Fees"              | Budget surprise      | Transparency       | HIGH     |
@@ -222,11 +222,11 @@
 
 | #  | Topic                                                                 | Data Source       | Angle              | Priority |
 | -- | --------------------------------------------------------------------- | ----------------- | ------------------ | -------- |
-| G1 | "We Compared 500 Rep Items Across 6 Platforms ¡ª Here's What We Found" | Price data        | Price comparison   | HIGH     |
+| G1 | "We Compared 500 Rep Items Across 6 Platforms â€” Here's What We Found" | Price data        | Price comparison   | HIGH     |
 | G2 | "Rep Quality in 2026: Is It Getting Better or Worse? Data Analysis"   | Quality data      | Trend analysis     | HIGH     |
 | G3 | "Which Rep Platform Has the Highest Satisfaction Rate? Data Analysis" | Satisfaction data | Platform ranking   | HIGH     |
 | G4 | "Most Searched Rep Products in 2026: Data from 50,000+ Buyers"        | Search data       | Trend report       | MEDIUM   |
-| G5 | "Rep Shipping Data: We Tracked 200 Orders ¡ª Here's the Real Timeline" | Shipping data     | Logistics analysis | MEDIUM   |
+| G5 | "Rep Shipping Data: We Tracked 200 Orders â€” Here's the Real Timeline" | Shipping data     | Logistics analysis | MEDIUM   |
 
 ### Category H: Trust & Transparency Content (New Category)
 
@@ -243,27 +243,27 @@
 
 ### Immediate Priority (Next 30 Days)
 
-1. **C1** ¡ª "What Are Reps? A Complete Beginner's Guide for 2026"
-2. **D1** ¡ª "Rep Batches Explained: GX vs TOP vs PK vs M4"
-3. **F1** ¡ª "Best Reps Under $25: Budget-Friendly Finds"
-4. **G1** ¡ª "We Compared 500 Rep Items Across 6 Platforms"
-5. **E6** ¡ª "World Cup 2026: Best Rep Jerseys for Every Team"
+1. **C1** â€” "What Are Reps? A Complete Beginner's Guide for 2026"
+2. **D1** â€” "Rep Batches Explained: GX vs TOP vs PK vs M4"
+3. **F1** â€” "Best Reps Under $25: Budget-Friendly Finds"
+4. **G1** â€” "We Compared 500 Rep Items Across 6 Platforms"
+5. **E6** â€” "World Cup 2026: Best Rep Jerseys for Every Team"
 
 ### Short-Term (30-60 Days)
 
-1. **C4** ¡ª "How to Choose the Right Rep Platform: Decision Tree"
-2. **D3** ¡ª "Rep Sizing Cheat Sheet"
-3. **F4** ¡ª "Best Rep Platforms for EU Buyers"
-4. **B1** ¡ª "Best Nike Reps That Actually Look Real"
-5. **H1** ¡ª "How We Rate Rep Products"
+1. **C4** â€” "How to Choose the Right Rep Platform: Decision Tree"
+2. **D3** â€” "Rep Sizing Cheat Sheet"
+3. **F4** â€” "Best Rep Platforms for EU Buyers"
+4. **B1** â€” "Best Nike Reps That Actually Look Real"
+5. **H1** â€” "How We Rate Rep Products"
 
 ### Medium-Term (60-90 Days)
 
-1. **A1** ¡ª "\[Platform] for Beginners" (per platform, rotating)
-2. **D5** ¡ª "Rep Shipping Explained"
-3. **F3** ¡ª "How to Source Reps for Resale"
-4. **G3** ¡ª "Which Rep Platform Has the Highest Satisfaction Rate?"
-5. **E1** ¡ª "Best Rep Sneakers for Fall 2026"
+1. **A1** â€” "\[Platform] for Beginners" (per platform, rotating)
+2. **D5** â€” "Rep Shipping Explained"
+3. **F3** â€” "How to Source Reps for Resale"
+4. **G3** â€” "Which Rep Platform Has the Highest Satisfaction Rate?"
+5. **E1** â€” "Best Rep Sneakers for Fall 2026"
 
 ***
 

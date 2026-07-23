@@ -136,7 +136,7 @@ Whether you are a runner seeking performance, a sneakerhead chasing limited rele
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
     <span class="btn-icon"></span>
     <span>View Shoes Spreadsheet</span>
-    <span class="btn-arrow">¡ú</span>
+    <span class="btn-arrow">→</span>
   </a>
 </div>
 
@@ -234,8 +234,8 @@ Proper care extends the life of your shoes significantly:
 
 Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
 
-- [Clothes Guide](/clothes) ¡ª Streetwear, hoodies, jackets, pants and more. Find the perfect tops and bottoms to pair with your shoes.
-- [Hats Guide](/hats) ¡ª Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
+- [Clothes Guide](/clothes) — Streetwear, hoodies, jackets, pants and more. Find the perfect tops and bottoms to pair with your shoes.
+- [Hats Guide](/hats) — Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
 
 <style scoped>
 .brand-table-wrapper,

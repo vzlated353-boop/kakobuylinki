@@ -188,7 +188,7 @@ Kakobuy women's clothing typically costs 60-80% less than retail equivalents:
 - Versatile, timeless designs
 - 90-93% quality pass rates
 
-The spreadsheet system provides detailed material information, batch versions, and quality indicators for each item. This transparency allows buyers to make informed decisions based on their priorities¡ªwhether that's price, brand, material quality, or specific design features.
+The spreadsheet system provides detailed material information, batch versions, and quality indicators for each item. This transparency allows buyers to make informed decisions based on their prioritiesâ€”whether that's price, brand, material quality, or specific design features.
 
 ## Product Highlights
 
@@ -222,7 +222,7 @@ These selections represent the range of quality and pricing available across all
 A: Kakobuy offers five main women's clothing categories: T-shirts and tops (44+ listings), hoodies and sweatshirts (29+ listings), tracksuits and matching sets (21+ listings), shorts and bottoms (14+ listings), and dresses/dress sets. The collection includes streetwear, luxury, smart-casual, and essential basics from 20+ brands, with prices ranging from $9.73 to $83.79.
 
 ### Q2: How do Kakobuy women's clothing sizes run?
-A: Most Kakobuy women's clothing runs true to size, following standard US/EU sizing conventions. Oversized streetwear pieces may fit larger than expected. The platform provides detailed measurement charts for each listing. If you're between sizes, check the item description for fit recommendations¡ªsizing down works for oversized styles, while sizing up is better for fitted looks. Refer to the sizing guide for brand-specific guidance.
+A: Most Kakobuy women's clothing runs true to size, following standard US/EU sizing conventions. Oversized streetwear pieces may fit larger than expected. The platform provides detailed measurement charts for each listing. If you're between sizes, check the item description for fit recommendationsâ€”sizing down works for oversized styles, while sizing up is better for fitted looks. Refer to the sizing guide for brand-specific guidance.
 
 ### Q3: What's the quality difference between budget and premium women's clothing?
 A: All Kakobuy women's clothing maintains 90-95% quality pass rates. Budget items ($9-$20) feature quality cotton blends with accurate branding. Premium items ($20-$83) use higher-grade materials and may have more detailed construction. The main difference is brand prestige and material grade, but all items meet platform quality standards. QC photos are available for verification before purchase.

@@ -173,13 +173,13 @@ const brandOverview = [
 
 # The Complete Hats Guide: Styles, Fits, and How to Choose
 
-Hats are more than just accessories¡ªthey protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
+Hats are more than just accessories—they protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
     <span class="btn-icon"></span>
     <span>View Hats Spreadsheet</span>
-    <span class="btn-arrow">¡ú</span>
+    <span class="btn-arrow">→</span>
   </a>
 </div>
 
@@ -354,8 +354,8 @@ Red flags that indicate poor manufacturing:
 
 Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
 
-- [Shoes Guide](/shoes) ¡ª Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
-- [Clothes Guide](/clothes) ¡ª Streetwear, hoodies, jackets, pants and more. Build your wardrobe from the ground up.
+- [Shoes Guide](/shoes) — Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
+- [Clothes Guide](/clothes) — Streetwear, hoodies, jackets, pants and more. Build your wardrobe from the ground up.
 
 <style scoped>
 .hat-table-wrapper,

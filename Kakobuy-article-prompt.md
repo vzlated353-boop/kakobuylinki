@@ -199,13 +199,13 @@ Before finalizing each article, verify:
 
 ## Common Mistakes to Avoid
 
-¡ª?**Keyword stuffing**: Don't force keyword unnaturally
-¡ª?**Generic content**: Don't write vague statements without data
-¡ª?**Missing data points**: Every article needs specific numbers
-¡ª?**No internal links**: Must include 5+ total internal links
-¡ª?**Copying existing articles**: All content must be 100% original
-¡ª?**Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
-¡ª?**Absolute claims**: Avoid "always," "never," "guaranteed" ¡ª?use "typically," "usually," "most"
+â€”?**Keyword stuffing**: Don't force keyword unnaturally
+â€”?**Generic content**: Don't write vague statements without data
+â€”?**Missing data points**: Every article needs specific numbers
+â€”?**No internal links**: Must include 5+ total internal links
+â€”?**Copying existing articles**: All content must be 100% original
+â€”?**Ignoring E-E-A-T**: Must demonstrate experience, expertise, authority, trust
+â€”?**Absolute claims**: Avoid "always," "never," "guaranteed" â€”?use "typically," "usually," "most"
 
 ---
 
@@ -265,4 +265,4 @@ Before finalizing each article, verify:
 5. **Internal linking**: Create a web of related content
 6. **E-E-A-T compliant**: Demonstrate experience, expertise, authority, trust
 
-Generate each article following this prompt exactly. Quality over quantity ¡ª?but meet all requirements.
+Generate each article following this prompt exactly. Quality over quantity â€”?but meet all requirements.

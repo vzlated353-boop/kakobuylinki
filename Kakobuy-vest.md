@@ -68,7 +68,7 @@ Access the Kakobuy spreadsheet to view all available vests. Filter by price rang
 Request QC photos for your selected vest. The platform provides detailed images showing stitching, materials, labels, and overall construction. Compare these to your expectations before confirming the order.
 
 **Step 3: Confirm Sizing**
-Check the size chart for your selected vest. Most listings include measurements for chest, length, and shoulder width. If between sizes, consider whether you plan to layer underneath¡ªsizing up provides more room for sweaters or hoodies.
+Check the size chart for your selected vest. Most listings include measurements for chest, length, and shoulder width. If between sizes, consider whether you plan to layer underneathâ€”sizing up provides more room for sweaters or hoodies.
 
 **Step 4: Place Your Order**
 Submit your order through the platform's ordering system. Include your size preference, shipping address, and any special requests. Payment processing typically completes within 24 hours.

@@ -9,7 +9,7 @@ export const siteConfig = {
   brand: {
     name: 'Kakobuy',
     tagline: 'Your Trusted Fashion & Lifestyle Guide',
-    description: 'Comprehensive guides on shoes, clothing, hats and more. Quality specs, pricing insights, and logistics info ¡ª all in one place.',
+    description: 'Comprehensive guides on shoes, clothing, hats and more. Quality specs, pricing insights, and logistics info — all in one place.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
     logoText: 'Kakobuy',

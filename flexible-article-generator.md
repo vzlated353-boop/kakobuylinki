@@ -10,7 +10,7 @@
 
 This system replaces fixed templates with **composable content modules** that adapt based on:
 - **Topic Category** (A-H from topic-matrix.md)
-- **Buyer Journey Stage** (Awareness ¡ú Consideration ¡ú Decision ¡ú Post-Purchase)
+- **Buyer Journey Stage** (Awareness â†’ Consideration â†’ Decision â†’ Post-Purchase)
 - **Audience Type** (Beginner, Reseller, Budget Shopper, Regional, Collector)
 - **Content Angle** (Educational, Comparative, Data-Driven, Problem-Solution, Trust-Building)
 
@@ -104,7 +104,7 @@ This system replaces fixed templates with **composable content modules** that ad
   - Example: "If your priority is [A], choose [option 1]. If you need [B], go with [option 2]..."
 - **M5c - Checklist**: Action items for the reader
   - Format: Checkbox list
-  - Example: "Before ordering, verify: ¡õ [criterion 1] ¡õ [criterion 2] ¡õ [criterion 3]..."
+  - Example: "Before ordering, verify: Â¡Ãµ [criterion 1] Â¡Ãµ [criterion 2] Â¡Ãµ [criterion 3]..."
 
 **E-E-A-T Integration**:
 - Experience: Provide tested, proven steps
@@ -141,7 +141,7 @@ This system replaces fixed templates with **composable content modules** that ad
   - Example: "While we've tested [X] products, results may vary based on [factors]. We recommend [mitigation strategy]..."
 - **M7c - Community Voices**: Include real user feedback
   - Format: Blockquotes with attribution
-  - Example: "As one buyer shared: '[quote]' ¡ª u/[username], r/[subreddit]"
+  - Example: "As one buyer shared: '[quote]' â€” u/[username], r/[subreddit]"
 
 **E-E-A-T Integration**:
 - Experience: Show real testing process
@@ -173,7 +173,7 @@ This system replaces fixed templates with **composable content modules** that ad
 **Purpose**: Guide reader to next step
 **Variants**:
 - **M9a - Direct Link**: Provide specific resource
-  - Format: "[Access Resource Name](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit) ¡ª [brief benefit statement]"
+  - Format: "[Access Resource Name](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit) â€” [brief benefit statement]"
 - **M9b - Next Step Suggestion**: Recommend logical follow-up
   - Format: "Now that you understand [topic], your next step is to [action]..."
 - **M9c - Community Invitation**: Encourage engagement
@@ -205,10 +205,10 @@ This system replaces fixed templates with **composable content modules** that ad
 
 ---
 
-## Part 2: Topic Category ¡ú Module Mapping
+## Part 2: Topic Category â†’ Module Mapping
 
 ### Category A: Platform-Specific Guides
-**Recommended Modules**: M1a (Problem Hook) ¡ú M2a (Benefit List) ¡ú M3a (Concept Explanation) ¡ú M4a (Statistics) ¡ú M5a (Step-by-Step) ¡ú M7a (Methodology) ¡ú M8a (FAQ) ¡ú M9a (Direct Link) ¡ú M10b (Final Recommendation)
+**Recommended Modules**: M1a (Problem Hook) â†’ M2a (Benefit List) â†’ M3a (Concept Explanation) â†’ M4a (Statistics) â†’ M5a (Step-by-Step) â†’ M7a (Methodology) â†’ M8a (FAQ) â†’ M9a (Direct Link) â†’ M10b (Final Recommendation)
 
 **Tone**: Educational, practical, reassuring
 **Word Count**: 2,500-3,500 words
@@ -217,7 +217,7 @@ This system replaces fixed templates with **composable content modules** that ad
 ---
 
 ### Category B: Brand-Specific Deep Dives
-**Recommended Modules**: M1b (Data Hook) ¡ú M2b (Transformation Story) ¡ú M3c (Comparison Framework) ¡ú M4b (Case Study) ¡ú M6a (Head-to-Head) ¡ú M7c (Community Voices) ¡ú M8b (Myth Busting) ¡ú M9b (Next Step) ¡ú M10a (Key Points)
+**Recommended Modules**: M1b (Data Hook) â†’ M2b (Transformation Story) â†’ M3c (Comparison Framework) â†’ M4b (Case Study) â†’ M6a (Head-to-Head) â†’ M7c (Community Voices) â†’ M8b (Myth Busting) â†’ M9b (Next Step) â†’ M10a (Key Points)
 
 **Tone**: Authoritative, detailed, quality-focused
 **Word Count**: 3,000-4,000 words
@@ -226,7 +226,7 @@ This system replaces fixed templates with **composable content modules** that ad
 ---
 
 ### Category C: Buyer Journey Content
-**Recommended Modules**: M1c (Story Hook) ¡ú M2c (Credibility Statement) ¡ú M3b (Process Breakdown) ¡ú M4c (Comparison Table) ¡ú M5b (Decision Framework) ¡ú M7b (Limitations) ¡ú M8c (Objection Handling) ¡ú M9c (Community Invitation) ¡ú M10c (Future Outlook)
+**Recommended Modules**: M1c (Story Hook) â†’ M2c (Credibility Statement) â†’ M3b (Process Breakdown) â†’ M4c (Comparison Table) â†’ M5b (Decision Framework) â†’ M7b (Limitations) â†’ M8c (Objection Handling) â†’ M9c (Community Invitation) â†’ M10c (Future Outlook)
 
 **Tone**: Welcoming, educational, non-intimidating
 **Word Count**: 2,000-3,000 words
@@ -235,7 +235,7 @@ This system replaces fixed templates with **composable content modules** that ad
 ---
 
 ### Category D: Problem-Solution Content
-**Recommended Modules**: M1a (Problem Hook) ¡ú M2a (Benefit List) ¡ú M3a (Concept Explanation) ¡ú M4a (Statistics) ¡ú M5c (Checklist) ¡ú M6b (Multi-Option Matrix) ¡ú M7a (Methodology) ¡ú M8a (FAQ) ¡ú M9a (Direct Link) ¡ú M10b (Final Recommendation)
+**Recommended Modules**: M1a (Problem Hook) â†’ M2a (Benefit List) â†’ M3a (Concept Explanation) â†’ M4a (Statistics) â†’ M5c (Checklist) â†’ M6b (Multi-Option Matrix) â†’ M7a (Methodology) â†’ M8a (FAQ) â†’ M9a (Direct Link) â†’ M10b (Final Recommendation)
 
 **Tone**: Practical, solution-oriented, empathetic
 **Word Count**: 2,500-3,500 words
@@ -244,7 +244,7 @@ This system replaces fixed templates with **composable content modules** that ad
 ---
 
 ### Category E: Seasonal & Trend Content
-**Recommended Modules**: M1d (Question Hook) ¡ú M2b (Transformation Story) ¡ú M3c (Comparison Framework) ¡ú M4b (Case Study) ¡ú M6c (Tier Ranking) ¡ú M7c (Community Voices) ¡ú M8b (Myth Busting) ¡ú M9b (Next Step) ¡ú M10c (Future Outlook)
+**Recommended Modules**: M1d (Question Hook) â†’ M2b (Transformation Story) â†’ M3c (Comparison Framework) â†’ M4b (Case Study) â†’ M6c (Tier Ranking) â†’ M7c (Community Voices) â†’ M8b (Myth Busting) â†’ M9b (Next Step) â†’ M10c (Future Outlook)
 
 **Tone**: Trendy, timely, exciting
 **Word Count**: 2,000-3,000 words
@@ -253,7 +253,7 @@ This system replaces fixed templates with **composable content modules** that ad
 ---
 
 ### Category F: Audience-Specific Content
-**Recommended Modules**: M1c (Story Hook) ¡ú M2a (Benefit List) ¡ú M3b (Process Breakdown) ¡ú M4c (Comparison Table) ¡ú M5b (Decision Framework) ¡ú M6c (Tier Ranking) ¡ú M7c (Community Voices) ¡ú M8c (Objection Handling) ¡ú M9c (Community Invitation) ¡ú M10a (Key Points)
+**Recommended Modules**: M1c (Story Hook) â†’ M2a (Benefit List) â†’ M3b (Process Breakdown) â†’ M4c (Comparison Table) â†’ M5b (Decision Framework) â†’ M6c (Tier Ranking) â†’ M7c (Community Voices) â†’ M8c (Objection Handling) â†’ M9c (Community Invitation) â†’ M10a (Key Points)
 
 **Tone**: Relatable, specific, inclusive
 **Word Count**: 2,500-3,500 words
@@ -262,7 +262,7 @@ This system replaces fixed templates with **composable content modules** that ad
 ---
 
 ### Category G: Data-Driven Content
-**Recommended Modules**: M1b (Data Hook) ¡ú M2c (Credibility Statement) ¡ú M3c (Comparison Framework) ¡ú M4a (Statistics) ¡ú M6b (Multi-Option Matrix) ¡ú M7a (Methodology) ¡ú M8a (FAQ) ¡ú M9b (Next Step) ¡ú M10a (Key Points)
+**Recommended Modules**: M1b (Data Hook) â†’ M2c (Credibility Statement) â†’ M3c (Comparison Framework) â†’ M4a (Statistics) â†’ M6b (Multi-Option Matrix) â†’ M7a (Methodology) â†’ M8a (FAQ) â†’ M9b (Next Step) â†’ M10a (Key Points)
 
 **Tone**: Analytical, objective, evidence-based
 **Word Count**: 3,000-4,500 words
@@ -271,7 +271,7 @@ This system replaces fixed templates with **composable content modules** that ad
 ---
 
 ### Category H: Trust & Transparency Content
-**Recommended Modules**: M1a (Problem Hook) ¡ú M2c (Credibility Statement) ¡ú M3a (Concept Explanation) ¡ú M4b (Case Study) ¡ú M5a (Step-by-Step) ¡ú M7a (Methodology) ¡ú M7b (Limitations) ¡ú M8c (Objection Handling) ¡ú M9c (Community Invitation) ¡ú M10b (Final Recommendation)
+**Recommended Modules**: M1a (Problem Hook) â†’ M2c (Credibility Statement) â†’ M3a (Concept Explanation) â†’ M4b (Case Study) â†’ M5a (Step-by-Step) â†’ M7a (Methodology) â†’ M7b (Limitations) â†’ M8c (Objection Handling) â†’ M9c (Community Invitation) â†’ M10b (Final Recommendation)
 
 **Tone**: Honest, transparent, humble
 **Word Count**: 2,500-3,500 words
@@ -314,7 +314,7 @@ This system replaces fixed templates with **composable content modules** that ad
 - {{TIME_PERIOD}} = Q2-Q3 2026
 
 **Generated Hook (M1b - Data Hook)**:
-"We analyzed 380+ Nike rep orders from Q2-Q3 2026. The results? 94% of buyers found quality options under $50 ¡ª but only if they knew where to look. Here's what 9,200+ budget-conscious buyers discovered..."
+"We analyzed 380+ Nike rep orders from Q2-Q3 2026. The results? 94% of buyers found quality options under $50 â€” but only if they knew where to look. Here's what 9,200+ budget-conscious buyers discovered..."
 
 ---
 
@@ -416,7 +416,7 @@ Review the complete article against the E-E-A-T checklist in Part 4.
 
 ## Part 7: Example Article Outline
 
-### Topic: "Rep Batches Explained: GX vs TOP vs PK vs M4 ¡ª Complete Guide"
+### Topic: "Rep Batches Explained: GX vs TOP vs PK vs M4 â€” Complete Guide"
 **Category**: D (Problem-Solution)
 **Slots**: {{PROBLEM}} = batch confusion, {{SOLUTION}} = batch comparison guide
 
@@ -425,7 +425,7 @@ Review the complete article against the E-E-A-T checklist in Part 4.
 2. M2a (Benefit List): "In this guide, you'll discover: What batches actually are, How GX, TOP, PK, and M4 differ, Which batch is best for specific products, How to avoid batch-related disappointments"
 3. M3a (Concept Explanation): Define what batches are, why they exist, how they affect quality
 4. M4a (Statistics): Present data on batch preferences, quality ratings, price differences
-5. M5c (Checklist): "Before ordering, verify: ¡õ Batch version is listed ¡õ You understand the batch's strengths/weaknesses ¡õ Price matches batch quality tier"
+5. M5c (Checklist): "Before ordering, verify: Â¡Ãµ Batch version is listed Â¡Ãµ You understand the batch's strengths/weaknesses Â¡Ãµ Price matches batch quality tier"
 6. M6b (Multi-Option Matrix): Compare GX, TOP, PK, M4 across 6 criteria (quality, price, availability, best for, etc.)
 7. M7a (Methodology): "This comparison is based on 280+ orders across 4 batch types, with community feedback from 1,200+ buyers..."
 8. M8a (FAQ): Answer 5 common batch questions

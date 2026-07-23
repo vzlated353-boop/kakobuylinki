@@ -108,7 +108,7 @@ We encourage you to browse the full [Kakobuy spreadsheet](https://docs.google.co
 ---
 
 **Related Guides:**
-- [Kakobuy Nike](/Kakobuy-nike/) ¡ª Explore the full Nike collection on Kakobuy, including all footwear models and apparel.
-- [Kakobuy Sneakers](/Kakobuy-sneakers/) ¡ª Browse all verified sneakers across every brand available on the platform.
-- [Kakobuy Sizing Guide](/Kakobuy-sizing-guide/) ¡ª Detailed sizing recommendations for Nike, Jordan, Adidas, and other brands.
+- [Kakobuy Nike](/Kakobuy-nike/) â€” Explore the full Nike collection on Kakobuy, including all footwear models and apparel.
+- [Kakobuy Sneakers](/Kakobuy-sneakers/) â€” Browse all verified sneakers across every brand available on the platform.
+- [Kakobuy Sizing Guide](/Kakobuy-sizing-guide/) â€” Detailed sizing recommendations for Nike, Jordan, Adidas, and other brands.
 

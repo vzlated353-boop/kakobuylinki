@@ -69,7 +69,7 @@ Always use actual body measurements compared against seller measurement charts. 
 Asian sizing typically runs 1-2 sizes smaller than Western standards. Use measurements rather than size labels. A Western Medium often corresponds to Asian Large or XL.
 
 **What if I'm between sizes?**
-For fitted styles, size up for comfort. For oversized styles, size down if you prefer less volume. Check fabric composition¡ªstretchy fabrics accommodate between-sizes better.
+For fitted styles, size up for comfort. For oversized styles, size down if you prefer less volume. Check fabric compositionâ€”stretchy fabrics accommodate between-sizes better.
 
 **How can I verify sizing before ordering?**
 Read customer reviews mentioning fit, check seller measurement charts carefully, and compare against well-fitting garments you own. Review QC photos for actual product dimensions.

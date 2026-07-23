@@ -26,7 +26,7 @@ Effective quality verification requires a systematic approach that covers multip
 
 **Construction Quality Assessment**: Evaluate stitching patterns, seam finishes, and hardware installation. High-quality replicas will have even, consistent stitching with no loose threads or uneven seams. Stitch density should match the original. Seam finishes should be clean and professional, with no raw edges or fraying. Hardware should be properly installed with no gaps or misalignment.
 
-**Design Accuracy Verification**: Check logo placement, color matching, proportions, and overall appearance. Logos should be correctly sized, properly positioned, and accurately reproduced in terms of font, spacing, and finish. Colors should match reference images under normal lighting conditions. Proportions should be accurate ¡ª items that are too large, too small, or incorrectly shaped indicate poor quality control.
+**Design Accuracy Verification**: Check logo placement, color matching, proportions, and overall appearance. Logos should be correctly sized, properly positioned, and accurately reproduced in terms of font, spacing, and finish. Colors should match reference images under normal lighting conditions. Proportions should be accurate â€” items that are too large, too small, or incorrectly shaped indicate poor quality control.
 
 **Hardware Quality Evaluation**: Examine zippers, buttons, buckles, and metal components. Hardware should have appropriate weight, finish, and functionality. Cheap, lightweight hardware with poor finish is a clear indicator of a low-quality product. High-quality replicas use hardware that closely matches the originals in appearance and function.
 

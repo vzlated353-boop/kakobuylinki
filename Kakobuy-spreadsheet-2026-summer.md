@@ -56,7 +56,7 @@ The summer 2026 spreadsheet covers a wide range of categories, each populated wi
 
 ## Tips for Maximizing Your Summer Savings
 
-Using the Kakobuy spreadsheet 2026 summer edition effectively requires a strategic approach. Start by identifying your priority categories and filtering the spreadsheet to show only products within your budget range. Pay close attention to the order volume and quality pass rate columns¡ªproducts with high order counts and high quality ratings are generally the safest bets.
+Using the Kakobuy spreadsheet 2026 summer edition effectively requires a strategic approach. Start by identifying your priority categories and filtering the spreadsheet to show only products within your budget range. Pay close attention to the order volume and quality pass rate columnsâ€”products with high order counts and high quality ratings are generally the safest bets.
 
 Timing your purchases can also make a significant difference. Many summer products see price reductions in late August as sellers clear inventory for fall collections. If you are shopping for next year, buying off-season can yield savings of 30-50%. The spreadsheet tracks price history for many products, allowing you to identify the best times to buy.
 

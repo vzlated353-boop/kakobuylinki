@@ -100,7 +100,7 @@ Mertra represents the fresh voice of emerging streetwear, and Kakobuy delivers r
 
 ## Related Guides
 
-- [Kakobuy Hellstar](/Kakobuy-hellstar/) ¡ª Premium streetwear with comparable distinctive aesthetics
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear brands
-- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) ¡ª Complete tee guide for graphic streetwear
+- [Kakobuy Hellstar](/Kakobuy-hellstar/) â€” Premium streetwear with comparable distinctive aesthetics
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear brands
+- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) â€” Complete tee guide for graphic streetwear
 

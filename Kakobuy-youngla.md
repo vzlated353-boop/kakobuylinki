@@ -36,7 +36,7 @@ This hoodie represents the quintessential Young LA piece, featuring the brand's 
 
 **Young LA T-shirt**
 Price: ~$11.21
-Crafted from premium performance cotton blend, this tee features the beloved Young LA logo with precise screen printing or embroidery that maintains clarity through intense training sessions and multiple laundering cycles. The fabric incorporates moisture-wicking properties while maintaining a soft hand feel. Quality inspections reveal high accuracy in design placement and color matching. The fit follows authentic patterns with a slightly oversized silhouette through the shoulders and chest ¡ª the signature "pump cover" look that has become the brand's calling card.
+Crafted from premium performance cotton blend, this tee features the beloved Young LA logo with precise screen printing or embroidery that maintains clarity through intense training sessions and multiple laundering cycles. The fabric incorporates moisture-wicking properties while maintaining a soft hand feel. Quality inspections reveal high accuracy in design placement and color matching. The fit follows authentic patterns with a slightly oversized silhouette through the shoulders and chest â€” the signature "pump cover" look that has become the brand's calling card.
 
 **Young LA Shorts**
 Price: ~$16.32
@@ -100,7 +100,7 @@ Young LA represents the new wave of Australian gym streetwear, and Kakobuy deliv
 
 ## Related Guides
 
-- [Kakobuy Gymshark](/Kakobuy-gymshark/) ¡ª Leading fitness apparel with comparable performance standards
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear and gym brands
-- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) ¡ª Complete tee guide for gym and casual wear
+- [Kakobuy Gymshark](/Kakobuy-gymshark/) â€” Leading fitness apparel with comparable performance standards
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear and gym brands
+- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) â€” Complete tee guide for gym and casual wear
 

@@ -36,7 +36,7 @@ Effective QC photo review requires systematic evaluation of multiple quality fac
 
 Zoom in on material close-ups to evaluate texture, weight, and finish quality. Leather should look and feel like leather, not plastic. Fabrics should have appropriate weight and weave quality. Metal hardware should have appropriate weight and finish quality. Materials should not look cheap, thin, or poorly made.
 
-Examine stitching close-ups for even, consistent stitching with no loose threads or uneven seams. Stitch density should match the original ¡ª too few stitches per inch indicates poor construction. Seam finishes should be clean and professional, with no raw edges or fraying.
+Examine stitching close-ups for even, consistent stitching with no loose threads or uneven seams. Stitch density should match the original â€” too few stitches per inch indicates poor construction. Seam finishes should be clean and professional, with no raw edges or fraying.
 
 Check logo close-ups for correct sizing, proper positioning, and accurate reproduction in terms of font, spacing, and finish. Misaligned, oversized, or undersized logos are clear indicators of poor quality control. Compare the logo in the QC photos to reference images to verify accuracy.
 

@@ -68,7 +68,7 @@ Access the Kakobuy spreadsheet to view all available women's fashion items. Filt
 Request QC photos for your selected items. The platform provides detailed images showing stitching, materials, labels, and overall construction. Compare these to your expectations before confirming the order.
 
 **Step 3: Confirm Sizing**
-Check the size chart for your selected items. Most listings include measurements for bust, waist, hips, and length. If between sizes, consider the desired fit¡ªoversized streetwear pieces may allow sizing down, while fitted dresses require accurate measurements.
+Check the size chart for your selected items. Most listings include measurements for bust, waist, hips, and length. If between sizes, consider the desired fitâ€”oversized streetwear pieces may allow sizing down, while fitted dresses require accurate measurements.
 
 **Step 4: Place Your Order**
 Submit your order through the platform's ordering system. Include your size preference, shipping address, and any special requests. Payment processing typically completes within 24 hours.

@@ -58,7 +58,7 @@ The budget spreadsheet covers all major product categories, with particular stre
 
 ## Strategies for Smart Budget Shopping
 
-To get the most out of the Kakobuy spreadsheet 2026 budget edition, start by identifying your priority categories and filtering by your target price range. Pay close attention to the value score metric¡ªproducts with high value scores offer the best combination of affordability and quality. Don't just focus on the lowest price; a product that costs $2 more but has a 10% higher quality pass rate is often a better investment.
+To get the most out of the Kakobuy spreadsheet 2026 budget edition, start by identifying your priority categories and filtering by your target price range. Pay close attention to the value score metricâ€”products with high value scores offer the best combination of affordability and quality. Don't just focus on the lowest price; a product that costs $2 more but has a 10% higher quality pass rate is often a better investment.
 
 Timing your purchases can also make a significant difference. Many products see price reductions during holiday sales, end-of-season clearances, and special promotions. The spreadsheet's price history feature helps you identify the best times to buy, allowing you to maximize your savings. If a product is currently priced above its historical average, consider waiting for a better deal.
 

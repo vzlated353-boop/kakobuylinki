@@ -53,7 +53,7 @@ Accessories like bags, belts, and glasses should be checked for material quality
 
 Your Kakobuy package typically includes a commercial invoice or packing slip that lists the items, quantities, and declared values. This document is important for customs purposes and should be kept with your purchase records. If you need to make a return or exchange, having this documentation speeds up the process significantly.
 
-The packaging materials¡ªboxes, poly mailers, bubble wrap, and tissue paper¡ªcan often be reused for storage or future shipping. Cardboard boxes are particularly useful for storing shoes or other items you want to protect from dust and damage. If you don't need the materials, recycle them according to your local recycling guidelines. Kakobuy has been transitioning to more sustainable packaging materials, and most cardboard and paper products are recyclable.
+The packaging materialsâ€”boxes, poly mailers, bubble wrap, and tissue paperâ€”can often be reused for storage or future shipping. Cardboard boxes are particularly useful for storing shoes or other items you want to protect from dust and damage. If you don't need the materials, recycle them according to your local recycling guidelines. Kakobuy has been transitioning to more sustainable packaging materials, and most cardboard and paper products are recyclable.
 
 For high-value items, keep the original packaging if possible. Retail boxes for shoes, watches, and accessories can increase resale value if you ever decide to sell the items. Store the boxes in a dry place away from direct sunlight to prevent deterioration.
 

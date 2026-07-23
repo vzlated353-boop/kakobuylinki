@@ -46,7 +46,7 @@
 - Contact
 
 ## External Links
-All product buttons, brand buttons, and CTA buttons ¡ú Google Sheets URL
+All product buttons, brand buttons, and CTA buttons â†’ Google Sheets URL
 
 ## Phase 1 Tasks
 - [ ] Create HomePage component

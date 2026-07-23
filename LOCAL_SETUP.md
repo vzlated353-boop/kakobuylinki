@@ -91,7 +91,7 @@ git push -u origin main
 ## — ²¿Êðµ½ Cloudflare Pages
 
 1. ·ÃÎÊ https://dash.cloudflare.com/
-2. Workers & Pages ¡ú Pages ¡ú Create ¡ú Connect to Git
+2. Workers & Pages → Pages → Create → Connect to Git
 3. Ñ¡ÔñÄãµÄ GitHub ²Ö¿â
 4. ÅäÖÃ£º
    - Build command: `npm run build`

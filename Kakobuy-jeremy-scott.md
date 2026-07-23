@@ -100,7 +100,7 @@ Jeremy Scott represents the pinnacle of playful luxury fashion, and Kakobuy deli
 
 ## Related Guides
 
-- [Kakobuy Off-White](/Kakobuy-off-white/) ¡ª Bold luxury streetwear with industrial aesthetics
-- [Kakobuy Hoodies](/Kakobuy-hoodies/) ¡ª Premium hoodie options across top streetwear brands
-- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) ¡ª Complete tee guide for statement graphic pieces
+- [Kakobuy Off-White](/Kakobuy-off-white/) â€” Bold luxury streetwear with industrial aesthetics
+- [Kakobuy Hoodies](/Kakobuy-hoodies/) â€” Premium hoodie options across top streetwear brands
+- [Kakobuy T-Shirts](/Kakobuy-t-shirts/) â€” Complete tee guide for statement graphic pieces
 
