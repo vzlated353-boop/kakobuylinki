@@ -86,13 +86,13 @@
     </section>
 
     <!-- Recommended Platforms -->
-    <section class="platforms">
+    <section class="platforms" v-if="frontmatter.platforms && frontmatter.platforms.length">
       <div class="container">
         <h2>Recommended Platforms</h2>
         <div class="platforms-grid">
-            <a href="/platform" class="platform-card">
-            <h3>Platform 1</h3>
-            <p>Placeholder text</p>
+          <a v-for="platform in frontmatter.platforms" :key="platform.name" :href="platform.url" target="_blank" rel="nofollow" class="platform-card">
+            <h3>{{ platform.name }}</h3>
+            <p>{{ platform.description }}</p>
           </a>
         </div>
       </div>
@@ -120,17 +120,13 @@
     </section>
 
     <!-- Related Articles -->
-    <section class="related">
+    <section class="related" v-if="frontmatter.relatedArticles && frontmatter.relatedArticles.length">
       <div class="container">
         <h2>Related Articles</h2>
         <div class="articles-grid">
-          <a href="/blog/article1" class="article-card">
-            <h3>Article 1</h3>
-            <p>Placeholder text</p>
-          </a>
-          <a href="/blog/article2" class="article-card">
-            <h3>Article 2</h3>
-            <p>Placeholder text</p>
+          <a v-for="article in frontmatter.relatedArticles" :key="article.link" :href="article.link" class="article-card">
+            <h3>{{ article.title }}</h3>
+            <p>{{ article.desc }}</p>
           </a>
         </div>
       </div>

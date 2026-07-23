@@ -75,7 +75,6 @@
 
 <script setup>
 import { ref } from 'vue'
-import { siteConfig } from '../site-config.js'
 
 const props = defineProps({
   categoryDescription: {
@@ -86,14 +85,27 @@ const props = defineProps({
     type: Array,
     default: () => [],
   },
+  qualitySpecs: {
+    type: Array,
+    default: () => [],
+  },
+  pricingInfo: {
+    type: Object,
+    default: () => ({ range: '', note: '' }),
+  },
+  logisticsInfo: {
+    type: Array,
+    default: () => [],
+  },
+  batchInfo: {
+    type: Array,
+    default: () => [],
+  },
+  faq: {
+    type: Array,
+    default: () => [],
+  },
 })
-
-const { content } = siteConfig
-const qualitySpecs = content.qualitySpecs
-const pricingInfo = content.pricingInfo
-const logisticsInfo = content.logisticsInfo
-const batchInfo = content.batchInfo
-const faq = content.faq
 
 const openFaq = ref(-1)
 

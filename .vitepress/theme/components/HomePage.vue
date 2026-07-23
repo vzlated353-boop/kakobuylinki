@@ -3,9 +3,9 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-inner">
-        <h1 class="hero-title">{{ brand.name }}</h1>
-        <p class="hero-subtitle">{{ brand.tagline }}</p>
-        <p class="hero-desc">{{ brand.description }}</p>
+        <h1 class="hero-title">Your Independent Kakobuy Resource Hub</h1>
+        <p class="hero-subtitle">Product Guides, Category Breakdowns & Buying Tips — All in One Place</p>
+        <p class="hero-desc">Navigate the Kakobuy platform with confidence. We organize product information, sizing guides, quality checks, and purchasing resources so you can make informed decisions without searching through scattered forums.</p>
         <!-- Category Buttons -->
         <div class="hero-buttons">
           <a
@@ -32,33 +32,33 @@
     <!-- Value Proposition / Introduction Section -->
     <section class="intro-section">
       <div class="container">
-        <h2 class="section-title">Why Kakobuy?</h2>
+        <h2 class="section-title">What You Will Find Here</h2>
         <div class="intro-grid">
           <div class="intro-card">
             <div class="intro-icon"></div>
-            <h3>Comprehensive Guides</h3>
-            <p>From <a href="/Kakobuy-for-beginners/">first-time buyers</a> to seasoned shoppers, our guides cover every step — account setup, ordering, shipping, and quality verification.</p>
+            <h3>Kakobuy Guide</h3>
+            <p>Step-by-step resources for navigating the platform — from <a href="/Kakobuy-for-beginners/">getting started</a> to <a href="/Kakobuy-how-to-use/">placing your first order</a> and understanding <a href="/Kakobuy-shipping-guide/">shipping options</a>.</p>
           </div>
           <div class="intro-card">
-            <div class="intro-icon">✅</div>
-            <h3>Quality You Can Trust</h3>
-            <p>Every product is backed by <a href="/is-Kakobuy-legit/">legitimacy checks</a>, <a href="/Kakobuy-qc-photos/">QC photos</a>, and real <a href="/Kakobuy-reviews/">user reviews</a> so you shop with confidence.</p>
+            <div class="intro-icon">📋</div>
+            <h3>Product Database</h3>
+            <p>Browse our <a href="/Kakobuy-spreadsheet/">organized spreadsheet</a> with product listings, pricing details, batch information, and direct links — regularly maintained and easy to search.</p>
           </div>
           <div class="intro-card">
-            <div class="intro-icon">💰</div>
-            <h3>Smart Savings</h3>
-            <p>Discover <a href="/Kakobuy-coupon/">coupon codes</a>, <a href="/Kakobuy-best-deals/">seasonal deals</a>, and <a href="/Kakobuy-budget-picks/">budget-friendly picks</a> to maximize your shopping value.</p>
+            <div class="intro-icon">🔍</div>
+            <h3>Quality Resources</h3>
+            <p>Learn how to evaluate products using <a href="/Kakobuy-qc-photos/">QC photo inspection</a>, <a href="/Kakobuy-legit-check/">legit check steps</a>, and <a href="/Kakobuy-reviews/">community feedback</a> before committing to a purchase.</p>
           </div>
           <div class="intro-card">
-            <div class="intro-icon"></div>
-            <h3>Curated Spreadsheets</h3>
-            <p>Access our <a href="/Kakobuy-spreadsheet/">product spreadsheet</a> with thousands of items, prices, batch info, and direct purchase links — updated weekly.</p>
+            <div class="intro-icon">📂</div>
+            <h3>Category Breakdowns</h3>
+            <p>Detailed guides for each product type — <a href="/shoes/">sneakers and footwear</a>, <a href="/clothes/">apparel and streetwear</a>, <a href="/hats/">headwear</a>, and more — with sizing tips and material information.</p>
           </div>
         </div>
         <div class="intro-cta">
           <p class="intro-cta-text">
-            Unlike scattered forums and outdated blogs, Kakobuy brings everything together in one organized platform — 
-            product guides, brand comparisons, shipping tips, and community insights — so you never waste time searching again.
+            Kakobuylinki.com is an independently maintained resource site. We organize product information, buying guides, and platform tutorials in one place — 
+            so you spend less time searching through forums and more time finding what you actually need.
           </p>
         </div>
       </div>

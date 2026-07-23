@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Kakobuy - Fashion & Lifestyle Guide
-description: Comprehensive guides on shoes, clothing, hats. Quality specs, pricing, logistics info.
+title: Kakobuy Guide 2026 - Fashion Finds, Product Database & Buying Tips
+description: Independent Kakobuy resource with product guides, category breakdowns, sizing tips, and spreadsheet access. Updated July 2026.
 ---
 
 <script setup>

@@ -1,44 +1,51 @@
 ---
 layout: home
 categoryName: Watches
-heroSubtitle: "Explore luxury-inspired timepieces and everyday watches with verified links."
-introText: Discover a sophisticated collection of watches, from elegant luxury designs to functional everyday timepieces. Our curated selection provides verified links and quality insights to help you find the perfect watch.
+title: Watches Guide - Luxury & Everyday Timepieces | Kakobuy
+description: Complete guide to watches on Kakobuy. Luxury-inspired watches, everyday timepieces, smartwatches. Movement types, case materials, and buying tips.
+heroSubtitle: "Luxury-Inspired and Everyday Timepieces — Movement and Material Guide"
+introText: "Watches combine functionality with personal style. Whether you prefer mechanical precision, quartz reliability, or smart features, understanding movement types and case materials helps you make informed choices. This guide covers what to look for when browsing watches on Kakobuy, from movement accuracy and case finishing to dial clarity and strap quality."
 editorNotes:
-  - title: Movement Type
-    content: Understand the difference between quartz, automatic, and mechanical movements. Each offers unique benefits in terms of accuracy, maintenance, and craftsmanship.
-  - title: Case Material and Finish
-    content: Pay attention to the watch case material (stainless steel, alloy) and its finish (polished, brushed). This impacts durability, weight, and overall aesthetic.
-  - title: Dial Details and Legibility
-    content: "Examine the dial for clarity, lume quality, and precision of markers. A well-designed dial ensures easy readability and enhances the watch\"s appeal."
+  - title: Movement Types Explained
+    content: "Quartz movements offer accuracy and low maintenance. Automatic (self-winding) movements showcase mechanical craftsmanship. Manual-wind movements require daily winding but offer traditional appeal. Check movement type in product descriptions and verify smooth second-hand motion in QC photos for automatic watches."
+  - title: Case Material and Weight
+    content: "Stainless steel cases offer durability and substantial weight. Titanium is lighter and hypoallergenic. Alloy cases are more affordable but lighter. Check case finishing in QC photos — polished surfaces should be mirror-like, brushed finishes should show even grain direction. Case back should fit flush without gaps."
+  - title: Dial Quality and Legibility
+    content: "Examine dial printing quality, marker alignment, and lume brightness. Hands should move smoothly without wobbling. Chronograph subdials should function correctly. Check for dust particles under the crystal in QC photos — indicates poor assembly quality."
 collections:
-  - title: Luxury Replicas
-    description: "Discover high-quality luxury-inspired watches with meticulous attention to detail."
+  - title: Luxury-Inspired Watches
+    description: "High-detail watches inspired by premium brands. Focus on movement quality, case finishing, and dial accuracy compared to reference models."
   - title: Everyday Timepieces
-    description: Find durable and stylish watches perfect for daily wear and various occasions.
-  - title: Classic Designs
-    description: Explore timeless watch designs that blend tradition with modern aesthetics.
-  - title: Smartwatch Alternatives
-    description: Functional and stylish watches that offer more than just timekeeping.
+    description: "Reliable daily-wear watches with quartz or automatic movements. Look for water resistance ratings, scratch-resistant crystals, and comfortable strap materials."
+  - title: Chronograph and Sport Watches
+    description: "Multi-function watches with stopwatch features. Verify subdial functionality, pusher button feel, and tachymeter scale accuracy."
+  - title: Dress and Classic Watches
+    description: "Elegant thin-profile watches for formal occasions. Check case thickness, dial simplicity, and strap quality for refined appearance."
 brands:
   - Rolex
-  - Cartier
-  - Audemars Piguet
-  - Tissot
+  - Omega
+  - Tag Heuer
+  - Breitling
 buyingGuide:
-  howToChoose: Selecting a watch is a personal journey that combines style, function, and budget. Our buying guide helps you understand key features and make an informed decision.
-  whatToLookFor: "Consider the watch\"s movement, case material, dial design, and strap quality. Always check for water resistance and user reviews for long-term satisfaction."
+  howToChoose: "Consider your lifestyle and preferences. Active users need water resistance and durable straps. Office workers may prefer elegant dress watches. Collectors value movement visibility and complications. Match case size to your wrist — 38-42mm suits most wrists, 44mm+ for larger wrists."
+  whatToLookFor: "Inspect QC photos for: dial printing clarity and marker alignment, hand movement smoothness (no wobbling), case finishing consistency (no scratches on polished surfaces), crystal clarity (no dust underneath), strap stitching or link fit, and crown operation smoothness."
 faq:
-  - question: How can I ensure the quality of a watch purchased through Kakobuy?
-    answer: Kakobuy provides QC (Quality Control) photos for watches, allowing you to inspect the movement, dial, case, and strap for any imperfections before the item is shipped. Look for clear images of all angles.
-  - question: What are the popular watch brands available on Kakobuy Spreadsheet?
-    answer: "Our spreadsheet features popular luxury-inspired brands like Rolex, Cartier, Audemars Piguet, and Tissot, alongside other trending models. You can find a diverse range of styles."
-  - question: Are these watches genuine or replicas?
-    answer: "Kakobuy Spreadsheet primarily features luxury-inspired and replica watches from Chinese platforms. We focus on providing high-quality options with verified links and QC photos for transparency."
+  - question: How do I check watch movement quality in QC photos?
+    answer: "Request a video showing the second hand motion — automatic movements should sweep smoothly (6-8 beats per second), quartz should tick once per second. Check dial alignment, marker spacing, and hand concentricity. Listen for unusual grinding sounds in automatic movements."
+  - question: What case size should I choose?
+    answer: "Measure your wrist circumference. For wrists 6-7 inches, 38-42mm cases work well. For 7-8 inch wrists, 42-46mm cases are proportionate. Try on similar sizes if possible. Consider case thickness — thinner cases (under 12mm) slide under cuffs more easily."
+  - question: How do I verify water resistance claims?
+    answer: "Check rating specifications: 30m means splash resistant only, 100m suitable for swimming, 200m+ for diving. Verify crown is screw-down for higher ratings. Check case back gasket visibility in photos. Note that water resistance decreases over time and requires maintenance."
 relatedArticles:
-  - title: "Kakobuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
-    link: /blog/article1
-  - title: "Kakobuy Spreadsheet With QC: How To Check Product Quality Before Buying"
-    link: /blog/article2
+  - title: "Kakobuy Watches Guide — Movement Types and Case Materials"
+    link: /Kakobuy-watches/
+    desc: Complete guide to watch movements and materials
+  - title: "Kakobuy QC Photos — How to Inspect Watch Quality"
+    link: /Kakobuy-qc-photos/
+    desc: Learn to check watch details in quality photos
+  - title: "Kakobuy Legit Check — Verifying Watch Authenticity"
+    link: /Kakobuy-legit-check/
+    desc: Authentication markers for luxury-inspired watches
 ---
 
 <script setup>

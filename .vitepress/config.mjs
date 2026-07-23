@@ -1,4 +1,4 @@
-﻿import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress'
 import { siteConfig } from './theme/site-config.js'
 
 const { seo, brand } = siteConfig
@@ -29,12 +29,12 @@ export default defineConfig({
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: brand.name }],
-    ['meta', { property: 'og:description', content: brand.description }],
+    ['meta', { property: 'og:title', content: seo.title }],
+    ['meta', { property: 'og:description', content: seo.description }],
     ['meta', { property: 'og:image', content: '/favicon.png' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: brand.name }],
-    ['meta', { name: 'twitter:description', content: brand.description }],
+    ['meta', { name: 'twitter:title', content: seo.title }],
+    ['meta', { name: 'twitter:description', content: seo.description }],
     ['meta', { name: 'keywords', content: seo.keywords.join(', ') }],
     ['script', { type: 'application/ld+json' }, JSON.stringify({
       '@context': 'https://schema.org',
