@@ -1,6 +1,6 @@
-# Kakobuy Tutorial 2026: Step-by-Step Platform Walkthrough
+﻿# Kakobuy Tutorial 2026: Step-by-Step Platform Walkthrough
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - Hands-on tutorial walking through every Kakobuy feature
@@ -72,7 +72,7 @@ Click any product to open its detail page, which includes expanded photos, batch
 - **Quality pass rate**: The percentage of items from this batch that passed QC inspection. A 95% rate means 95 out of 100 items met quality standards.
 - **Order count**: Total units sold. Higher counts indicate proven reliability and consistent quality.
 
-**Accessing the spreadsheet**: The Kakobuy spreadsheet is the platform's master data tool. Click the spreadsheet link in the dashboard or use the direct link to <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>. The spreadsheet contains:
+**Accessing the spreadsheet**: The Kakobuy spreadsheet is the platform's master data tool. Click the spreadsheet link in the dashboard or use the direct link to <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>. The spreadsheet contains:
 
 - All 276 products with current pricing
 - Batch version history and availability
@@ -151,7 +151,7 @@ The key takeaways from this tutorial are: complete your profile for faster check
 
 The platform's commitment to transparency — real QC photos, quality pass rates, batch version data — gives you confidence in every order. Whether you are buying a $6.18 pair of Calvin Klein Underwear or a $57.69 pair of Nike Dunks, the same verification process protects your purchase.
 
-Ready to put this tutorial into practice? <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> to explore the full catalog and find your first product today.
+Ready to put this tutorial into practice? <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a> to explore the full catalog and find your first product today.
 
 ---
 

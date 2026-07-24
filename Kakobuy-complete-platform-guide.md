@@ -1,6 +1,6 @@
-# Kakobuy Complete Platform Guide 2026: Every Feature Explained
+﻿# Kakobuy Complete Platform Guide 2026: Every Feature Explained
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - Complete overview of all Kakobuy platform features and tools
@@ -23,7 +23,7 @@ The Kakobuy dashboard is your command center for all purchasing activities. When
 
 The product catalog is organized into five main categories: Clothing (127 products), Shoes (33 products), Pants (28 products), Accessories (80 products), and Watches (8 products). Each category breaks down further into subcategories — for example, Clothing includes T-shirts (44 products), Hoodies (19 products), Tracksuits (21 products), Down Jackets (9 products), and more. This hierarchical structure makes it easy to browse even with hundreds of listings.
 
-One of the most powerful dashboard features is the integrated spreadsheet viewer. Rather than navigating away from the platform, you can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> directly within the dashboard to compare prices, check batch versions, and review quality ratings side by side. For detailed navigation instructions, our [Kakobuy platform guide](/Kakobuy-platform-guide/) provides step-by-step screenshots of every dashboard section.
+One of the most powerful dashboard features is the integrated spreadsheet viewer. Rather than navigating away from the platform, you can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a> directly within the dashboard to compare prices, check batch versions, and review quality ratings side by side. For detailed navigation instructions, our [Kakobuy platform guide](/Kakobuy-platform-guide/) provides step-by-step screenshots of every dashboard section.
 
 The search function supports keyword, brand name, and product type queries. You can filter by price range, brand, category, and availability status. Popular items like the Nike Air Max 95 (~$46.15), Essentials Hoodie (~$31.15), and Stone Island T-shirt (~$14.01) are clearly labeled with order counts and quality pass rates. The dashboard also displays real-time notifications when new batch versions arrive or when prices change, keeping you informed without manual checking.
 
@@ -83,7 +83,7 @@ The Kakobuy complete platform guide has covered every major feature — from das
 
 The platform's spreadsheet-based catalog, real-time QC photo system, and multiple shipping options give you full control over your purchasing decisions. Whether you are buying a $9.73 Essentials T-shirt or a $98.90 Rolex Watch, the same quality verification process protects every order. The 72% repurchase rate speaks to the consistent value buyers experience.
 
-We recommend bookmarking this guide and referring to it whenever you explore new categories or features. For the most current product listings, pricing, and batch availability, <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> to make data-driven purchasing decisions.
+We recommend bookmarking this guide and referring to it whenever you explore new categories or features. For the most current product listings, pricing, and batch availability, <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a> to make data-driven purchasing decisions.
 
 ---
 

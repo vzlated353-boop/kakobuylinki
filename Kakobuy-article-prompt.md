@@ -1,4 +1,4 @@
-# Kakobuy Article Generation Prompt
+﻿# Kakobuy Article Generation Prompt
 
 > This prompt guides AI to generate high-quality, SEO-optimized articles for Kakobuy platform pages.
 > Each article must follow this structure exactly.
@@ -10,7 +10,7 @@
 ```markdown
 # [Keyword] 2026: [Compelling Subtitle]
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - [Key point 1]

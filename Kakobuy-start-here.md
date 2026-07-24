@@ -1,6 +1,6 @@
-# Kakobuy Start Here 2026: Quick-Start Guide for Absolute Beginners
+﻿# Kakobuy Start Here 2026: Quick-Start Guide for Absolute Beginners
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - How to create your Kakobuy account in under 5 minutes
@@ -37,7 +37,7 @@ Use the search bar to find products by name, brand, or keyword. For example, sea
 
 Every product listing includes critical information: approximate price, available sizes and colors, batch version details, and historical quality pass rates. The quality pass rate tells you what percentage of items from that batch passed QC inspection — higher rates indicate more consistent quality. Products above 94% are flagged as "Verified High Quality."
 
-The integrated spreadsheet viewer lets you compare products side by side without leaving the platform. You can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> to view the full catalog with real-time pricing and availability updates. This transparency is one of Kakobuy's standout features, giving you the data needed to make informed decisions.
+The integrated spreadsheet viewer lets you compare products side by side without leaving the platform. You can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a> to view the full catalog with real-time pricing and availability updates. This transparency is one of Kakobuy's standout features, giving you the data needed to make informed decisions.
 
 ## Step 3: Place Your First Order
 
@@ -89,7 +89,7 @@ This Kakobuy start here guide has walked you through the complete process — fr
 
 The platform's spreadsheet-based catalog, real-time QC photo system, and multiple shipping options give you full control over your purchasing experience. Whether you are buying a $7.78 pair of Yeezy Slippers or a $83.79 Moncler Down Jacket, the same quality verification process protects every order.
 
-You are now ready to place your first order with confidence. For the most current product listings, pricing, and batch availability, <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> to explore the full catalog with real-time updates.
+You are now ready to place your first order with confidence. For the most current product listings, pricing, and batch availability, <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a> to explore the full catalog with real-time updates.
 
 ---
 

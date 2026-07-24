@@ -1,6 +1,6 @@
-# Kakobuy Shipping Costs 2026: Complete Pricing Guide
+ï»¿# Kakobuy Shipping Costs 2026: Complete Pricing Guide
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - How Kakobuy shipping costs are calculated
@@ -31,7 +31,7 @@ Express shipping adds a significant premium, usually doubling or tripling the ba
 
 ## Weight-Based Pricing and Dimensional Weight
 
-Kakobuy uses both actual weight and dimensional weight to calculate shipping costs, whichever is greater. Actual weight is simply what your package weighs on a scale. Dimensional weight accounts for the space a package occupies, calculated by multiplying length ¡Á width ¡Á height and dividing by a dimensional factor (usually 5000 for international shipping).
+Kakobuy uses both actual weight and dimensional weight to calculate shipping costs, whichever is greater. Actual weight is simply what your package weighs on a scale. Dimensional weight accounts for the space a package occupies, calculated by multiplying length ï¿½ï¿½ width ï¿½ï¿½ height and dividing by a dimensional factor (usually 5000 for international shipping).
 
 This system matters because lightweight but bulky items can cost more to ship than their actual weight suggests. For example, a Moncler Down Jacket (~$78.57) is relatively lightweight but compresses into a large box, increasing dimensional weight and shipping costs. Buyers ordering such items should expect shipping fees on the higher end of the range.
 

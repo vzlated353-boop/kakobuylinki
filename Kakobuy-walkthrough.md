@@ -1,6 +1,6 @@
-# Kakobuy Walkthrough 2026: Visual Guide to the Complete Buying Process
+﻿# Kakobuy Walkthrough 2026: Visual Guide to the Complete Buying Process
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - Visual walkthrough of the entire Kakobuy buying journey
@@ -64,7 +64,7 @@ This is your starting point. The dashboard is your command center for all future
 
 **Quality information tab**: This section displays batch version history, quality pass rates for each batch, and construction details. You see a timeline showing when each batch was produced and the corresponding quality metrics.
 
-**Spreadsheet integration**: A link labeled "View Full Catalog in Spreadsheet" appears on the product page. Clicking it opens the integrated spreadsheet viewer where you can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> to compare products side by side.
+**Spreadsheet integration**: A link labeled "View Full Catalog in Spreadsheet" appears on the product page. Clicking it opens the integrated spreadsheet viewer where you can <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a> to compare products side by side.
 
 **Your decision**: After reviewing the product details, quality data, and pricing, you select your size and color, then click "Add to Cart." The cart icon in the top navigation updates to show "1" item.
 
@@ -189,7 +189,7 @@ The visual nature of this walkthrough demonstrates how intuitive the platform is
 
 Key takeaways from this walkthrough: complete your profile for faster checkout, review QC photos carefully before approving, track your shipment through the dashboard, and inspect items upon delivery. These practices ensure the best possible experience with every order.
 
-Ready to start your own Kakobuy journey? <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> to explore the full catalog and begin your purchasing experience today.
+Ready to start your own Kakobuy journey? <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a> to explore the full catalog and begin your purchasing experience today.
 
 ---
 
