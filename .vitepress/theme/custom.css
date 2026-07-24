@@ -1,4 +1,4 @@
-﻿/* ===== Base Variables ===== */
+/* ===== Base Variables ===== */
 :root {
  --vp-c-brand: #e53935;
  --vp-c-brand-light: #ef5350;
@@ -936,4 +936,33 @@ footer.VPFooter,
   background: #a00000 !important;
   transform: translateY(-2px) !important;
   box-shadow: 0 6px 20px rgba(139, 0, 0, 0.4) !important;
+}
+
+/* ===== Category Page Shopping Button ===== */
+.spreadsheet-cta .shopping-btn {
+  display: inline-block;
+  margin-left: 15px;
+  padding: 14px 32px;
+  background: #d4af37;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
+}
+
+.spreadsheet-cta .shopping-btn:hover {
+  background: #c4a030;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
+}
+
+@media (max-width: 768px) {
+  .spreadsheet-cta .shopping-btn {
+    margin-left: 0;
+    margin-top: 15px;
+    display: block;
+  }
 }

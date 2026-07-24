@@ -181,6 +181,7 @@ Hats are more than just accessories—they protect from sun and cold, express pe
     <span>View Hats Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
+  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Hat Categories

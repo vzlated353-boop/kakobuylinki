@@ -138,6 +138,7 @@ Whether you are a runner seeking performance, a sneakerhead chasing limited rele
     <span>View Shoes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
+  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Shoe Categories

@@ -160,6 +160,7 @@ Clothing is more than just covering your body—it is about expressing yourself,
     <span>View Clothes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
+  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Clothing Categories
