@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "check:links": "node scripts/verify-internal-links.js",
+    "harden:external-links": "node scripts/harden-external-links.js"
   },
   "devDependencies": {
     "sharp": "^0.35.3",

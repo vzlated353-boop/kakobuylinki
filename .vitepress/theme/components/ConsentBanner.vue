@@ -1,14 +1,22 @@
 <template>
-  <div v-if="!consentGiven" class="consent-overlay" id="consent-banner">
+  <div
+    v-if="!consentGiven"
+    id="consent-banner"
+    class="consent-overlay"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="consent-title"
+    aria-describedby="consent-description"
+  >
     <div class="consent-banner">
-      <div class="consent-icon">&#128274;</div>
-      <h3 class="consent-title">Cookie Consent</h3>
-      <p class="consent-text">
+      <div class="consent-icon" aria-hidden="true">&#128274;</div>
+      <h3 id="consent-title" class="consent-title">Cookie Consent</h3>
+      <p id="consent-description" class="consent-text">
         We use cookies and analytics to improve your experience. By clicking "Accept", you consent to the use of cookies for analytics and advertising purposes. You can manage your preferences at any time.
       </p>
       <div class="consent-buttons">
-        <button class="consent-btn consent-deny" @click="denyConsent">Decline</button>
-        <button class="consent-btn consent-accept" @click="grantConsent">Accept All</button>
+        <button class="consent-btn consent-deny" type="button" @click="denyConsent">Decline</button>
+        <button class="consent-btn consent-accept" type="button" @click="grantConsent">Accept All</button>
       </div>
       <p class="consent-privacy">
         <a href="/privacy-policy/">Privacy Policy</a>
@@ -21,13 +29,20 @@
 import { ref, onMounted } from 'vue'
 
 const consentGiven = ref(false)
+const analytics = {
+  ga4: 'G-XTJTTBZTPM',
+  ads: 'AW-18355431983',
+  gtm: 'GTM-P7CCW56D',
+  laId: '3QeJ4R8Vu6YpAFhK',
+}
+let analyticsLoaded = false
 
 onMounted(() => {
   const saved = localStorage.getItem('consentGranted')
   if (saved === 'true' || saved === 'false') {
     consentGiven.value = true
     if (saved === 'true') {
-      updateConsent('granted')
+      enableAnalytics()
     }
   }
 })
@@ -35,48 +50,75 @@ onMounted(() => {
 function grantConsent() {
   localStorage.setItem('consentGranted', 'true')
   consentGiven.value = true
-  updateConsent('granted')
-  loadGtagScripts()
+  enableAnalytics()
 }
 
 function denyConsent() {
   localStorage.setItem('consentGranted', 'false')
   consentGiven.value = true
+  prepareGtag()
   updateConsent('denied')
+}
+
+function prepareGtag() {
+  window.dataLayer = window.dataLayer || []
+  window.gtag = window.gtag || function () {
+    window.dataLayer.push(arguments)
+  }
+  window.gtag('consent', 'default', {
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    ad_storage: 'denied',
+    analytics_storage: 'denied',
+    wait_for_update: 500,
+  })
 }
 
 function updateConsent(status) {
   if (typeof window.gtag === 'function') {
     window.gtag('consent', 'update', {
-      'ad_user_data': status,
-      'ad_personalization': status,
-      'ad_storage': status,
-      'analytics_storage': status
+      ad_user_data: status,
+      ad_personalization: status,
+      ad_storage: status,
+      analytics_storage: status,
     })
   }
 }
 
-function loadGtagScripts() {
-  const ga4 = 'G-TK58Z0WW8'
-  const aw = 'AW-18355431983'
+function appendScript(id, src, onload) {
+  if (document.getElementById(id)) {
+    onload?.()
+    return
+  }
 
-  var s1 = document.createElement('script')
-  s1.async = true
-  s1.src = 'https://www.googletagmanager.com/gtag/js?id=' + ga4
-  document.head.appendChild(s1)
+  const script = document.createElement('script')
+  script.id = id
+  script.async = true
+  script.src = src
+  if (onload) script.onload = onload
+  document.head.appendChild(script)
+}
 
-  var s2 = document.createElement('script')
-  s2.async = true
-  s2.src = 'https://www.googletagmanager.com/gtag/js?id=' + aw
-  document.head.appendChild(s2)
+function enableAnalytics() {
+  prepareGtag()
+  updateConsent('granted')
+  if (analyticsLoaded) return
+  analyticsLoaded = true
 
-  // Wait for scripts to load, then initialize
-  setTimeout(function() {
-    if (typeof window.gtag === 'function') {
-      window.gtag('config', ga4, { anonymize_ip: true })
-      window.gtag('config', aw, { anonymize_ip: true })
+  window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
+  appendScript('gtm-loader', `https://www.googletagmanager.com/gtm.js?id=${analytics.gtm}`)
+
+  appendScript('gtag-loader', `https://www.googletagmanager.com/gtag/js?id=${analytics.ga4}`, () => {
+    window.gtag('js', new Date())
+    window.gtag('config', analytics.ga4, { anonymize_ip: true })
+    window.gtag('config', analytics.ads, { anonymize_ip: true })
+  })
+
+  appendScript('la-collect-loader', 'https://sdk.51.la/js-sdk-pro.min.js', () => {
+    if (typeof window.LA !== 'undefined' && typeof window.LA.init === 'function') {
+      window.LA.init({ id: analytics.laId, ck: analytics.laId })
     }
-  }, 1000)
+  })
 }
 </script>
 
@@ -135,11 +177,21 @@ function loadGtagScripts() {
   font-weight: 600;
   cursor: pointer;
   border: none;
-  transition: opacity 0.2s;
+  transition: opacity 0.2s ease-out, transform 0.16s ease-out;
 }
 
 .consent-btn:hover {
   opacity: 0.85;
+}
+
+.consent-btn:active {
+  transform: scale(0.97);
+}
+
+.consent-btn:focus-visible,
+.consent-privacy a:focus-visible {
+  outline: 3px solid #0f3460;
+  outline-offset: 3px;
 }
 
 .consent-deny {
@@ -167,13 +219,21 @@ function loadGtagScripts() {
   text-decoration: underline;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .consent-btn {
+    transition: none;
+  }
+}
+
 @media (max-width: 480px) {
   .consent-banner {
     padding: 20px 16px;
   }
+
   .consent-buttons {
     flex-direction: column;
   }
+
   .consent-btn {
     width: 100%;
   }

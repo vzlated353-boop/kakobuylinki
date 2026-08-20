@@ -5,7 +5,7 @@ description: "Compare Nike Dunk and Air Force 1 on Kakobuy Linki. Explore design
 
 # Kakobuy Linki Nike Dunk vs Air Force 1: Complete Comparison Guide 2026
 
-<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow noopener noreferrer">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow noopener noreferrer" class="shopping-btn">Start shopping</a>
 
 
 <figure class="article-image">

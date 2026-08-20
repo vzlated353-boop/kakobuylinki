@@ -133,12 +133,12 @@ const sizingTips = [
 Whether you are a runner seeking performance, a sneakerhead chasing limited releases, or someone who just wants comfortable everyday footwear, this guide covers everything you need to know about buying shoes. We have tested hundreds of models across brands, analyzed materials and construction, and compiled real user feedback to help you make informed decisions.
 
 <div class="spreadsheet-cta">
-  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
+  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn" rel="noopener noreferrer">
     <span class="btn-icon"></span>
     <span>View Shoes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
-  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+  <a href="https://repsootd.com/" target="_blank" rel="nofollow noopener noreferrer" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Shoe Categories
@@ -238,7 +238,7 @@ Build on your shoe knowledge with these connected resources:
 **Sneaker-Specific Guides:**
 - [Kakobuy Sneakers Database](/blog/kakobuy-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
 - [Kakobuy Running Shoes Guide](/blog/kakobuy-running-shoes/) — Performance running shoe comparisons and technology breakdowns
-- [Kakobuy Basketball Shoes Guide](/blog/kakobuy-basketball/) — Basketball shoe batch comparisons and quality insights
+- [Kakobuy Basketball Shoes Guide](/blog/kakobuy-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
 
 **Quality & Sizing Resources:**
 - [Kakobuy QC Photos Tutorial](/blog/kakobuy-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping

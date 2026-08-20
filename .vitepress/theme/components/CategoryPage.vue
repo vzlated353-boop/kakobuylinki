@@ -42,19 +42,19 @@
       <div class="container">
         <h2>Product Collections</h2>
         <div class="collections-grid">
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>{{ frontmatter.collections[0].title || 'Collection 1' }}</h3>
             <p>{{ frontmatter.collections[0].description || 'Placeholder text' }}</p>
           </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>{{ frontmatter.collections[1].title || 'Collection 2' }}</h3>
             <p>{{ frontmatter.collections[1].description || 'Placeholder text' }}</p>
           </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>{{ frontmatter.collections[2].title || 'Collection 3' }}</h3>
             <p>{{ frontmatter.collections[2].description || 'Placeholder text' }}</p>
           </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>{{ frontmatter.collections[3].title || 'Collection 4' }}</h3>
             <p>{{ frontmatter.collections[3].description || 'Placeholder text' }}</p>
           </a>
@@ -67,7 +67,7 @@
       <div class="container">
         <h2>Popular Categories</h2>
         <div class="brands-grid">
-          <a v-for="brand in frontmatter.brands" :key="brand" :href="spreadsheetUrl" target="_blank" rel="nofollow" class="brand-card">{{ brand }}</a>
+          <a v-for="brand in frontmatter.brands" :key="brand" :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="brand-card">{{ brand }}</a>
         </div>
       </div>
     </section>
@@ -90,7 +90,7 @@
       <div class="container">
         <h2>Recommended Platforms</h2>
         <div class="platforms-grid">
-          <a v-for="platform in frontmatter.platforms" :key="platform.name" :href="platform.url" target="_blank" rel="nofollow" class="platform-card">
+          <a v-for="platform in frontmatter.platforms" :key="platform.name" :href="platform.url" target="_blank" rel="nofollow noopener noreferrer" class="platform-card">
             <h3>{{ platform.name }}</h3>
             <p>{{ platform.description }}</p>
           </a>

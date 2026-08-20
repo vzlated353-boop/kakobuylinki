@@ -5,7 +5,7 @@
       <div class="container">
           <h1>Kakobuy Spreadsheet</h1>
           <p>Discover 10,000+ Trending Fashion Finds With QC Photos, Verified Links & Updated Categories.</p>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="cta-button">Browse Spreadsheet</a>
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="cta-button">Browse Spreadsheet</a>
       </div>
     </section>
 
@@ -100,27 +100,27 @@
       <div class="container">
         <h2>Featured Collections</h2>
         <div class="collections-grid">
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>Best Sneakers</h3>
             <p>Discover the hottest sneaker releases and classic styles.</p>
           </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>Trending Hoodies</h3>
             <p>Explore oversized fits, heavyweight designs, and streetwear essentials.</p>
           </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>Summer Essentials</h3>
             <p>Lightweight t-shirts, shorts, and accessories for the warm season.</p>
           </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>Luxury Fashion</h3>
             <p>Find designer-inspired clothing, bags, and accessories.</p>
           </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>Budget Finds</h3>
             <p>High-quality fashion at unbeatable prices.</p>
           </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="collection-card">
             <h3>New Arrivals</h3>
             <p>Stay updated with the latest drops and fresh styles.</p>
           </a>

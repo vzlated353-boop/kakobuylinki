@@ -176,12 +176,12 @@ const brandOverview = [
 Hats are more than just accessories—they protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
 
 <div class="spreadsheet-cta">
-  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
+  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn" rel="noopener noreferrer">
     <span class="btn-icon"></span>
     <span>View Hats Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
-  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+  <a href="https://repsootd.com/" target="_blank" rel="nofollow noopener noreferrer" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Hat Categories

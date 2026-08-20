@@ -82,7 +82,7 @@ description: "Explore the [Brand] guide on Kakobuy Spreadsheet. Discover organiz
 
 # Kakobuy Spreadsheet [Brand] Guide 2026: Complete Resource for [Brand] Products
 
-<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="[spreadsheet-link]" target="_blank" rel="nofollow noopener noreferrer">Access Kakobuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow noopener noreferrer" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - Overview of [Brand] product categories available on Kakobuy Spreadsheet
@@ -131,7 +131,7 @@ description: "Explore the [Topic] guide on Kakobuy Spreadsheet. Discover organiz
 
 # Kakobuy Spreadsheet [Topic] Guide 2026: Complete Resource for [Topic]
 
-<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="[spreadsheet-link]" target="_blank" rel="nofollow noopener noreferrer">Access Kakobuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow noopener noreferrer" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - [5-6个文章要点]
@@ -173,7 +173,7 @@ description: "Explore the [Region] guide on Kakobuy Spreadsheet. Discover organi
 
 # Kakobuy Spreadsheet [Region] Guide 2026: Complete Resource for [Region] Users
 
-<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="[spreadsheet-link]" target="_blank" rel="nofollow noopener noreferrer">Access Kakobuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow noopener noreferrer" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - Overview of Kakobuy Spreadsheet resources for [Region] users
@@ -219,7 +219,7 @@ description: "Browse [category] products on Kakobuy Spreadsheet. Discover organi
 
 # [Category] on Kakobuy Spreadsheet 2026: Organized Product Directory
 
-<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="[spreadsheet-link]" target="_blank" rel="nofollow noopener noreferrer">Access Kakobuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow noopener noreferrer" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - Overview of [category] products available on Kakobuy Spreadsheet

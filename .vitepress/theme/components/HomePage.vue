@@ -17,11 +17,11 @@
         <div class="hero-cta-group">
           <div class="hero-cta-item">
             <span class="cta-label">Full Catalog</span>
-            <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow" class="cta-btn cta-spreadsheet">Access Spreadsheet</a>
+            <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow noopener noreferrer" class="cta-btn cta-spreadsheet">Access Spreadsheet</a>
           </div>
           <div class="hero-cta-item">
             <span class="cta-label">Fast Selection</span>
-            <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="cta-btn cta-shopping">Start Shopping</a>
+            <a href="https://repsootd.com/" target="_blank" rel="nofollow noopener noreferrer" class="cta-btn cta-shopping">Start Shopping</a>
           </div>
         </div>
       </div>
@@ -115,31 +115,31 @@
     <section class="faq-section">
       <div class="container">
         <h2 class="section-title">Frequently Asked Questions</h2>
-        <div class="faq-grid">
-          <div class="faq-item">
-            <h3>What is the fashion spreadsheet?</h3>
+        <div class="faq-list">
+          <details class="faq-item" open>
+            <summary>What is the fashion spreadsheet?</summary>
             <p>The fashion spreadsheet is a curated product directory that organizes thousands of men's fashion items into easy-to-browse categories. It includes pricing references, material details, and style information for sneakers, clothing, accessories, and more.</p>
-          </div>
-          <div class="faq-item">
-            <h3>How often are collections updated?</h3>
+          </details>
+          <details class="faq-item">
+            <summary>How often are collections updated?</summary>
             <p>Our collections are regularly updated with new arrivals, seasonal picks, and trending items. We review and refresh product listings to ensure accuracy and keep up with the latest fashion trends.</p>
-          </div>
-          <div class="faq-item">
-            <h3>How can I find products?</h3>
+          </details>
+          <details class="faq-item">
+            <summary>How can I find products?</summary>
             <p>Browse by category using the navigation above, or access the full spreadsheet catalog for detailed product listings. Each category page provides an overview with pricing references and key specifications.</p>
-          </div>
-          <div class="faq-item">
-            <h3>How do I check product details?</h3>
+          </details>
+          <details class="faq-item">
+            <summary>How do I check product details?</summary>
             <p>Each product listing includes standardized information: pricing references, material composition, available sizes, and design features. Use our sizing guides for fit recommendations across different brands and styles.</p>
-          </div>
-          <div class="faq-item">
-            <h3>How does shopping work?</h3>
+          </details>
+          <details class="faq-item">
+            <summary>How does shopping work?</summary>
             <p>Click "Start Shopping" to access curated fashion collections, or use the spreadsheet to browse the full catalog. All purchasing happens through external shopping resources with independent checkout.</p>
-          </div>
-          <div class="faq-item">
-            <h3>Do you support international users?</h3>
+          </details>
+          <details class="faq-item">
+            <summary>Do you support international users?</summary>
             <p>Yes. Our fashion directory serves users worldwide with shopping resources and shipping options for the US, UK, EU, Australia, Canada, and other regions. Check our regional guides for location-specific information.</p>
-          </div>
+          </details>
         </div>
       </div>
     </section>
@@ -530,7 +530,7 @@ const categories = siteConfig.categories
   background: #fff;
 }
 
-.faq-grid {
+.faq-list {
   max-width: 800px;
   margin: 0 auto;
   display: grid;
@@ -541,27 +541,56 @@ const categories = siteConfig.categories
   background: #fafafa;
   border: 1px solid #eee;
   border-radius: 12px;
-  padding: 24px 22px;
-  transition: all 0.3s ease;
+  overflow: hidden;
+  transition: border-color 0.2s ease-out, box-shadow 0.2s ease-out;
 }
 
-.faq-item:hover {
+.faq-item:hover,
+.faq-item:focus-within {
   box-shadow: 0 4px 16px rgba(0,0,0,0.06);
   border-color: #d4af37;
 }
 
-.faq-item h3 {
+.faq-item summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 20px 22px;
+  color: #1a1a1a;
+  cursor: pointer;
   font-size: 16px;
   font-weight: 700;
-  color: #1a1a1a;
-  margin-bottom: 10px;
+  list-style: none;
+}
+
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-item summary::after {
+  color: #8b0000;
+  content: '+';
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.faq-item[open] summary::after {
+  content: '−';
+}
+
+.faq-item summary:focus-visible {
+  outline: 3px solid #0f3460;
+  outline-offset: -3px;
 }
 
 .faq-item p {
-  font-size: 14px;
-  color: #555;
-  line-height: 1.7;
+  padding: 0 22px 22px;
   margin: 0;
+  color: #555;
+  font-size: 14px;
+  line-height: 1.7;
 }
 
 /* ===== Blog / Featured Articles ===== */
@@ -617,6 +646,32 @@ const categories = siteConfig.categories
   color: #8b0000;
   background: rgba(139, 0, 0, 0.05);
   padding-left: 14px;
+}
+
+/* ===== Keyboard and motion accessibility ===== */
+.cta-btn:focus-visible,
+.category-card:focus-visible,
+.article-nav-list a:focus-visible {
+  outline: 3px solid #0f3460;
+  outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cta-btn,
+  .category-card,
+  .step-card,
+  .why-card,
+  .faq-item,
+  .article-nav-list a {
+    transition: none;
+  }
+
+  .cta-btn:hover,
+  .category-card:hover,
+  .step-card:hover,
+  .why-card:hover {
+    transform: none;
+  }
 }
 
 /* ===== Responsive ===== */

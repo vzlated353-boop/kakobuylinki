@@ -5,7 +5,7 @@
       <div class="nav-container"></div>
     </div>
 
-    <!-- Primary Category Filter (Ò»¼¶·ÖÀà) -->
+    <!-- Primary Category Filter (Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½) -->
     <div class="category-filter primary-filter">
       <div class="filter-container">
         <button 
@@ -20,7 +20,7 @@
       </div>
     </div>
 
-    <!-- Secondary Category Filter (¶þ¼¶·ÖÀà) -->
+    <!-- Secondary Category Filter (ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½) -->
     <div v-if="selectedPrimary" class="category-filter secondary-filter">
       <div class="filter-container">
         <button 
@@ -58,7 +58,7 @@
             <p class="product-name">{{ product.name }}</p>
             <div class="product-footer">
               <p class="product-price">{{ product.price }}</p>
-              <a :href="product.link" target="_blank" class="buy-btn" @click="trackClick(product)">BUY</a>
+              <a :href="product.link" target="_blank" class="buy-btn" @click="trackClick(product)" rel="noopener noreferrer">BUY</a>
             </div>
           </div>
         </div>
@@ -70,27 +70,27 @@
 <script setup>
 import { ref, computed, onMounted } from 'vue'
 
-// ·ÖÀà½á¹¹¶¨Òå
+// ï¿½ï¿½ï¿½ï¿½á¹¹ï¿½ï¿½ï¿½ï¿½
 const categoryStructure = {
   'Clothing': ['T-shirt', 'Hoodie', 'Sweatshirt', 'Sweater', 'Down Jacket', 'Shorts Set', 'Jacket', 'Waistcoat', 'Down Vest', 'Tracksuit', 'ZIP Sweater', 'Jersey', 'Suit'],
   'Pants': ['Shorts', 'Underwear', 'Jeans', 'Sweatpants', 'Pants'],
   'Shoes': ['Nike Dunk', 'Crocs Shoes', 'ALEXANDER MCQUEE', 'Jordan 4', 'Nike Air Max 95', 'Nike Football Boots', 'Dior B27', 'Nike Max Plus TN', 'Dior B30', 'Off-white', 'Golden Goose', 'Adidas', 'Balenciaga', 'Asics', 'Nike Air Max 97', 'Lanvin', 'Burberry', 'Dunk SB x Off-white', 'Dior B22', 'Dior B23', 'NB 9060', 'Yeezy 350', 'Timberland', 'Bape', 'Nike Shox TL', 'Yeezy Slippers', 'Nike Air Max 95 Corteiz', 'Nike Skepta\'s Tailwind', 'Valentino', 'Nike AF1 Low \'07'],
-  'Watches': ['Rolex Watches', 'Cartier Watches', 'Audemars Piguet Watches', 'Tissot Watches', 'S9¨CS10 Ultra2 Watches'],
+  'Watches': ['Rolex Watches', 'Cartier Watches', 'Audemars Piguet Watches', 'Tissot Watches', 'S9ï¿½CS10 Ultra2 Watches'],
   'Accessories': ['Belt', 'Wallet', 'Cap', 'Perfume', 'Bag', 'Glasses', 'Hat', 'Phone Case', 'Bracelet', 'Socks', 'Necklace', 'Scarf', 'Beanie', 'Headphones', 'Backpack', 'Mask', 'Sound Equipment', 'Travel Bag', 'Balaclava']
 }
 
-// ÏìÓ¦Ê½×´Ì¬
+// ï¿½ï¿½Ó¦Ê½×´Ì¬
 const selectedPrimary = ref('Clothing')
 const selectedSecondary = ref(null)
 
-// ¼ÆËãÊôÐÔ
+// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 const primaryCategories = computed(() => Object.keys(categoryStructure))
 
 const secondaryCategories = computed(() => {
   return selectedPrimary.value ? categoryStructure[selectedPrimary.value] : []
 })
 
-// Ê¾ÀýÉÌÆ·Êý¾Ý£¨¿ò¼Ü£©
+// Ê¾ï¿½ï¿½ï¿½ï¿½Æ·ï¿½ï¿½ï¿½Ý£ï¿½ï¿½ï¿½Ü£ï¿½
 const products = [
   {
     id: 7572836729,
@@ -194,7 +194,7 @@ const products = [
   }
 ]
 
-// ¹ýÂËºóµÄÉÌÆ·
+// ï¿½ï¿½ï¿½Ëºï¿½ï¿½ï¿½ï¿½Æ·
 const filteredProducts = computed(() => {
   return products.filter(product => {
     const matchesPrimary = product.primaryCategory === selectedPrimary.value
@@ -203,10 +203,10 @@ const filteredProducts = computed(() => {
   })
 })
 
-// ·½·¨
+// ï¿½ï¿½ï¿½ï¿½
 function selectPrimaryCategory(category) {
   selectedPrimary.value = category
-  selectedSecondary.value = null // ÖØÖÃ¶þ¼¶·ÖÀà
+  selectedSecondary.value = null // ï¿½ï¿½ï¿½Ã¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 }
 
 function selectSecondaryCategory(subcategory) {

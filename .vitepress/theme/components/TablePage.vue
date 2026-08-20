@@ -49,7 +49,7 @@
             <td>{{ row.price }}</td>
             <td>{{ row.batch }}</td>
             <td>
-              <a v-if="row.link" :href="row.link" target="_blank" class="table-link">View</a>
+              <a v-if="row.link" :href="row.link" target="_blank" class="table-link" rel="noopener noreferrer">View</a>
               <span v-else class="table-link-disabled">N/A</span>
             </td>
           </tr>

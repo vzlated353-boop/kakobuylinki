@@ -15,7 +15,7 @@
         </a>
       </div>
 
-      <a :href="links.spreadsheet" target="_blank" class="nav-cta">Spreadsheet</a>
+      <a :href="links.spreadsheet" target="_blank" class="nav-cta" rel="noopener noreferrer">Spreadsheet</a>
     </div>
   </nav>
 </template>

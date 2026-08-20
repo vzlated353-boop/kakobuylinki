@@ -155,12 +155,12 @@ const brandOverview = [
 Clothing is more than just covering your body—it is about expressing yourself, feeling comfortable, and making smart purchasing decisions. This guide breaks down everything from fabric weights to fit profiles, helping you choose pieces that last and look great.
 
 <div class="spreadsheet-cta">
-  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
+  <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn" rel="noopener noreferrer">
     <span class="btn-icon"></span>
     <span>View Clothes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
-  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+  <a href="https://repsootd.com/" target="_blank" rel="nofollow noopener noreferrer" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Clothing Categories

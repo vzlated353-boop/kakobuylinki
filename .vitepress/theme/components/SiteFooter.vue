@@ -2,7 +2,7 @@
   <footer class="site-footer">
     <p class="site-footer-line">
       Kakobuy Spreadsheet - Your Fashion Discovery Resource |
-      <a href="https://Kakobuylinki.com/sitemap.xml" target="_blank" rel="noopener">Sitemap</a>
+      <a href="https://Kakobuylinki.com/sitemap.xml" target="_blank" rel="noopener noreferrer">Sitemap</a>
     </p>
     <p class="site-footer-line">
       Copyright &copy; 2026 bestKakobuy |

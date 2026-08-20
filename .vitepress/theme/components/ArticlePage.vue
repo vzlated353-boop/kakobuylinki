@@ -65,7 +65,7 @@
         <div class="article-cta">
           <h2>Ready to explore?</h2>
           <p>Check out our curated collections and find your next favorite product.</p>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="cta-button">Browse Products</a>
+          <a :href="spreadsheetUrl" target="_blank" rel="nofollow noopener noreferrer" class="cta-button">Browse Products</a>
         </div>
       </div>
     </section>
