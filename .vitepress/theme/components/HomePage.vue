@@ -149,58 +149,12 @@
       <div class="container">
         <h2 class="section-title">Featured Guides</h2>
         <div class="article-nav-grid">
-          <div class="article-nav-group">
-            <h3 class="group-title">Getting Started</h3>
+          <div v-for="group in visibleGuideGroups" :key="group.title" class="article-nav-group">
+            <h3 class="group-title">{{ group.title }}</h3>
             <ul class="article-nav-list">
-              <li><a href="/blog/kakobuy-for-beginners/">Kakobuy Spreadsheet for Beginners</a></li>
-              <li><a href="/blog/kakobuy-how-to-use/">How to Use the Spreadsheet</a></li>
-              <li><a href="/blog/kakobuy-shipping-guide/">Shipping Guide</a></li>
-              <li><a href="/blog/kakobuy-payment-guide/">Payment Guide</a></li>
-            </ul>
-          </div>
-          <div class="article-nav-group">
-            <h3 class="group-title">Top Categories</h3>
-            <ul class="article-nav-list">
-              <li><a href="/blog/kakobuy-sneakers/">Sneakers Guide</a></li>
-              <li><a href="/blog/kakobuy-hoodies/">Hoodies Guide</a></li>
-              <li><a href="/blog/kakobuy-t-shirts/">T-Shirts Guide</a></li>
-              <li><a href="/blog/kakobuy-bags/">Bags Guide</a></li>
-            </ul>
-          </div>
-          <div class="article-nav-group">
-            <h3 class="group-title">Style Guides</h3>
-            <ul class="article-nav-list">
-              <li><a href="/blog/kakobuy-streetwear/">Streetwear Guide</a></li>
-              <li><a href="/blog/kakobuy-casual/">Casual Wear Guide</a></li>
-              <li><a href="/blog/kakobuy-winter/">Winter Clothing Guide</a></li>
-              <li><a href="/blog/kakobuy-summer/">Summer Essentials Guide</a></li>
-            </ul>
-          </div>
-          <div class="article-nav-group">
-            <h3 class="group-title">Save Money</h3>
-            <ul class="article-nav-list">
-              <li><a href="/blog/kakobuy-coupon/">Coupon Codes &amp; Discounts</a></li>
-              <li><a href="/blog/kakobuy-best-deals/">Best Deals &amp; Seasonal Sales</a></li>
-              <li><a href="/blog/kakobuy-cheap-sneakers/">Budget Sneaker Picks</a></li>
-              <li><a href="/blog/kakobuy-save-money/">Money-Saving Tips</a></li>
-            </ul>
-          </div>
-          <div class="article-nav-group">
-            <h3 class="group-title">Trust &amp; Safety</h3>
-            <ul class="article-nav-list">
-              <li><a href="/is-Kakobuy-legit/">Is Kakobuy Legit?</a></li>
-              <li><a href="/blog/kakobuy-legit-check/">Legit Check Guide</a></li>
-              <li><a href="/blog/kakobuy-qc-photos/">QC Photos Guide</a></li>
-              <li><a href="/blog/kakobuy-reviews/">User Reviews</a></li>
-            </ul>
-          </div>
-          <div class="article-nav-group">
-            <h3 class="group-title">Regional Guides</h3>
-            <ul class="article-nav-list">
-              <li><a href="/blog/kakobuy-uk/">UK Shipping Guide</a></li>
-              <li><a href="/blog/kakobuy-canada/">Canada Guide</a></li>
-              <li><a href="/blog/kakobuy-australia/">Australia Guide</a></li>
-              <li><a href="/blog/kakobuy-europe/">Europe Guide</a></li>
+              <li v-for="article in group.articles" :key="article.link">
+                <a :href="article.link">{{ article.title }}</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -210,9 +164,58 @@
 </template>
 
 <script setup>
+import { computed } from 'vue'
 import { siteConfig } from '../site-config.js'
+import { indexableBlogPaths } from '../../indexing-policy.mjs'
 
 const categories = siteConfig.categories
+const guideGroups = [
+  { title: 'Getting Started', articles: [
+    { title: 'Kakobuy Spreadsheet for Beginners', link: '/blog/kakobuy-for-beginners/' },
+    { title: 'How to Use the Spreadsheet', link: '/blog/kakobuy-how-to-use/' },
+    { title: 'Shipping Guide', link: '/blog/kakobuy-shipping-guide/' },
+    { title: 'Payment Guide', link: '/blog/kakobuy-payment-guide/' },
+  ] },
+  { title: 'Top Categories', articles: [
+    { title: 'Sneakers Guide', link: '/blog/kakobuy-sneakers/' },
+    { title: 'Hoodies Guide', link: '/blog/kakobuy-hoodies/' },
+    { title: 'T-Shirts Guide', link: '/blog/kakobuy-t-shirts/' },
+    { title: 'Bags Guide', link: '/blog/kakobuy-bags/' },
+  ] },
+  { title: 'Style Guides', articles: [
+    { title: 'Streetwear Guide', link: '/blog/kakobuy-streetwear/' },
+    { title: 'Casual Wear Guide', link: '/blog/kakobuy-casual/' },
+    { title: 'Winter Clothing Guide', link: '/blog/kakobuy-winter/' },
+    { title: 'Summer Essentials Guide', link: '/blog/kakobuy-summer/' },
+  ] },
+  { title: 'Save Money', articles: [
+    { title: 'Coupon Codes & Discounts', link: '/blog/kakobuy-coupon/' },
+    { title: 'Best Deals & Seasonal Sales', link: '/blog/kakobuy-best-deals/' },
+    { title: 'Budget Sneaker Picks', link: '/blog/kakobuy-cheap-sneakers/' },
+    { title: 'Money-Saving Tips', link: '/blog/kakobuy-save-money/' },
+  ] },
+  { title: 'Trust & Safety', articles: [
+    { title: 'Is Kakobuy Legit?', link: '/is-Kakobuy-legit/' },
+    { title: 'Legit Check Guide', link: '/blog/kakobuy-legit-check/' },
+    { title: 'QC Photos Guide', link: '/blog/kakobuy-qc-photos/' },
+    { title: 'User Reviews', link: '/blog/kakobuy-reviews/' },
+  ] },
+  { title: 'Regional Guides', articles: [
+    { title: 'UK Shipping Guide', link: '/blog/kakobuy-uk/' },
+    { title: 'Canada Guide', link: '/blog/kakobuy-canada/' },
+    { title: 'Australia Guide', link: '/blog/kakobuy-australia/' },
+    { title: 'Europe Guide', link: '/blog/kakobuy-europe/' },
+  ] },
+]
+
+function isIndexableGuide(article) {
+  if (!article.link.startsWith('/blog/')) return true
+  return indexableBlogPaths.has(article.link.replace(/\/$/, ''))
+}
+
+const visibleGuideGroups = computed(() => guideGroups
+  .map((group) => ({ ...group, articles: group.articles.filter(isIndexableGuide) }))
+  .filter((group) => group.articles.length > 0))
 </script>
 
 <style scoped>

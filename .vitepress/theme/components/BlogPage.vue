@@ -9,7 +9,7 @@
         </div>
 
         <div
-          v-for="series in articleSeries"
+          v-for="series in visibleArticleSeries"
           :key="series.name"
           class="series-section"
         >
@@ -33,7 +33,7 @@
       <aside class="blog-sidebar">
         <h2 class="sidebar-title">Recommended</h2>
         <div
-          v-for="series in recommendedSeries"
+          v-for="series in visibleRecommendedSeries"
           :key="series.name"
           class="sidebar-group"
         >
@@ -84,6 +84,9 @@
 </template>
 
 <script setup>
+import { computed } from 'vue'
+import { indexableBlogPaths } from '../../indexing-policy.mjs'
+
 const articleSeries = [
   {
     "name": "Getting Started",
@@ -3176,6 +3179,20 @@ const recommendedSeries = [
     ],
   },
 ]
+
+function isIndexableArticle(article) {
+  if (!article.link.startsWith('/blog/')) return true
+  return indexableBlogPaths.has(article.link.replace(/\/$/, ''))
+}
+
+function filterSeries(series) {
+  return series
+    .map((group) => ({ ...group, articles: group.articles.filter(isIndexableArticle) }))
+    .filter((group) => group.articles.length > 0)
+}
+
+const visibleArticleSeries = computed(() => filterSeries(articleSeries))
+const visibleRecommendedSeries = computed(() => filterSeries(recommendedSeries))
 </script>
 
 <style scoped>

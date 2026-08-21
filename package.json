@@ -8,7 +8,11 @@
     "build": "vitepress build",
     "preview": "vitepress preview",
     "check:links": "node scripts/verify-internal-links.js",
-    "harden:external-links": "node scripts/harden-external-links.js"
+    "harden:external-links": "node scripts/harden-external-links.js",
+    "audit:content": "node scripts/audit-content.mjs",
+    "clean:blog-outros": "node scripts/remove-generic-blog-outros.mjs",
+    "generate:indexing-policy": "node scripts/generate-indexing-policy.mjs",
+    "verify:indexing-policy": "node scripts/verify-indexing-policy.mjs"
   },
   "devDependencies": {
     "sharp": "^0.35.3",

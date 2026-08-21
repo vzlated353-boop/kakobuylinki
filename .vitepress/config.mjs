@@ -1,7 +1,28 @@
 import { defineConfig } from 'vitepress'
 import { siteConfig } from './theme/site-config.js'
+import { indexableBlogPaths, missingBlogPaths, noindexRelativePaths } from './indexing-policy.mjs'
 
 const { seo, brand } = siteConfig
+
+function pathFromRelativePath(relativePath) {
+  const path = relativePath.replace(/\.md$/, '').replace(/index$/, '')
+  return `/${path}`.replace(/\/{2,}/g, '/').replace(/\/$/, '') || '/'
+}
+
+function normalizedPath(urlOrPath) {
+  const pathname = /^https?:\/\//.test(urlOrPath)
+    ? new URL(urlOrPath).pathname
+    : urlOrPath
+  return `/${pathname}`.replace(/\/{2,}/g, '/').replace(/\/index\/?$/, '').replace(/\/$/, '') || '/'
+}
+
+const noindexPaths = new Set([...noindexRelativePaths].map(pathFromRelativePath))
+const retiredBlogRedirects = new Map([
+  ['/blog/kakobuy-casual', '/blog/kakobuy-streetwear/'],
+  ['/blog/kakobuy-spreadsheet', '/'],
+  ['/blog/kakobuy-summer', '/blog/kakobuy-summer-clothes/'],
+  ['/blog/kakobuy-winter', '/blog/kakobuy-winter-clothes/'],
+])
 
 export default defineConfig({
   vite: {
@@ -108,24 +129,45 @@ export default defineConfig({
 
   sitemap: {
     hostname: seo.hostname,
+    transformItems: (items) => items.filter((item) => !noindexPaths.has(normalizedPath(item.url))),
   },
 
+  // VitePress validates raw Markdown links before transformHtml retires known missing links.
+  // The dedicated coverage policy and production-output checks below remain the source of truth for blog link quality.
   ignoreDeadLinks: [
     /^\/blog\//,
     /^http:\/\/localhost/,
     /^\/Kakobuy-/,
     /^\/is-/,
+    (link) => missingBlogPaths.has(normalizedPath(link)),
   ],
 
   cleanUrls: 'with-subfolders',
 
-  // Generate canonical URLs for each page
+  // Retire links to blog URLs that have no source page. The anchor text remains readable, but it is no longer emitted as a crawlable 404 link.
+  transformHtml(code) {
+    return code.replace(/<a\b([^>]*?)href=(["'])([^"']+)\2([^>]*)>([\s\S]*?)<\/a>/gi, (match, before, quote, href, after, content) => {
+      const missingPath = normalizedPath(href)
+      if (!missingBlogPaths.has(missingPath)) return match
+      const redirectTarget = retiredBlogRedirects.get(missingPath)
+      if (redirectTarget) return `<a${before}href="${redirectTarget}"${after}>${content}</a>`
+      return `<span class="retired-link" data-retired-url="${href}">${content}</span>`
+    })
+  },
+
+  // Generate canonical URLs and protect low-value pages from indexing until rewritten.
   transformPageData(pageData) {
-    const canonicalUrl = `${seo.hostname}/${pageData.relativePath.replace(/\.md$/, '').replace(/index$/, '')}`
+    const pagePath = pathFromRelativePath(pageData.relativePath)
+    const canonicalUrl = `${seo.hostname}${pagePath}`
     pageData.frontmatter.head = pageData.frontmatter.head || []
     pageData.frontmatter.head.push(
       ['link', { rel: 'canonical', href: canonicalUrl }]
     )
+    if (noindexRelativePaths.has(pageData.relativePath)) {
+      pageData.frontmatter.head.push(
+        ['meta', { name: 'robots', content: 'noindex,follow' }]
+      )
+    }
     return pageData
   },
 
