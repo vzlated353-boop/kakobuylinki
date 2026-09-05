@@ -44,6 +44,13 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'preload', as: 'image', href: '/images/hero-1200w.webp', fetchpriority: 'high' }],
     ['link', { rel: 'preconnect', href: 'https://www.googletagmanager.com', crossorigin: '' }],
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-N9BCQ2XS4W' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-N9BCQ2XS4W');
+    `],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: seo.title }],
     ['meta', { property: 'og:description', content: seo.description }],

@@ -240,12 +240,6 @@ function trackClick(product) {
 }
 
 onMounted(() => {
-  // Load GA4 Script
-  const ga4Script = document.createElement('script')
-  ga4Script.async = true
-  ga4Script.src = 'https://www.googletagmanager.com/gtag/js?id=G-N9BCQ2XS4W'
-  document.head.appendChild(ga4Script)
-
   // Load 51.la Script
   const la51Script = document.createElement('script')
   la51Script.charset = 'UTF-8'

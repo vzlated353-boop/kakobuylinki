@@ -108,12 +108,6 @@ function enableAnalytics() {
   window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
   appendScript('gtm-loader', `https://www.googletagmanager.com/gtm.js?id=${analytics.gtm}`)
 
-  appendScript('gtag-loader', `https://www.googletagmanager.com/gtag/js?id=${analytics.ga4}`, () => {
-    window.gtag('js', new Date())
-    window.gtag('config', analytics.ga4, { anonymize_ip: true })
-    window.gtag('config', analytics.ads, { anonymize_ip: true })
-  })
-
   appendScript('la-collect-loader', 'https://sdk.51.la/js-sdk-pro.min.js', () => {
     if (typeof window.LA !== 'undefined' && typeof window.LA.init === 'function') {
       window.LA.init({ id: analytics.laId, ck: analytics.laId })
