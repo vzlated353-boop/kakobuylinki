@@ -30,7 +30,7 @@ import { ref, onMounted } from 'vue'
 
 const consentGiven = ref(false)
 const analytics = {
-  ga4: 'G-XTJTTBZTPM',
+  ga4: 'G-N9BCQ2XS4W',
   ads: 'AW-18355431983',
   gtm: 'GTM-P7CCW56D',
   laId: '3QeJ4R8Vu6YpAFhK',
